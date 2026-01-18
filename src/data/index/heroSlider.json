@@ -1,0 +1,34 @@
+[
+  {
+    "id": "heroslider1",
+    "heading": "Explore Our Wide Range of Generator Sets | 5-3000kVA",
+    "description": "Our robust design, adaptability to various industries, and energy efficiency make us the ultimate solution for uninterrupted power supply. Choose Yihua and experience unparalleled performance, quality, and peace of mind.",
+    "buttonName": "Explore More",
+    "buttonLink": "",
+    "image": "/images/index/hero-imageslider1.jpg"
+  },
+  {
+    "id": "heroslider2",
+    "heading": "Powering Industries, Empowering Success | The Power Behind Successful Industries",
+    "description": "Discover versatile and dependable power solutions tailored to meet the unique demands of Mining, Construction, Manufacturing, Power Plants, Data Centers, Telecom, Healthcare, and Utilities.",
+    "buttonName": "Discover More",
+    "buttonLink": "",
+    "image": "/images/index/hero-imageslider2.jpg"
+  },
+  {
+    "id": "heroslider3",
+    "heading": "Engineering Trust, Delivering Excellence | 30 Years of Expertise",
+    "description": "Journey into Yihua: Uncover our Legacy, Values, and Pursuit of Excellence.",
+    "buttonName": "Learn More",
+    "buttonLink": "",
+    "image": "/images/index/hero-imageslider3.jpg"
+  },
+  {
+    "id": "heroslider4",
+    "heading": "Connect with Yihua | Your Reliable Power Partner",
+    "description": "Reach out to us today and experience unparalleled customer service, tailored power solutions, and peace of mind for all your energy needs.",
+    "buttonName": "Help & Contact",
+    "buttonLink": "",
+    "image": "/images/index/hero-imageslider4.jpg"
+  }
+]

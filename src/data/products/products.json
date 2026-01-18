@@ -1,0 +1,88 @@
+[
+  {
+    "id": "product1",
+    "name": "Generator Set",
+    "type": [
+      {
+        "id": "product1type1",
+        "name": "Open Type",
+        "image-banner": "/images/products/generator-set/open-type/opentype-banner.jpg",
+        "description": "Open type generator sets are designed for easy access and maintenance. These generator sets consist of an engine, alternator, control panel, and a base frame, all assembled in an open configuration without a protective enclosure or canopy.\n\n \n\nAdvantages of Open Type Generator Sets:\n· Enhanced Accessibility: The open design provides easy access to all components, making maintenance and repair tasks more convenient and efficient.\n· Flexibility in Customization: Open gensets can be customized to meet specific project requirements, such as integrating additional features or tailoring the control system.\n· Cost-Effective: Without the need for a protective enclosure, open gensets often come at a lower initial cost compared to enclosed or containerized generator sets.\n· Cooling Efficiency: The open configuration ensures better airflow and cooling, resulting in improved performance and efficiency.\n\n \n\nOpen type generator sets find applications in a wide range of industries, including agriculture, construction, manufacturing, and mining, where reliable power supply and ease of maintenance are essential. They are an ideal choice for customers seeking a flexible, cost-effective, and accessible power generation solution.",
+        "opentype-type": [
+          {
+            "id": "product1type1subtype1",
+            "category": "Cummins",
+            "name": "Cummins",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-cummins.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-cummins1.png",
+              "/images/products/generator-set/open-type/image-products/imageproduct-cummins2.png",
+              "/images/products/generator-set/open-type/image-products/imageproduct-cummins3.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-cummins4.jpg"
+            ],
+            "description": "Cummins Inc. is a leading American multinational corporation established in 1919 by Clessie Cummins and William Glanton Irwin. With a focus on designing, manufacturing, and distributing innovative engines, filtration, and power generation products, Cummins has become a global powerhouse in the industry",
+            "keywords": ["Cummins", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct"],
+            "cummins-type": [
+              {
+                "id": "product1type1subtype1subtype1",
+                "name": "50Hz",
+                "cummins50HZdescription1": "● Cummins Inc. is a leading American multinational corporation established in 1919 by Clessie Cummins and William Glanton Irwin. With a focus on designing, manufacturing, and distributing innovative engines, filtration, and power generation products, Cummins has become a global powerhouse in the industry.\n● Yihua, as the official OEM factory of Cummins in China, has established a strong collaboration with Cummins for decades.\n● With Yihua's commitment to quality and reliability, combined with Cummins' reputable engine technology, these diesel generator sets are an excellent choice for a wide range of industries, including construction, telecommunications, and manufacturing, among others. Trust Yihua and Cummins to deliver power solutions that exceed expectations.",
+                "cummins50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-cummins.jpg",
+                "cummins50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● The generator set can start-up at full load in less than 12 seconds\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards"
+              },
+              {
+                "id": "product1type1subtype1subtype2",
+                "name": "60Hz",
+                "cummins60HZdescription1": "● Cummins Inc. is a leading American multinational corporation established in 1919 by Clessie Cummins and William Glanton Irwin. With a focus on designing, manufacturing, and distributing innovative engines, filtration, and power generation products, Cummins has become a global powerhouse in the industry.\n● Yihua, as the official OEM factory of Cummins in China, has established a strong collaboration with Cummins for decades.\n● With Yihua's commitment to quality and reliability, combined with Cummins' reputable engine technology, these diesel generator sets are an excellent choice for a wide range of industries, including construction, telecommunications, and manufacturing, among others. Trust Yihua and Cummins to deliver power solutions that exceed expectations.\n\n",
+                "cummins60HZimage": "/images/products/generator-set/open-type/image-products/image60HZ-cummins.jpg",
+                "cummins60HZdescription2": "●The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● The generator set designed according to the international safety standards"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype2",
+            "category": "Perkins",
+            "name": "Perkins",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-perkins.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-perkins1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-perkins2.jpg"
+            ],
+            "description": "Perkins Engines Company Limited, a subsidiary of Caterpillar Inc., is a British-based manufacturer established in 1932, specializing in the design and production of high-quality diesel and gas engines. Perkins has become a world-renowned engine provider with a focus on innovation, reliability, and efficiency",
+            "keywords": ["Perkins", "Brushless Alternator", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct"],
+            "cummins-type": [
+              {
+                "id": "product1type1subtype2subtype1",
+                "name": "60Hz",
+                "perkins60HZdescription1": "● As a leading diesel generator set manufacturer in China, Yihua has forged a solid partnership with Perkins, the distinguished British engine producer, to deliver high-performance generator sets to the worldwide market.\n● Different power solutions can be designed and customized according to customer requirements\n● Yihua's dedication to quality and innovation, coupled with Perkins' renowned engine technology, just choose Yihua for dependable and efficient power solutions that consistently surpass industry standards.",
+                "perkins60HZimage": "/images/products/generator-set/open-type/image-products/image60HZ-perkins.jpg",
+                "perkins60HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● The generator set designed according to the international safety standards"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype3",
+            "category": "Fawde",
+            "name": "Fawde",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-faw.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-fawde1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-fawde2.jpg"
+            ],
+            "description": "Fawde is a reputable Chinese engine brand known for its reliable and versatile diesel engines. Fawde is part of FAW Jiefang, a subsidiary of FAW Group, one of the \"Big Four\" Chinese automobile manufacturers. Fawde engines are widely used in various applications such as power generation, water pumps, forklifts, farm",
+            "keywords": ["FAW", "Fawde", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "cummins-type": [
+              {
+                "id": "product1type1subtype3subtype1",
+                "name": "50Hz",
+                "fawde50HZdescription1": "● Fawde is a reputable Chinese engine brand known for its reliable and versatile diesel engines. Fawde is part of FAW Jiefang, a subsidiary of FAW Group, one of the \"Big Four\" Chinese automobile manufacturers. Fawde engines are widely used in various applications such as power generation, water pumps, forklifts, farm equipment, and trucks. The company's history dates back to 1943, and it became part of the FAW Group in 1992. Since then, Fawde has continued to expand and produce high-quality diesel engines, with an annual production capacity of around 150,000 units.\n\n● At Yihua, we take pride in our collaboration with Fawde to deliver top-notch diesel generator sets to customers worldwide. Our partnership has been thriving, with Yihua manufacturing over 6,000 Fawde engine-powered generator sets annually. With a proven track record of success and a shared commitment to quality, Yihua and Fawde continue to drive innovation and performance in the power generation market. Trust Yihua and Fawde to exceed your expectations and provide superior power solutions that consistently outperform industry standards.\n",
+                "fawde50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-fawde.jpg",
+                "fawde50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
