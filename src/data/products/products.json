@@ -50,7 +50,7 @@
             ],
             "description": "Perkins Engines Company Limited, a subsidiary of Caterpillar Inc., is a British-based manufacturer established in 1932, specializing in the design and production of high-quality diesel and gas engines. Perkins has become a world-renowned engine provider with a focus on innovation, reliability, and efficiency",
             "keywords": ["Perkins", "Brushless Alternator", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct"],
-            "cummins-type": [
+            "perkins-type": [
               {
                 "id": "product1type1subtype2subtype1",
                 "name": "60Hz",
@@ -71,13 +71,57 @@
             ],
             "description": "Fawde is a reputable Chinese engine brand known for its reliable and versatile diesel engines. Fawde is part of FAW Jiefang, a subsidiary of FAW Group, one of the \"Big Four\" Chinese automobile manufacturers. Fawde engines are widely used in various applications such as power generation, water pumps, forklifts, farm",
             "keywords": ["FAW", "Fawde", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
-            "cummins-type": [
+            "fawde-type": [
               {
                 "id": "product1type1subtype3subtype1",
                 "name": "50Hz",
                 "fawde50HZdescription1": "● Fawde is a reputable Chinese engine brand known for its reliable and versatile diesel engines. Fawde is part of FAW Jiefang, a subsidiary of FAW Group, one of the \"Big Four\" Chinese automobile manufacturers. Fawde engines are widely used in various applications such as power generation, water pumps, forklifts, farm equipment, and trucks. The company's history dates back to 1943, and it became part of the FAW Group in 1992. Since then, Fawde has continued to expand and produce high-quality diesel engines, with an annual production capacity of around 150,000 units.\n\n● At Yihua, we take pride in our collaboration with Fawde to deliver top-notch diesel generator sets to customers worldwide. Our partnership has been thriving, with Yihua manufacturing over 6,000 Fawde engine-powered generator sets annually. With a proven track record of success and a shared commitment to quality, Yihua and Fawde continue to drive innovation and performance in the power generation market. Trust Yihua and Fawde to exceed your expectations and provide superior power solutions that consistently outperform industry standards.\n",
                 "fawde50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-fawde.jpg",
                 "fawde50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype4",
+            "category": "Weichai",
+            "name": "Weichai",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-weichai.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-weichai1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-weichai2.jpg"
+            ],
+            "description": "Weichai is a well-established Chinese engine company founded in 1946. With its wide range of products, including diesel and natural gas engines, Weichai has made a name for itself both within China and globally. The company's commitment to research, quality, and sustainability has allowe",
+            "keywords": ["Weichai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "weichai-type": [
+              {
+                "id": "product1type1subtype4subtype1",
+                "name": "50Hz",
+                "weichai50HZdescription1": "● Weichai is a well-established Chinese engine company founded in 1946. With its wide range of products, including diesel and natural gas engines, Weichai has made a name for itself both within China and globally. The company's commitment to research, quality, and sustainability has allowed it to thrive in various industries, such as heavy-duty vehicles, construction machinery, and power generation equipment.\n\n● As a tier-1 diesel generator set manufacturer in China, Yihua has joined forces with Weichai, a leading engine producer, to offer high-performance generator sets to the global market.\n\n● Choose Yihua and Weichai for a partnership that prioritizes your individual needs and delivers superior, customized power solutions to drive your success.",
+                "weichai50HZimage1": "/images/products/generator-set/open-type/image-products/image50HZ-weichai1.jpg",
+                "weichai50HZimage2": "/images/products/generator-set/open-type/image-products/image50HZ-weichai2.jpg",
+                "weichai50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype4",
+            "category": "Yuchai",
+            "name": "Yuchai",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-yuchai.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-yuchai1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-yuchai2.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-yuchai3.jpg"
+            ],
+            "description": "Yuchai, a Chinese engine manufacturer founded in 1951, boasts a wide range of products that cater to various industries, including highway vehicles, generator sets, and marine applications. Their engine lineup consists of low-speed, medium-speed, and high-speed engines, as well as",
+            "keywords": ["Yuchai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "yuchai-type": [
+              {
+                "id": "product1type1subtype5subtype1",
+                "name": "50Hz",
+                "Yuchai50HZdescription1": "● Yuchai, a Chinese engine manufacturer founded in 1951, boasts a wide range of products that cater to various industries, including highway vehicles, generator sets, and marine applications. Their engine lineup consists of low-speed, medium-speed, and high-speed engines, as well as light-duty, medium-duty, heavy-duty, and large engines. Yuchai prioritizes emission technology to meet environmental standards and ensure sustainable power solutions. With a strong presence in multiple regions across China, Yuchai has established itself as a leader in engine design and development, collaborating with renowned European and American partners.● The partnership between Yuchai and Yihua represents a fusion of engineering prowess, combining Yuchai's extensive range of innovative engine solutions with Yihua's expertise in power generation. Together, they deliver customized, efficient, and reliable generator sets tailored to meet the specific needs of various industries.● Yuchai's forward-thinking approach to emission technology aligns with Yihua's dedication to sustainability, ensuring that their collaboration results in eco-friendly power solutions that meet stringent environmental standards. The synergy between these two companies offers customers a comprehensive and dependable choice for all their power generation requirements.",
+                "Yuchai50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-yuchai.jpg",
+                "Yuchai50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according\n● to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
               }
             ]
           }
