@@ -1,9 +1,32 @@
-import Index from "./pages/Index.tsx";
-import Solution from "./pages/Solutions.tsx";
-import About from "./pages/About.tsx";
-import HelpandContact from "./pages/HelpAndContact.tsx";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Header from "./components/Header";
+import Footer from "./components/Footer";
+import Index from "./pages/Index";
+import Solutions from "./pages/Solutions";
+import About from "./pages/About";
+import HelpAndContact from "./pages/HelpAndContact";
+import Products from "./pages/Products";
 
-const App = () => {
-  return <div>Hello World</div>;
-};
+function App() {
+  return (
+    <Router>
+      <div className="flex flex-col min-h-screen">
+        <Header />
+        <main className="flex-grow pt-[72px] md:pt-[80px]"> {/* Add padding-top to account for fixed header */}
+          <Routes>
+            <Route path="/" element={<Index />} />
+            <Route path="/products/*" element={<Products />} />
+            <Route path="/solutions/*" element={<Solutions />} />
+            <Route path="/about/*" element={<About />} />
+            <Route path="/contact" element={<HelpAndContact />} />
+            {/* Fallback route */}
+            <Route path="*" element={<Index />} />
+          </Routes>
+        </main>
+        <Footer />
+      </div>
+    </Router>
+  );
+}
+
 export default App;

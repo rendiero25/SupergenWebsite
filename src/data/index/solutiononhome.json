@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "image": "/images/index/icon-solution/bg-mining.jpg",
+        "icon": "/images/index/icon-solution/icon-mining.png",
+        "name": "Mining",
+        "link": ""
+    },
+    {
+        "id": "2",
+        "image": "/images/index/icon-solution/bg-construction.jpg",
+        "icon": "/images/index/icon-solution/icon-construction.png",
+        "name": "Construction",
+        "link": ""
+    },
+    {
+        "id": "3",
+        "image": "/images/index/icon-solution/bg-oilandgas.jpg",
+        "icon": "/images/index/icon-solution/icon-oilandgas.png",
+        "name": "Oil & Gas",
+        "link": ""
+    },
+    {
+        "id": "4",
+        "image": "/images/index/icon-solution/bg-powerplants.jpg",
+        "icon": "/images/index/icon-solution/icon-powerplants.png",
+        "name": "Power Plants",
+        "link": ""
+    },
+    {
+        "id": "5",
+        "image": "/images/index/icon-solution/bg-datacenters.jpg",
+        "icon": "/images/index/icon-solution/icon-datacenters.png",
+        "name": "Data Centers",
+        "link": ""
+    },
+    {
+        "id": "6",
+        "image": "/images/index/icon-solution/bg-telecomunication.jpg",
+        "icon": "/images/index/icon-solution/icon-telecomunication.png",
+        "name": "Telecomunication",
+        "link": ""
+    },
+    {
+        "id": "7",
+        "image": "/images/index/icon-solution/bg-healthcare.jpg",
+        "icon": "/images/index/icon-solution/icon-healthcare.png",
+        "name": "Healthcare",
+        "link": ""
+    },
+    {
+        "id": "8",
+        "image": "/images/index/icon-solution/bg-utilities.jpg",
+        "icon": "/images/index/icon-solution/icon-utilities.png",
+        "name": "Utilities",
+        "link": ""
+    }
+]
