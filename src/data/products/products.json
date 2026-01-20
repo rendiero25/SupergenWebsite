@@ -1,10 +1,10 @@
 [
   {
-    "id": "product1",
+    "id": "product1-generatorset",
     "name": "Generator Set",
     "type": [
       {
-        "id": "product1type1",
+        "id": "product1-generatorset-opentype",
         "name": "Open Type",
         "image-banner": "/images/products/generator-set/open-type/opentype-banner.jpg",
         "description": "Open type generator sets are designed for easy access and maintenance. These generator sets consist of an engine, alternator, control panel, and a base frame, all assembled in an open configuration without a protective enclosure or canopy.\n\n \n\nAdvantages of Open Type Generator Sets:\n· Enhanced Accessibility: The open design provides easy access to all components, making maintenance and repair tasks more convenient and efficient.\n· Flexibility in Customization: Open gensets can be customized to meet specific project requirements, such as integrating additional features or tailoring the control system.\n· Cost-Effective: Without the need for a protective enclosure, open gensets often come at a lower initial cost compared to enclosed or containerized generator sets.\n· Cooling Efficiency: The open configuration ensures better airflow and cooling, resulting in improved performance and efficiency.\n\n \n\nOpen type generator sets find applications in a wide range of industries, including agriculture, construction, manufacturing, and mining, where reliable power supply and ease of maintenance are essential. They are an ideal choice for customers seeking a flexible, cost-effective, and accessible power generation solution.",
@@ -104,14 +104,14 @@
             ]
           },
           {
-            "id": "product1type1subtype4",
+            "id": "product1type1subtype5",
             "category": "Yuchai",
             "name": "Yuchai",
             "logo": "/images/products/generator-set/open-type/logo-products/logo-yuchai.jpg",
             "image-product": [
-              "/images/products/generator-set/open-type/image-products/imageproduct-yuchai1.jpg",
-              "/images/products/generator-set/open-type/image-products/imageproduct-yuchai2.jpg",
-              "/images/products/generator-set/open-type/image-products/imageproduct-yuchai3.jpg"
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai2.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai3.jpg"
             ],
             "description": "Yuchai, a Chinese engine manufacturer founded in 1951, boasts a wide range of products that cater to various industries, including highway vehicles, generator sets, and marine applications. Their engine lineup consists of low-speed, medium-speed, and high-speed engines, as well as",
             "keywords": ["Yuchai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
@@ -119,9 +119,693 @@
               {
                 "id": "product1type1subtype5subtype1",
                 "name": "50Hz",
-                "Yuchai50HZdescription1": "● Yuchai, a Chinese engine manufacturer founded in 1951, boasts a wide range of products that cater to various industries, including highway vehicles, generator sets, and marine applications. Their engine lineup consists of low-speed, medium-speed, and high-speed engines, as well as light-duty, medium-duty, heavy-duty, and large engines. Yuchai prioritizes emission technology to meet environmental standards and ensure sustainable power solutions. With a strong presence in multiple regions across China, Yuchai has established itself as a leader in engine design and development, collaborating with renowned European and American partners.● The partnership between Yuchai and Yihua represents a fusion of engineering prowess, combining Yuchai's extensive range of innovative engine solutions with Yihua's expertise in power generation. Together, they deliver customized, efficient, and reliable generator sets tailored to meet the specific needs of various industries.● Yuchai's forward-thinking approach to emission technology aligns with Yihua's dedication to sustainability, ensuring that their collaboration results in eco-friendly power solutions that meet stringent environmental standards. The synergy between these two companies offers customers a comprehensive and dependable choice for all their power generation requirements.",
-                "Yuchai50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-yuchai.jpg",
-                "Yuchai50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according\n● to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+                "yuchai50HZdescription1": "● Yuchai, a Chinese engine manufacturer founded in 1951, boasts a wide range of products that cater to various industries, including highway vehicles, generator sets, and marine applications. Their engine lineup consists of low-speed, medium-speed, and high-speed engines, as well as light-duty, medium-duty, heavy-duty, and large engines. Yuchai prioritizes emission technology to meet environmental standards and ensure sustainable power solutions. With a strong presence in multiple regions across China, Yuchai has established itself as a leader in engine design and development, collaborating with renowned European and American partners.● The partnership between Yuchai and Yihua represents a fusion of engineering prowess, combining Yuchai's extensive range of innovative engine solutions with Yihua's expertise in power generation. Together, they deliver customized, efficient, and reliable generator sets tailored to meet the specific needs of various industries.● Yuchai's forward-thinking approach to emission technology aligns with Yihua's dedication to sustainability, ensuring that their collaboration results in eco-friendly power solutions that meet stringent environmental standards. The synergy between these two companies offers customers a comprehensive and dependable choice for all their power generation requirements.",
+                "yuchai50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-yuchai.jpg",
+                "yuchai50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according\n● to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype6",
+            "category": "Sdec",
+            "name": "Sdec",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-sdec.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-sdec1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-sdec2.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-sdec3.jpg"
+            ],
+            "description": "Shanghai New Power Automotive Technology Company Limited. (formerly known as Shanghai Diesel Engine Co., Ltd.) is China's premier manufacturer of diesel engines. By combining the latest diesel technologies and a strict attention to quality, we offer our customers high powered diesel",
+            "keywords": ["SDEC", "Shangchai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "sdec-type": [
+              {
+                "id": "product1type1subtype6subtype1",
+                "name": "50Hz",
+                "sdec50HZdescription1": "● Shanghai New Power Automotive Technology Company Limited. (formerly known as Shanghai Diesel Engine Co., Ltd.) is China's premier manufacturer of diesel engines. By combining the latest diesel technologies and a strict attention to quality, we offer our customers high powered diesel engines with exceptional performance and reliability. Starting with our establishment, we have demonstrated continued growth and proven ourselves a trustworthy manufacturer and provider of high-quality products.\n\n● Together, SDEC and Yihua offer a wide range of generator sets that can be customized to meet the unique needs of any application. Whether you require a small generator set for a remote location or a large-scale power solution for an industrial facility, the combination of SDEC's advanced engine technology and Yihua's commitment to quality and innovation ensures that you receive a product that exceeds your expectations.",
+                "sdec50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-sdec.jpg",
+                "sdec50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype7",
+            "category": "Doosan",
+            "name": "Doosan",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-doosan.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-doosan1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-doosan2.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-doosan3.jpg"
+            ],
+            "description": "Doosan, a leader in the industrial engine market, offers a diverse range of engines designed for various applications. With a focus on technological innovation, environmental sustainability, and customer satisfaction, Doosan engines deliver exceptional power, efficiency, and durability",
+            "keywords": ["Doosan", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "doosan-type": [
+              {
+                "id": "product1type1subtype7subtype1",
+                "name": "50Hz",
+                "doosan50HZdescription1": "● Doosan, a leader in the industrial engine market, offers a diverse range of engines designed for various applications. With a focus on technological innovation, environmental sustainability, and customer satisfaction, Doosan engines deliver exceptional power, efficiency, and durability. Doosan engines are characterized by their versatile lineup, emission compliance, advanced technology, and strong global presence, ensuring a reliable and high-performance solution for businesses worldwide. Trust Doosan for unmatched engine performance, efficiency, and a solid return on investment.\n\n● By choosing Yihua and Doosan, you're investing in a partnership that prioritizes performance, efficiency, and customer satisfaction. Experience the Yihua-Doosan advantage for a power generation solution that drives your business forward.",
+                "doosan50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-doosan.jpg",
+                "doosan50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              },
+              {
+                "id": "product1type1subtype7subtype2",
+                "name": "60Hz",
+                "doosan50HZdescription1": "● Doosan, a leader in the industrial engine market, offers a diverse range of engines designed for various applications. With a focus on technological innovation, environmental sustainability, and customer satisfaction, Doosan engines deliver exceptional power, efficiency, and durability. Doosan engines are characterized by their versatile lineup, emission compliance, advanced technology, and strong global presence, ensuring a reliable and high-performance solution for businesses worldwide. Trust Doosan for unmatched engine performance, efficiency, and a solid return on investment.\n\n● By choosing Yihua and Doosan, you're investing in a partnership that prioritizes performance, efficiency, and customer satisfaction. Experience the Yihua-Doosan advantage for a power generation solution that drives your business forward.",
+                "doosan50HZimage": "/images/products/generator-set/open-type/image-products/image60HZ-doosan.jpg",
+                "doosan50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype8",
+            "category": "Kubota",
+            "name": "Kubota",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-kubota.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-kubota1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-kubota2.jpg"
+            ],
+            "description": "Engines were added to Kubota's numerous product line in 1922 when we researched and developed the agriculture and industry engine Type A, with 3 horsepower. Their engines were then expanded for various usages, and engines of high output, compact and lightweight, have gained",
+            "keywords": ["Kubota", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "kubota-type": [
+              {
+                "id": "product1type1subtype8subtype1",
+                "name": "50Hz",
+                "kubota50HZdescription1": "● Engines were added to Kubota's numerous product line in 1922 when we researched and developed the agriculture and industry engine Type A, with 3 horsepower. Their engines were then expanded for various usages, and engines of high output, compact and lightweight, have gained a high level of trust in the global market.\n\n● Yihua is dedicated to providing customers with reliable and efficient generator sets. Our partnership with Kubota allows us to offer power solutions that embody performance, reliability, efficiency, environmental compliance, and versatility.\n\n● By choosing Yihua and Kubota, you'll benefit from Kubota's renowned engine technology, featuring exceptional power output, unwavering reliability, enhanced efficiency, environmentally conscious solutions, and versatility for every need. With Yihua's commitment to customer satisfaction and Kubota's engineering excellence, our alliance delivers power generation solutions that exceed expectations, propel your operations forward, and provide peace of mind. Choose Yihua and Kubota for the ultimate power generation solution.",
+                "kubota50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-kubota.jpg",
+                "kubota50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              },
+              {
+                "id": "product1type1subtype8subtype2",
+                "name": "60Hz",
+                "kubota60HZimage": "/images/products/generator-set/open-type/image-products/image60HZ-kubota.jpg",
+                "kubota60HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype9",
+            "category": "Deutz",
+            "name": "Deutz",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-deutz.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz1.png",
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz2.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz3.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz4.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz5.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz6.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz7.jpg"
+            ],
+            "description": "From construction machinery to agriculture and stationary equipment, DEUTZ diesel engines in the power range from 18 to 620 kW offer versatile solutions in the off-highway sector. Diesel engines from DEUTZ meet the strictest exhaust emission standards of EU Stage V/US EPA",
+            "keywords": ["Deutz", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct"],
+            "deutz-type": [
+              {
+                "id": "product1type1subtype9subtype1",
+                "name": "50Hz",
+                "deutz50HZdescription1": "● From construction machinery to agriculture and stationary equipment, DEUTZ diesel engines in the power range from 18 to 620 kW offer versatile solutions in the off-highway sector.\n\n● Diesel engines from DEUTZ meet the strictest exhaust emission standards of EU Stage V/US EPA Tier 4. To achieve this, DEUTZ uses the latest exhaust aftertreatment technologies to reduce emissions. They are also designed to ensure optimized fuel utilization, which not only results in cost-efficient use but also minimizes environmental impact.\n\n● At Yihua, we're dedicated to providing the most reliable and efficient generator sets available. By partnering with DEUTZ, a globally recognized engine manufacturer, we're able to offer cutting-edge power solutions that embody performance, innovation, and sustainability.",
+                "deutz50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-kubota.jpg",
+                "deutz50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype10",
+            "category": "Yanmar",
+            "name": "Yanmar",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-yanmar.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-yanmar1.png",
+              "/images/products/generator-set/open-type/image-products/imageproduct-yanmar2.jpg"
+            ],
+            "description": "YANMAR has continued producing high performance engines for years. The company's success is built upon the dedication and expertise of professionals working in each division, including fundamental research, development, production, and customer support",
+            "keywords": ["Yanmar", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "yanmar-type": [
+              {
+                "id": "product1type1subtype10subtype1",
+                "name": "50Hz",
+                "yanmar50HZdescription1": "● YANMAR has continued producing high performance engines for years. The company's success is built upon the dedication and expertise of professionals working in each division, including fundamental research, development, production, and customer support. YANMAR's commitment to innovation and quality is evident in their cutting-edge technology and exceptional customer service. This ensures that customers receive reliable and efficient engine solutions, supported by a strong global network.\n\n \n\n● By choosing Yihua-YANMAR, you're investing in YANMAR's history of producing exceptional engines, driven by their commitment to innovation and supported by skilled professionals in every aspect of their business. This collaboration allows us to offer you cutting-edge power generation technology and unparalleled customer support.",
+                "yanmar50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-yanmar.jpg",
+                "yanmar50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              },
+              {
+                "id": "product1type1subtype10subtype2",
+                "name": "60Hz",
+                "yanmar60HZdescription1": "● YANMAR has continued producing high performance engines for years. The company's success is built upon the dedication and expertise of professionals working in each division, including fundamental research, development, production, and customer support. YANMAR's commitment to innovation and quality is evident in their cutting-edge technology and exceptional customer service. This ensures that customers receive reliable and efficient engine solutions, supported by a strong global network.\n\n \n\n● By choosing Yihua-YANMAR, you're investing in YANMAR's history of producing exceptional engines, driven by their commitment to innovation and supported by skilled professionals in every aspect of their business. This collaboration allows us to offer you cutting-edge power generation technology and unparalleled customer support.",
+                "yanmar60HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-yanmar.jpg",
+                "yanmar60HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              }
+            ]
+          }
+        ]
+      },
+
+
+      {
+        "id": "product1-generatorset-silenttype",
+        "name": "Silent Type",
+        "image-banner": "/images/products/generator-set/silent-type/silenttype-banner.jpg",
+        "description": "Silent type generator sets, also known as enclosed or canopy type, are power generating units that combine a high-performance engine, an alternator, a control panel, and a base frame, all housed within an enclosure for enhanced noise reduction and weather protection. \n\n \n\nAdvantages of Silent Type Generator Sets:\n· Noise Reduction: Enclosed in a soundproofed canopy, silent gensets significantly minimize noise levels, making them suitable for use in residential areas, schools, hospitals, and other noise-sensitive environments.\n· Weather Protection: The protective enclosure shields the generator set from harsh weather conditions, such as rain, snow, and dust, ensuring optimal performance and durability in various environments.\n· Security and Safety: With lockable access panels and enhanced safety features, silent generator sets provide secure operation and prevent unauthorized access.\n· Aesthetics: The enclosed design offers a visually appealing and professional appearance, blending well with different architectural styles and settings.\n\n \n\nSilent type generator sets are widely used in numerous industries, including construction, telecommunications, data centers, healthcare, and events, where reliable, quiet, and weather-protected power generation is essential. These units are designed to meet the diverse needs of customers who require a combination of performance, durability, and reduced noise levels for their power generation solutions.",
+        "silenttype-type": [
+          {
+            "id": "product1type2subtype1",
+            "category": "Cummins",
+            "name": "Cummins",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-cummins.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-cummins1.png",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-cummins2.png",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-cummins3.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-cummins4.jpg"
+            ],
+            "description": "Cummins Inc. is a leading American multinational corporation established in 1919 by Clessie Cummins and William Glanton Irwin. With a focus on designing, manufacturing, and distributing innovative engines, filtration, and power generation products, Cummins has become a global powerhouse in the industry",
+            "keywords": ["Cummins", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct"],
+            "cummins-type": [
+              {
+                "id": "product1type2subtype1subtype1",
+                "name": "50Hz",
+                "cummins50HZdescription1": "● Cummins Inc. is a leading American multinational corporation established in 1919 by Clessie Cummins and William Glanton Irwin. With a focus on designing, manufacturing, and distributing innovative engines, filtration, and power generation products, Cummins has become a global powerhouse in the industry.\n● Yihua, as the official OEM factory of Cummins in China, has established a strong collaboration with Cummins for decades.\n● With Yihua's commitment to quality and reliability, combined with Cummins' reputable engine technology, these diesel generator sets are an excellent choice for a wide range of industries, including construction, telecommunications, and manufacturing, among others. Trust Yihua and Cummins to deliver power solutions that exceed expectations.",
+                "cummins50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-cummins.jpg",
+                "cummins50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● The generator set can start-up at full load in less than 12 seconds\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards"
+              },
+              {
+                "id": "product1type1subtype1subtype2",
+                "name": "60Hz",
+                "cummins60HZdescription1": "● Cummins Inc. is a leading American multinational corporation established in 1919 by Clessie Cummins and William Glanton Irwin. With a focus on designing, manufacturing, and distributing innovative engines, filtration, and power generation products, Cummins has become a global powerhouse in the industry.\n● Yihua, as the official OEM factory of Cummins in China, has established a strong collaboration with Cummins for decades.\n● With Yihua's commitment to quality and reliability, combined with Cummins' reputable engine technology, these diesel generator sets are an excellent choice for a wide range of industries, including construction, telecommunications, and manufacturing, among others. Trust Yihua and Cummins to deliver power solutions that exceed expectations.\n\n",
+                "cummins60HZimage": "/images/products/generator-set/silent-type/image-products/image60HZ-cummins.jpg",
+                "cummins60HZdescription2": "●The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● The generator set designed according to the international safety standards"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype2",
+            "category": "Perkins",
+            "name": "Perkins",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-perkins.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-perkins1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-perkins2.jpg"
+            ],
+            "description": "Perkins Engines Company Limited, a subsidiary of Caterpillar Inc., is a British-based manufacturer established in 1932, specializing in the design and production of high-quality diesel and gas engines. Perkins has become a world-renowned engine provider with a focus on innovation, reliability, and efficiency",
+            "keywords": ["Perkins", "Brushless Alternator", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct"],
+            "perkins-type": [
+              {
+                "id": "product1type2subtype2subtype1",
+                "name": "60Hz",
+                "perkins60HZdescription1": "● As a leading diesel generator set manufacturer in China, Yihua has forged a solid partnership with Perkins, the distinguished British engine producer, to deliver high-performance generator sets to the worldwide market.\n● Different power solutions can be designed and customized according to customer requirements\n● Yihua's dedication to quality and innovation, coupled with Perkins' renowned engine technology, just choose Yihua for dependable and efficient power solutions that consistently surpass industry standards.",
+                "perkins60HZimage": "/images/products/generator-set/silent-type/image-products/image60HZ-perkins.jpg",
+                "perkins60HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● The generator set designed according to the international safety standards"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype3",
+            "category": "Fawde",
+            "name": "Fawde",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-faw.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-fawde1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-fawde2.jpg"
+            ],
+            "description": "Fawde is a reputable Chinese engine brand known for its reliable and versatile diesel engines. Fawde is part of FAW Jiefang, a subsidiary of FAW Group, one of the \"Big Four\" Chinese automobile manufacturers. Fawde engines are widely used in various applications such as power generation, water pumps, forklifts, farm",
+            "keywords": ["FAW", "Fawde", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "fawde-type": [
+              {
+                "id": "product1type2subtype3subtype1",
+                "name": "50Hz",
+                "fawde50HZdescription1": "● Fawde is a reputable Chinese engine brand known for its reliable and versatile diesel engines. Fawde is part of FAW Jiefang, a subsidiary of FAW Group, one of the \"Big Four\" Chinese automobile manufacturers. Fawde engines are widely used in various applications such as power generation, water pumps, forklifts, farm equipment, and trucks. The company's history dates back to 1943, and it became part of the FAW Group in 1992. Since then, Fawde has continued to expand and produce high-quality diesel engines, with an annual production capacity of around 150,000 units.\n\n● At Yihua, we take pride in our collaboration with Fawde to deliver top-notch diesel generator sets to customers worldwide. Our partnership has been thriving, with Yihua manufacturing over 6,000 Fawde engine-powered generator sets annually. With a proven track record of success and a shared commitment to quality, Yihua and Fawde continue to drive innovation and performance in the power generation market. Trust Yihua and Fawde to exceed your expectations and provide superior power solutions that consistently outperform industry standards.\n",
+                "fawde50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-fawde.jpg",
+                "fawde50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype4",
+            "category": "Weichai",
+            "name": "Weichai",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-weichai.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-weichai1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-weichai2.jpg"
+            ],
+            "description": "Weichai is a well-established Chinese engine company founded in 1946. With its wide range of products, including diesel and natural gas engines, Weichai has made a name for itself both within China and globally. The company's commitment to research, quality, and sustainability has allowe",
+            "keywords": ["Weichai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "weichai-type": [
+              {
+                "id": "product1type2subtype4subtype1",
+                "name": "50Hz",
+                "weichai50HZdescription1": "● Weichai is a well-established Chinese engine company founded in 1946. With its wide range of products, including diesel and natural gas engines, Weichai has made a name for itself both within China and globally. The company's commitment to research, quality, and sustainability has allowed it to thrive in various industries, such as heavy-duty vehicles, construction machinery, and power generation equipment.\n\n● As a tier-1 diesel generator set manufacturer in China, Yihua has joined forces with Weichai, a leading engine producer, to offer high-performance generator sets to the global market.\n\n● Choose Yihua and Weichai for a partnership that prioritizes your individual needs and delivers superior, customized power solutions to drive your success.",
+                "weichai50HZimage1": "/images/products/generator-set/silent-type/image-products/image50HZ-weichai1.jpg",
+                "weichai50HZimage2": "/images/products/generator-set/silent-type/image-products/image50HZ-weichai2.jpg",
+                "weichai50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype5",
+            "category": "Yuchai",
+            "name": "Yuchai",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-yuchai.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai2.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai3.jpg"
+            ],
+            "description": "Yuchai, a Chinese engine manufacturer founded in 1951, boasts a wide range of products that cater to various industries, including highway vehicles, generator sets, and marine applications. Their engine lineup consists of low-speed, medium-speed, and high-speed engines, as well as",
+            "keywords": ["Yuchai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "yuchai-type": [
+              {
+                "id": "product1type2subtype5subtype1",
+                "name": "50Hz",
+                "yuchai50HZdescription1": "● Yuchai, a Chinese engine manufacturer founded in 1951, boasts a wide range of products that cater to various industries, including highway vehicles, generator sets, and marine applications. Their engine lineup consists of low-speed, medium-speed, and high-speed engines, as well as light-duty, medium-duty, heavy-duty, and large engines. Yuchai prioritizes emission technology to meet environmental standards and ensure sustainable power solutions. With a strong presence in multiple regions across China, Yuchai has established itself as a leader in engine design and development, collaborating with renowned European and American partners.● The partnership between Yuchai and Yihua represents a fusion of engineering prowess, combining Yuchai's extensive range of innovative engine solutions with Yihua's expertise in power generation. Together, they deliver customized, efficient, and reliable generator sets tailored to meet the specific needs of various industries.● Yuchai's forward-thinking approach to emission technology aligns with Yihua's dedication to sustainability, ensuring that their collaboration results in eco-friendly power solutions that meet stringent environmental standards. The synergy between these two companies offers customers a comprehensive and dependable choice for all their power generation requirements.",
+                "yuchai50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-yuchai.jpg",
+                "yuchai50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according\n● to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype6",
+            "category": "Sdec",
+            "name": "Sdec",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-sdec.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-sdec1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-sdec2.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-sdec3.jpg"
+            ],
+            "description": "Shanghai New Power Automotive Technology Company Limited. (formerly known as Shanghai Diesel Engine Co., Ltd.) is China's premier manufacturer of diesel engines. By combining the latest diesel technologies and a strict attention to quality, we offer our customers high powered diesel",
+            "keywords": ["SDEC", "Shangchai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "sdec-type": [
+              {
+                "id": "product1type2subtype6subtype1",
+                "name": "50Hz",
+                "sdec50HZdescription1": "● Shanghai New Power Automotive Technology Company Limited. (formerly known as Shanghai Diesel Engine Co., Ltd.) is China's premier manufacturer of diesel engines. By combining the latest diesel technologies and a strict attention to quality, we offer our customers high powered diesel engines with exceptional performance and reliability. Starting with our establishment, we have demonstrated continued growth and proven ourselves a trustworthy manufacturer and provider of high-quality products.\n\n● Together, SDEC and Yihua offer a wide range of generator sets that can be customized to meet the unique needs of any application. Whether you require a small generator set for a remote location or a large-scale power solution for an industrial facility, the combination of SDEC's advanced engine technology and Yihua's commitment to quality and innovation ensures that you receive a product that exceeds your expectations.",
+                "sdec50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-sdec.jpg",
+                "sdec50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype7",
+            "category": "Doosan",
+            "name": "Doosan",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-doosan.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-doosan1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-doosan2.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-doosan3.jpg"
+            ],
+            "description": "Doosan, a leader in the industrial engine market, offers a diverse range of engines designed for various applications. With a focus on technological innovation, environmental sustainability, and customer satisfaction, Doosan engines deliver exceptional power, efficiency, and durability",
+            "keywords": ["Doosan", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "doosan-type": [
+              {
+                "id": "product1type1subtype7subtype1",
+                "name": "50Hz",
+                "doosan50HZdescription1": "● Doosan, a leader in the industrial engine market, offers a diverse range of engines designed for various applications. With a focus on technological innovation, environmental sustainability, and customer satisfaction, Doosan engines deliver exceptional power, efficiency, and durability. Doosan engines are characterized by their versatile lineup, emission compliance, advanced technology, and strong global presence, ensuring a reliable and high-performance solution for businesses worldwide. Trust Doosan for unmatched engine performance, efficiency, and a solid return on investment.\n\n● By choosing Yihua and Doosan, you're investing in a partnership that prioritizes performance, efficiency, and customer satisfaction. Experience the Yihua-Doosan advantage for a power generation solution that drives your business forward.",
+                "doosan50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-doosan.jpg",
+                "doosan50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              },
+              {
+                "id": "product1type2subtype7subtype2",
+                "name": "60Hz",
+                "doosan50HZdescription1": "● Doosan, a leader in the industrial engine market, offers a diverse range of engines designed for various applications. With a focus on technological innovation, environmental sustainability, and customer satisfaction, Doosan engines deliver exceptional power, efficiency, and durability. Doosan engines are characterized by their versatile lineup, emission compliance, advanced technology, and strong global presence, ensuring a reliable and high-performance solution for businesses worldwide. Trust Doosan for unmatched engine performance, efficiency, and a solid return on investment.\n\n● By choosing Yihua and Doosan, you're investing in a partnership that prioritizes performance, efficiency, and customer satisfaction. Experience the Yihua-Doosan advantage for a power generation solution that drives your business forward.",
+                "doosan50HZimage": "/images/products/generator-set/silent-type/image-products/image60HZ-doosan.jpg",
+                "doosan50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype8",
+            "category": "Kubota",
+            "name": "Kubota",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-kubota.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-kubota1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-kubota2.jpg"
+            ],
+            "description": "Engines were added to Kubota's numerous product line in 1922 when we researched and developed the agriculture and industry engine Type A, with 3 horsepower. Their engines were then expanded for various usages, and engines of high output, compact and lightweight, have gained",
+            "keywords": ["Kubota", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "kubota-type": [
+              {
+                "id": "product1type2subtype8subtype1",
+                "name": "50Hz",
+                "kubota50HZdescription1": "● Engines were added to Kubota's numerous product line in 1922 when we researched and developed the agriculture and industry engine Type A, with 3 horsepower. Their engines were then expanded for various usages, and engines of high output, compact and lightweight, have gained a high level of trust in the global market.\n\n● Yihua is dedicated to providing customers with reliable and efficient generator sets. Our partnership with Kubota allows us to offer power solutions that embody performance, reliability, efficiency, environmental compliance, and versatility.\n\n● By choosing Yihua and Kubota, you'll benefit from Kubota's renowned engine technology, featuring exceptional power output, unwavering reliability, enhanced efficiency, environmentally conscious solutions, and versatility for every need. With Yihua's commitment to customer satisfaction and Kubota's engineering excellence, our alliance delivers power generation solutions that exceed expectations, propel your operations forward, and provide peace of mind. Choose Yihua and Kubota for the ultimate power generation solution.",
+                "kubota50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-kubota.jpg",
+                "kubota50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              },
+              {
+                "id": "product1type2subtype8subtype2",
+                "name": "60Hz",
+                "kubota60HZimage": "/images/products/generator-set/silent-type/image-products/image60HZ-kubota.jpg",
+                "kubota60HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype9",
+            "category": "Deutz",
+            "name": "Deutz",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-deutz.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz1.png",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz2.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz3.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz4.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz5.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz6.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz7.jpg"
+            ],
+            "description": "From construction machinery to agriculture and stationary equipment, DEUTZ diesel engines in the power range from 18 to 620 kW offer versatile solutions in the off-highway sector. Diesel engines from DEUTZ meet the strictest exhaust emission standards of EU Stage V/US EPA",
+            "keywords": ["Deutz", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct"],
+            "deutz-type": [
+              {
+                "id": "product1type2subtype9subtype1",
+                "name": "50Hz",
+                "deutz50HZdescription1": "● From construction machinery to agriculture and stationary equipment, DEUTZ diesel engines in the power range from 18 to 620 kW offer versatile solutions in the off-highway sector.\n\n● Diesel engines from DEUTZ meet the strictest exhaust emission standards of EU Stage V/US EPA Tier 4. To achieve this, DEUTZ uses the latest exhaust aftertreatment technologies to reduce emissions. They are also designed to ensure optimized fuel utilization, which not only results in cost-efficient use but also minimizes environmental impact.\n\n● At Yihua, we're dedicated to providing the most reliable and efficient generator sets available. By partnering with DEUTZ, a globally recognized engine manufacturer, we're able to offer cutting-edge power solutions that embody performance, innovation, and sustainability.",
+                "deutz50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-kubota.jpg",
+                "deutz50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype10",
+            "category": "Yanmar",
+            "name": "Yanmar",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-yanmar.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yanmar1.png",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yanmar2.jpg"
+            ],
+            "description": "YANMAR has continued producing high performance engines for years. The company's success is built upon the dedication and expertise of professionals working in each division, including fundamental research, development, production, and customer support",
+            "keywords": ["Yanmar", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "yanmar-type": [
+              {
+                "id": "product1type2subtype10subtype1",
+                "name": "50Hz",
+                "yanmar50HZdescription1": "● YANMAR has continued producing high performance engines for years. The company's success is built upon the dedication and expertise of professionals working in each division, including fundamental research, development, production, and customer support. YANMAR's commitment to innovation and quality is evident in their cutting-edge technology and exceptional customer service. This ensures that customers receive reliable and efficient engine solutions, supported by a strong global network.\n\n \n\n● By choosing Yihua-YANMAR, you're investing in YANMAR's history of producing exceptional engines, driven by their commitment to innovation and supported by skilled professionals in every aspect of their business. This collaboration allows us to offer you cutting-edge power generation technology and unparalleled customer support.",
+                "yanmar50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-yanmar.jpg",
+                "yanmar50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              },
+              {
+                "id": "product1type2subtype10subtype2",
+                "name": "60Hz",
+                "yanmar60HZdescription1": "● YANMAR has continued producing high performance engines for years. The company's success is built upon the dedication and expertise of professionals working in each division, including fundamental research, development, production, and customer support. YANMAR's commitment to innovation and quality is evident in their cutting-edge technology and exceptional customer service. This ensures that customers receive reliable and efficient engine solutions, supported by a strong global network.\n\n \n\n● By choosing Yihua-YANMAR, you're investing in YANMAR's history of producing exceptional engines, driven by their commitment to innovation and supported by skilled professionals in every aspect of their business. This collaboration allows us to offer you cutting-edge power generation technology and unparalleled customer support.",
+                "yanmar60HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-yanmar.jpg",
+                "yanmar60HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              }
+            ]
+          }
+        ]
+      },
+
+      {
+        "id": "product1-generatorset-containertype",
+        "name": "Container Type",
+        "image-banner": "/images/products/generator-set/container-type/silenttype-banner.jpg",
+        "description": "Container type generator sets are fully integrated power generation units housed within a standardized shipping container, combining a high-performance engine, an alternator, a control panel, and a base frame. These containerized gensets are designed to deliver reliable, efficient, and easily transportable power solutions for a wide range of applications.\n\n \n\nAdvantages  of Container Type Generator Sets:\n· Mobility and Transportability: The container design ensures ease of transportation via truck, rail, or ship, making these gensets ideal for remote locations or temporary power requirements.\n· Durability and Weather Protection: The robust container structure protects the generator set from harsh environmental conditions, such as extreme temperatures, wind, rain, and snow, ensuring optimal performance and longevity.\n· Security and Safety: Containerized gensets feature lockable access doors and enhanced safety features, providing secure operation and minimizing the risk of unauthorized access.\n· Modular Design: Container type generator sets can be easily combined with other containers to create larger, scalable power systems, making them adaptable to varying power demands.\n\n \n\nContainer type generator sets find application in numerous industries, including mining, oil and gas, construction, and military operations, where reliable, mobile, and weather-protected power generation is essential. These units cater to customers seeking a versatile, durable, and easily transportable power solution for their specific requirements.",
+        "silenttype-type": [
+          {
+            "id": "product1type3subtype1",
+            "category": "Cummins",
+            "name": "Cummins",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-cummins.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-cummins1.png",
+              "/images/products/generator-set/container-type/image-products/imageproduct-cummins2.png",
+              "/images/products/generator-set/container-type/image-products/imageproduct-cummins3.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-cummins4.jpg"
+            ],
+            "description": "Cummins Inc. is a leading American multinational corporation established in 1919 by Clessie Cummins and William Glanton Irwin. With a focus on designing, manufacturing, and distributing innovative engines, filtration, and power generation products, Cummins has become a global powerhouse in the industry",
+            "keywords": ["Cummins", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct"],
+            "cummins-type": [
+              {
+                "id": "product1type3subtype1subtype1",
+                "name": "50Hz",
+                "cummins50HZdescription1": "● Cummins Inc. is a leading American multinational corporation established in 1919 by Clessie Cummins and William Glanton Irwin. With a focus on designing, manufacturing, and distributing innovative engines, filtration, and power generation products, Cummins has become a global powerhouse in the industry.\n● Yihua, as the official OEM factory of Cummins in China, has established a strong collaboration with Cummins for decades.\n● With Yihua's commitment to quality and reliability, combined with Cummins' reputable engine technology, these diesel generator sets are an excellent choice for a wide range of industries, including construction, telecommunications, and manufacturing, among others. Trust Yihua and Cummins to deliver power solutions that exceed expectations.",
+                "cummins50HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-cummins.jpg",
+                "cummins50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● The generator set can start-up at full load in less than 12 seconds\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards"
+              },
+              {
+                "id": "product1type3subtype1subtype2",
+                "name": "60Hz",
+                "cummins60HZdescription1": "● Cummins Inc. is a leading American multinational corporation established in 1919 by Clessie Cummins and William Glanton Irwin. With a focus on designing, manufacturing, and distributing innovative engines, filtration, and power generation products, Cummins has become a global powerhouse in the industry.\n● Yihua, as the official OEM factory of Cummins in China, has established a strong collaboration with Cummins for decades.\n● With Yihua's commitment to quality and reliability, combined with Cummins' reputable engine technology, these diesel generator sets are an excellent choice for a wide range of industries, including construction, telecommunications, and manufacturing, among others. Trust Yihua and Cummins to deliver power solutions that exceed expectations.\n\n",
+                "cummins60HZimage": "/images/products/generator-set/container-type/image-products/image60HZ-cummins.jpg",
+                "cummins60HZdescription2": "●The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● The generator set designed according to the international safety standards"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype2",
+            "category": "Perkins",
+            "name": "Perkins",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-perkins.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-perkins1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-perkins2.jpg"
+            ],
+            "description": "Perkins Engines Company Limited, a subsidiary of Caterpillar Inc., is a British-based manufacturer established in 1932, specializing in the design and production of high-quality diesel and gas engines. Perkins has become a world-renowned engine provider with a focus on innovation, reliability, and efficiency",
+            "keywords": ["Perkins", "Brushless Alternator", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct"],
+            "perkins-type": [
+              {
+                "id": "product1type3subtype2subtype1",
+                "name": "60Hz",
+                "perkins60HZdescription1": "● As a leading diesel generator set manufacturer in China, Yihua has forged a solid partnership with Perkins, the distinguished British engine producer, to deliver high-performance generator sets to the worldwide market.\n● Different power solutions can be designed and customized according to customer requirements\n● Yihua's dedication to quality and innovation, coupled with Perkins' renowned engine technology, just choose Yihua for dependable and efficient power solutions that consistently surpass industry standards.",
+                "perkins60HZimage": "/images/products/generator-set/container-type/image-products/image60HZ-perkins.jpg",
+                "perkins60HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● The generator set designed according to the international safety standards"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype3",
+            "category": "Fawde",
+            "name": "Fawde",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-faw.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-fawde1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-fawde2.jpg"
+            ],
+            "description": "Fawde is a reputable Chinese engine brand known for its reliable and versatile diesel engines. Fawde is part of FAW Jiefang, a subsidiary of FAW Group, one of the \"Big Four\" Chinese automobile manufacturers. Fawde engines are widely used in various applications such as power generation, water pumps, forklifts, farm",
+            "keywords": ["FAW", "Fawde", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "fawde-type": [
+              {
+                "id": "product1type3subtype3subtype1",
+                "name": "50Hz",
+                "fawde50HZdescription1": "● Fawde is a reputable Chinese engine brand known for its reliable and versatile diesel engines. Fawde is part of FAW Jiefang, a subsidiary of FAW Group, one of the \"Big Four\" Chinese automobile manufacturers. Fawde engines are widely used in various applications such as power generation, water pumps, forklifts, farm equipment, and trucks. The company's history dates back to 1943, and it became part of the FAW Group in 1992. Since then, Fawde has continued to expand and produce high-quality diesel engines, with an annual production capacity of around 150,000 units.\n\n● At Yihua, we take pride in our collaboration with Fawde to deliver top-notch diesel generator sets to customers worldwide. Our partnership has been thriving, with Yihua manufacturing over 6,000 Fawde engine-powered generator sets annually. With a proven track record of success and a shared commitment to quality, Yihua and Fawde continue to drive innovation and performance in the power generation market. Trust Yihua and Fawde to exceed your expectations and provide superior power solutions that consistently outperform industry standards.\n",
+                "fawde50HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-fawde.jpg",
+                "fawde50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype4",
+            "category": "Weichai",
+            "name": "Weichai",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-weichai.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-weichai1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-weichai2.jpg"
+            ],
+            "description": "Weichai is a well-established Chinese engine company founded in 1946. With its wide range of products, including diesel and natural gas engines, Weichai has made a name for itself both within China and globally. The company's commitment to research, quality, and sustainability has allowe",
+            "keywords": ["Weichai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "weichai-type": [
+              {
+                "id": "product1type3subtype4subtype1",
+                "name": "50Hz",
+                "weichai50HZdescription1": "● Weichai is a well-established Chinese engine company founded in 1946. With its wide range of products, including diesel and natural gas engines, Weichai has made a name for itself both within China and globally. The company's commitment to research, quality, and sustainability has allowed it to thrive in various industries, such as heavy-duty vehicles, construction machinery, and power generation equipment.\n\n● As a tier-1 diesel generator set manufacturer in China, Yihua has joined forces with Weichai, a leading engine producer, to offer high-performance generator sets to the global market.\n\n● Choose Yihua and Weichai for a partnership that prioritizes your individual needs and delivers superior, customized power solutions to drive your success.",
+                "weichai50HZimage1": "/images/products/generator-set/container-type/image-products/image50HZ-weichai1.jpg",
+                "weichai50HZimage2": "/images/products/generator-set/container-type/image-products/image50HZ-weichai2.jpg",
+                "weichai50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype5",
+            "category": "Yuchai",
+            "name": "Yuchai",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-yuchai.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-yuchai1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-yuchai2.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-yuchai3.jpg"
+            ],
+            "description": "Yuchai, a Chinese engine manufacturer founded in 1951, boasts a wide range of products that cater to various industries, including highway vehicles, generator sets, and marine applications. Their engine lineup consists of low-speed, medium-speed, and high-speed engines, as well as",
+            "keywords": ["Yuchai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "yuchai-type": [
+              {
+                "id": "product1type3subtype5subtype1",
+                "name": "50Hz",
+                "yuchai50HZdescription1": "● Yuchai, a Chinese engine manufacturer founded in 1951, boasts a wide range of products that cater to various industries, including highway vehicles, generator sets, and marine applications. Their engine lineup consists of low-speed, medium-speed, and high-speed engines, as well as light-duty, medium-duty, heavy-duty, and large engines. Yuchai prioritizes emission technology to meet environmental standards and ensure sustainable power solutions. With a strong presence in multiple regions across China, Yuchai has established itself as a leader in engine design and development, collaborating with renowned European and American partners.● The partnership between Yuchai and Yihua represents a fusion of engineering prowess, combining Yuchai's extensive range of innovative engine solutions with Yihua's expertise in power generation. Together, they deliver customized, efficient, and reliable generator sets tailored to meet the specific needs of various industries.● Yuchai's forward-thinking approach to emission technology aligns with Yihua's dedication to sustainability, ensuring that their collaboration results in eco-friendly power solutions that meet stringent environmental standards. The synergy between these two companies offers customers a comprehensive and dependable choice for all their power generation requirements.",
+                "yuchai50HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-yuchai.jpg",
+                "yuchai50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according\n● to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype6",
+            "category": "Sdec",
+            "name": "Sdec",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-sdec.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-sdec1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-sdec2.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-sdec3.jpg"
+            ],
+            "description": "Shanghai New Power Automotive Technology Company Limited. (formerly known as Shanghai Diesel Engine Co., Ltd.) is China's premier manufacturer of diesel engines. By combining the latest diesel technologies and a strict attention to quality, we offer our customers high powered diesel",
+            "keywords": ["SDEC", "Shangchai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "sdec-type": [
+              {
+                "id": "product1type2subtype6subtype1",
+                "name": "50Hz",
+                "sdec50HZdescription1": "● Shanghai New Power Automotive Technology Company Limited. (formerly known as Shanghai Diesel Engine Co., Ltd.) is China's premier manufacturer of diesel engines. By combining the latest diesel technologies and a strict attention to quality, we offer our customers high powered diesel engines with exceptional performance and reliability. Starting with our establishment, we have demonstrated continued growth and proven ourselves a trustworthy manufacturer and provider of high-quality products.\n\n● Together, SDEC and Yihua offer a wide range of generator sets that can be customized to meet the unique needs of any application. Whether you require a small generator set for a remote location or a large-scale power solution for an industrial facility, the combination of SDEC's advanced engine technology and Yihua's commitment to quality and innovation ensures that you receive a product that exceeds your expectations.",
+                "sdec50HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-sdec.jpg",
+                "sdec50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype7",
+            "category": "Doosan",
+            "name": "Doosan",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-doosan.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-doosan1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-doosan2.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-doosan3.jpg"
+            ],
+            "description": "Doosan, a leader in the industrial engine market, offers a diverse range of engines designed for various applications. With a focus on technological innovation, environmental sustainability, and customer satisfaction, Doosan engines deliver exceptional power, efficiency, and durability",
+            "keywords": ["Doosan", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "doosan-type": [
+              {
+                "id": "product1type1subtype7subtype1",
+                "name": "50Hz",
+                "doosan50HZdescription1": "● Doosan, a leader in the industrial engine market, offers a diverse range of engines designed for various applications. With a focus on technological innovation, environmental sustainability, and customer satisfaction, Doosan engines deliver exceptional power, efficiency, and durability. Doosan engines are characterized by their versatile lineup, emission compliance, advanced technology, and strong global presence, ensuring a reliable and high-performance solution for businesses worldwide. Trust Doosan for unmatched engine performance, efficiency, and a solid return on investment.\n\n● By choosing Yihua and Doosan, you're investing in a partnership that prioritizes performance, efficiency, and customer satisfaction. Experience the Yihua-Doosan advantage for a power generation solution that drives your business forward.",
+                "doosan50HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-doosan.jpg",
+                "doosan50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              },
+              {
+                "id": "product1type2subtype7subtype2",
+                "name": "60Hz",
+                "doosan50HZdescription1": "● Doosan, a leader in the industrial engine market, offers a diverse range of engines designed for various applications. With a focus on technological innovation, environmental sustainability, and customer satisfaction, Doosan engines deliver exceptional power, efficiency, and durability. Doosan engines are characterized by their versatile lineup, emission compliance, advanced technology, and strong global presence, ensuring a reliable and high-performance solution for businesses worldwide. Trust Doosan for unmatched engine performance, efficiency, and a solid return on investment.\n\n● By choosing Yihua and Doosan, you're investing in a partnership that prioritizes performance, efficiency, and customer satisfaction. Experience the Yihua-Doosan advantage for a power generation solution that drives your business forward.",
+                "doosan50HZimage": "/images/products/generator-set/container-type/image-products/image60HZ-doosan.jpg",
+                "doosan50HZdescription2": "● The standard generator set (SR) with CE certified\n● The silent type canopy uses special sheet metal surface technology and the galvanized steel is optional\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● The generator set have compact structure design, with easy to lift and transport towing holes\n● Suitable for rental, factory, outdoor, hospital, mining and other applications\n● With Complete control and protection functions"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype8",
+            "category": "Kubota",
+            "name": "Kubota",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-kubota.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-kubota1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-kubota2.jpg"
+            ],
+            "description": "Engines were added to Kubota's numerous product line in 1922 when we researched and developed the agriculture and industry engine Type A, with 3 horsepower. Their engines were then expanded for various usages, and engines of high output, compact and lightweight, have gained",
+            "keywords": ["Kubota", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "kubota-type": [
+              {
+                "id": "product1type3subtype8subtype1",
+                "name": "50Hz",
+                "kubota50HZdescription1": "● Engines were added to Kubota's numerous product line in 1922 when we researched and developed the agriculture and industry engine Type A, with 3 horsepower. Their engines were then expanded for various usages, and engines of high output, compact and lightweight, have gained a high level of trust in the global market.\n\n● Yihua is dedicated to providing customers with reliable and efficient generator sets. Our partnership with Kubota allows us to offer power solutions that embody performance, reliability, efficiency, environmental compliance, and versatility.\n\n● By choosing Yihua and Kubota, you'll benefit from Kubota's renowned engine technology, featuring exceptional power output, unwavering reliability, enhanced efficiency, environmentally conscious solutions, and versatility for every need. With Yihua's commitment to customer satisfaction and Kubota's engineering excellence, our alliance delivers power generation solutions that exceed expectations, propel your operations forward, and provide peace of mind. Choose Yihua and Kubota for the ultimate power generation solution.",
+                "kubota50HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-kubota.jpg",
+                "kubota50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              },
+              {
+                "id": "product1type3subtype8subtype2",
+                "name": "60Hz",
+                "kubota60HZimage": "/images/products/generator-set/container-type/image-products/image60HZ-kubota.jpg",
+                "kubota60HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype9",
+            "category": "Deutz",
+            "name": "Deutz",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-deutz.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz1.png",
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz2.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz3.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz4.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz5.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz6.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz7.jpg"
+            ],
+            "description": "From construction machinery to agriculture and stationary equipment, DEUTZ diesel engines in the power range from 18 to 620 kW offer versatile solutions in the off-highway sector. Diesel engines from DEUTZ meet the strictest exhaust emission standards of EU Stage V/US EPA",
+            "keywords": ["Deutz", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct"],
+            "deutz-type": [
+              {
+                "id": "product1type3subtype9subtype1",
+                "name": "50Hz",
+                "deutz50HZdescription1": "● From construction machinery to agriculture and stationary equipment, DEUTZ diesel engines in the power range from 18 to 620 kW offer versatile solutions in the off-highway sector.\n\n● Diesel engines from DEUTZ meet the strictest exhaust emission standards of EU Stage V/US EPA Tier 4. To achieve this, DEUTZ uses the latest exhaust aftertreatment technologies to reduce emissions. They are also designed to ensure optimized fuel utilization, which not only results in cost-efficient use but also minimizes environmental impact.\n\n● At Yihua, we're dedicated to providing the most reliable and efficient generator sets available. By partnering with DEUTZ, a globally recognized engine manufacturer, we're able to offer cutting-edge power solutions that embody performance, innovation, and sustainability.",
+                "deutz50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-kubota.jpg",
+                "deutz50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype10",
+            "category": "Yanmar",
+            "name": "Yanmar",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-yanmar.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-yanmar1.png",
+              "/images/products/generator-set/container-type/image-products/imageproduct-yanmar2.jpg"
+            ],
+            "description": "YANMAR has continued producing high performance engines for years. The company's success is built upon the dedication and expertise of professionals working in each division, including fundamental research, development, production, and customer support",
+            "keywords": ["Yanmar", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
+            "yanmar-type": [
+              {
+                "id": "product1type3subtype10subtype1",
+                "name": "50Hz",
+                "yanmar50HZdescription1": "● YANMAR has continued producing high performance engines for years. The company's success is built upon the dedication and expertise of professionals working in each division, including fundamental research, development, production, and customer support. YANMAR's commitment to innovation and quality is evident in their cutting-edge technology and exceptional customer service. This ensures that customers receive reliable and efficient engine solutions, supported by a strong global network.\n\n \n\n● By choosing Yihua-YANMAR, you're investing in YANMAR's history of producing exceptional engines, driven by their commitment to innovation and supported by skilled professionals in every aspect of their business. This collaboration allows us to offer you cutting-edge power generation technology and unparalleled customer support.",
+                "yanmar50HZimage": "/images/products/generator-set/silent-type/image-products/container-yanmar.jpg",
+                "yanmar50HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              },
+              {
+                "id": "product1type3subtype10subtype2",
+                "name": "60Hz",
+                "yanmar60HZdescription1": "● YANMAR has continued producing high performance engines for years. The company's success is built upon the dedication and expertise of professionals working in each division, including fundamental research, development, production, and customer support. YANMAR's commitment to innovation and quality is evident in their cutting-edge technology and exceptional customer service. This ensures that customers receive reliable and efficient engine solutions, supported by a strong global network.\n\n \n\n● By choosing Yihua-YANMAR, you're investing in YANMAR's history of producing exceptional engines, driven by their commitment to innovation and supported by skilled professionals in every aspect of their business. This collaboration allows us to offer you cutting-edge power generation technology and unparalleled customer support.",
+                "yanmar60HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-yanmar.jpg",
+                "yanmar60HZdescription2": "● The standard generator set (SR) with CE certified\n● With Complete control and protection functions\n● Different power solutions can be designed and customized according to customer requirements\n● The generator set can start-up at full load in less than 12 seconds\n● The generator set have unattended operation function\n● The generator set designed according to the international safety standards\n● Suitable for rental, factory, outdoor, hospital, mining and other applications"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+
+
+  {
+    "id": "product2-brushlessalternator",
+    "name": "Brushless Alternator",
+    "type": [
+      {
+        "id": "product2-brushlessalternator",
+        "name": "Brushless Alternator",
+        "image-banner": "/images/products/brushless-alternator/brushless-banner.jpg",
+        "description": "A brushless alternator is an advanced component of a generator set that produces electrical power through an efficient and reliable process. Unlike traditional alternators with brushes, a brushless alternator uses a magnetic field created by a permanent magnet or an exciter to generate electricity, offering numerous benefits for generator set applications.\n\n \n\nAdvantages of Brushless Alternators:\n· Enhanced Efficiency: Brushless alternators exhibit improved efficiency due to reduced energy loss, resulting in better fuel economy and lower operating costs.\n· Longer Lifespan: Without brushes, these alternators experience less wear and tear, ensuring a longer lifespan and reduced maintenance requirements.\n· Lower Noise Levels: Brushless alternators produce less noise compared to their brushed counterparts, making them suitable for noise-sensitive environments.\n· Better Voltage Regulation: The advanced design of brushless alternators provides more stable voltage regulation, ensuring reliable and consistent power output.\n\n \n\nBy offering improved efficiency, reliability, and reduced maintenance, these alternators serve as an ideal solution for customers seeking a high-performance generator set component.",
+        "opentype-type": [
+          {
+            "id": "product2type1subtype1",
+            "category": "Yihua",
+            "name": "Yihua",
+            "logo": "/images/products/brushless-alternator/logo-yihua.jpg",
+            "image-product": "/images/products/generator-set/brushless-alternator/image-products/imageproduct-yihua1.png",
+            "description": "Land & marine used A.C. synchronous generators (ST&STC series single/three phase third-harmonic excitation synchronous generator; TFX series three- phase compound excitation synchronous generator; TFW2 series three phase brushless synchronous generator)",
+            "keywords": ["Cummins", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct"],
+            "cummins-type": [
+              {
+                "id": "product2type1subtype1subtype1",
+                "name": "brushlessgenerator-series",
+                "brushless-type-image": "/images/products/generator-set/open-type/image-products/image50HZ-cummins.jpg"
+              },
+              {
+                "id": "product2type1subtype1subtype2",
+                "name": "yhgseries",
+                "brushless-type-image": "/images/products/generator-set/open-type/image-products/image60HZ-cummins.jpg"
               }
             ]
           }
