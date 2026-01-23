@@ -15,22 +15,22 @@ const Header = () => {
     ];
 
     return (
-        <header className="fixed top-0 left-0 w-full z-50 bg-white/90 backdrop-blur-sm shadow-sm font-outfit">
-            <div className="container mx-auto px-4 py-4 flex items-center justify-between">
+        <header className="fixed top-0 left-0 w-full z-50 bg-white font-outfit">
+            <div className="px-4 md:px-40 py-4 flex items-center justify-between">
                 {/* Logo */}
-                <Link to="/" className="flex-shrink-0">
-                    <img src={logo} alt="Yihua Logo" className="h-10 md:h-12 w-auto" />
+                <Link to="/" className="shrink-0">
+                    <img src={logo} alt="Yihua Logo" className="h-10 md:h-18 w-auto" />
                 </Link>
 
                 {/* Navigation & Actions */}
                 <div className="flex items-center gap-8">
                     {/* Desktop Navigation */}
-                    <nav className="hidden lg:flex items-center gap-6">
+                    <nav className="hidden lg:flex items-center gap-12">
                         {navItems.map((item) => (
                             <Link 
                                 key={item.label} 
                                 to={item.path}
-                                className="text-sm font-medium hover:text-red-600 transition-colors flex items-center gap-1 group"
+                                className="text-xl font-bold hover:text-red-600 transition-colors flex items-center gap-1 group"
                             >
                                 {item.label}
                                 {(item.label === 'Products' || item.label === 'Solutions' || item.label === 'About Yihua') && (
@@ -52,7 +52,7 @@ const Header = () => {
 
                     {/* Language Toggle */}
                     <div className="relative group">
-                        <button className="flex items-center gap-1 text-sm font-medium hover:text-red-600 transition-colors">
+                        <button className="flex items-center gap-1 text-sm font-medium border border-gray-200 rounded-full px-4 py-1.5 hover:text-red-600 transition-colors text-gray-400">
                             {language}
                             <IoIosArrowDown className="group-hover:rotate-180 transition-transform duration-200" />
                         </button>

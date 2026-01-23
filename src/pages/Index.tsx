@@ -1,7 +1,7 @@
-import { useRef } from 'react';
+
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Autoplay, EffectFade } from 'swiper/modules';
-import { IoIosArrowBack, IoIosArrowForward } from "react-icons/io";
+
 import { Link } from 'react-router-dom';
 
 // Import Swiper styles
@@ -15,9 +15,6 @@ import heroData from '../data/index/heroSlider.json';
 import solutionData from '../data/index/solutiononhome.json';
 
 const Index = () => {
-    // Refs for custom navigation in Fueling section
-    const fuelingPrevRef = useRef(null);
-    const fuelingNextRef = useRef(null);
 
     const dedicationImages = [
         { name: 'Open Type Diesel Generator Set', img: '/images/index/section2images/opentype-.png' },
@@ -143,59 +140,35 @@ const Index = () => {
 
             {/* FUELING PROGRESS SECTION */}
             <section className="py-20 bg-white mb-20">
-                <div className="container mx-auto px-4">
+                <div className="">
                     <div className="text-center mb-16">
-                        <h2 className="text-3xl font-black text-[#1e1e1e] uppercase tracking-wide mb-4">
+                        <h2 className="text-3xl font-black text-black uppercase tracking-wide mb-4">
                             Fueling Your Progress and Growth with Our Energy Solutions
                         </h2>
-                        <div className="w-24 h-1 bg-[#1e1e1e] mx-auto"></div>
+                        <div className="w-24 h-1 bg-black mx-auto"></div>
                     </div>
 
-                    <div className="relative group/slider">
-                        <Swiper
-                            modules={[Navigation, Autoplay]}
-                            slidesPerView={1}
-                            spaceBetween={0}
-                            loop={true}
-                            autoplay={{ delay: 3000, disableOnInteraction: false }}
-                            breakpoints={{
-                                640: { slidesPerView: 2 },
-                                1024: { slidesPerView: 4 },
-                            }}
-                            onBeforeInit={(swiper) => {
-                                // @ts-ignore
-                                swiper.params.navigation.prevEl = fuelingPrevRef.current;
-                                // @ts-ignore
-                                swiper.params.navigation.nextEl = fuelingNextRef.current;
-                            }}
-                            className="h-[400px]"
-                        >
-                            {solutionData.map((item) => (
-                                <SwiperSlide key={item.id} className="relative group cursor-pointer h-full overflow-hidden">
-                                    <div className="relative w-full h-full">
-                                        <img 
-                                            src={item.image} 
-                                            alt={item.name} 
-                                            className="w-full h-full object-cover transition-transform duration-700 group-hover:scale-110"
-                                        />
-                                        <div className="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition-colors"></div>
-                                        
-                                        <div className="absolute bottom-10 left-8 right-8 flex items-center gap-4 text-white">
-                                            <img src={item.icon} alt="" className="w-8 h-8 object-contain filter brightness-0 invert" />
-                                            <h3 className="text-xl font-bold tracking-wide">{item.name}</h3>
-                                        </div>
+                    <div className="flex h-[451px] overflow-hidden">
+                        {solutionData.map((item) => (
+                            <div 
+                                key={item.id} 
+                                className="relative group cursor-pointer h-full flex-1 hover:flex-[1.5] transition-all duration-500 ease-out overflow-hidden"
+                            >
+                                <div className="relative w-full h-full">
+                                    <img 
+                                        src={item.image} 
+                                        alt={item.name} 
+                                        className="w-full h-full object-cover"
+                                    />
+                                    <div className="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition-colors duration-300"></div>
+                                    
+                                    <div className="absolute bottom-10 left-8 right-8 flex flex-col items-start gap-4 text-white">
+                                        <img src={item.icon} alt="" className="w-8 h-8 object-contain filter brightness-0 invert" />
+                                        <h3 className="text-xl font-bold tracking-wide">{item.name}</h3>
                                     </div>
-                                </SwiperSlide>
-                            ))}
-                        </Swiper>
-
-                        {/* Navigation Buttons for Fueling Section */}
-                        <button ref={fuelingPrevRef} className="absolute top-1/2 left-4 -translate-y-1/2 z-10 w-10 h-10 bg-white/20 hover:bg-[#E60013] backdrop-blur-sm rounded-full flex items-center justify-center text-white transition-all opacity-0 group-hover/slider:opacity-100">
-                            <IoIosArrowBack />
-                        </button>
-                        <button ref={fuelingNextRef} className="absolute top-1/2 right-4 -translate-y-1/2 z-10 w-10 h-10 bg-white/20 hover:bg-[#E60013] backdrop-blur-sm rounded-full flex items-center justify-center text-white transition-all opacity-0 group-hover/slider:opacity-100">
-                            <IoIosArrowForward />
-                        </button>
+                                </div>
+                            </div>
+                        ))}
                     </div>
                 </div>
             </section>
