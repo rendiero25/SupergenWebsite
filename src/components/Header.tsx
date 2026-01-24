@@ -30,7 +30,7 @@ const Header = () => {
                             <Link 
                                 key={item.label} 
                                 to={item.path}
-                                className="text-xl font-bold hover:text-red-600 transition-colors flex items-center gap-1 group"
+                                className="text-lg font-bold hover:text-red-600 transition-colors flex items-center gap-1 group"
                             >
                                 {item.label}
                                 {(item.label === 'Products' || item.label === 'Solutions' || item.label === 'About Yihua') && (

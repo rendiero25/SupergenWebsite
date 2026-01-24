@@ -26,7 +26,7 @@ const Index = () => {
     return (
         <div className="font-outfit">
             {/* HERRO SECTION */}
-            <section className="relative h-[600px] lg:h-[800px] w-full">
+            <section className="relative h-[600px] lg:h-[850px] w-full">
                 <Swiper
                     modules={[Navigation, Pagination, Autoplay, EffectFade]}
                     effect="fade"
@@ -37,7 +37,10 @@ const Index = () => {
                         nextEl: '.swiper-button-next',
                         prevEl: '.swiper-button-prev',
                     }}
-                    pagination={{ clickable: true }}
+                    pagination={{ 
+                        clickable: true,
+                        el: '.custom-pagination',
+                    }}
                     className="h-full w-full group"
                 >
                     {heroData.map((slide) => (
@@ -50,41 +53,53 @@ const Index = () => {
                                     className="w-full h-full object-cover"
                                 />
                                 {/* Overlay Gradient */}
-                                <div className="absolute inset-0 bg-gradient-to-r from-white/90 via-white/40 to-transparent"></div>
+                                {/* <div className="absolute inset-0 bg-linear-to-r from-white/90 via-white/40 to-transparent"></div> */}
                             </div>
 
                             {/* Content */}
                             <div className="relative h-full container mx-auto px-4 flex items-center">
                                 <div className="max-w-2xl pt-20">
-                                    <h1 className="text-4xl lg:text-5xl font-black text-[#1e1e1e] mb-6 leading-tight whitespace-pre-line">
+                                    <h1 className="text-4xl font-black text-black mb-6 leading-tight whitespace-pre-line">
                                         {slide.heading.replace('|', '\n')}
                                     </h1>
-                                    <div className="w-12 h-1 bg-[#E60013] mb-6"></div>
-                                    <p className="text-gray-800 text-lg mb-8 leading-relaxed font-medium max-w-xl">
+                                    <div className="w-12 h-1 bg-red mb-6"></div>
+                                    <p className="text-gray-800 text-xl mb-8 leading-relaxed font-medium max-w-xl">
                                         {slide.description}
                                     </p>
-                                    <button className="bg-[#E60013] hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full transition-all transform hover:-translate-y-1 shadow-lg text-sm uppercase tracking-wide">
+                                    <button className="bg-red hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full transition-all transform hover:-translate-y-1 shadow-lg text-sm uppercase tracking-wide">
                                         {slide.buttonName}
                                     </button>
                                 </div>
                             </div>
                         </SwiperSlide>
                     ))}
-
-                    {/* Custom Nav Buttons */}
-                    <div className="swiper-button-prev !text-white !w-12 !h-12 !bg-gray-800/50 hover:!bg-[#E60013] !rounded-none !left-0 backdrop-blur-sm transition-colors after:!text-lg"></div>
-                    <div className="swiper-button-next !text-white !w-12 !h-12 !bg-gray-800/50 hover:!bg-[#E60013] !rounded-none !right-0 backdrop-blur-sm transition-colors after:!text-lg"></div>
                 </Swiper>
+
+                {/* Bottom Controls Container - Inside slider with highest z-index */}
+                <div className="absolute bottom-8 left-0 right-0 z-50 pointer-events-none">
+                    <div className="container mx-auto px-4">
+                        <div className="flex items-center justify-between">
+                            {/* Custom Pagination - Left */}
+                            <div className="custom-pagination flex gap-2 pointer-events-auto [&_.swiper-pagination-bullet]:w-3 [&_.swiper-pagination-bullet]:h-3 [&_.swiper-pagination-bullet]:rounded-full [&_.swiper-pagination-bullet]:bg-gray-400 [&_.swiper-pagination-bullet]:opacity-100 [&_.swiper-pagination-bullet-active]:bg-black [&_.swiper-pagination-bullet]:cursor-pointer [&_.swiper-pagination-bullet]:transition-colors [&_.swiper-pagination-bullet]:hover:bg-gray-600"></div>
+                            
+                            {/* Custom Nav Buttons - Right */}
+                            <div className="flex gap-4 pointer-events-auto">
+                                <button className="swiper-button-prev static! w-10! h-10! mt-0! hover:bg-red border border-white hover:border-red transition-colors" style={{ ['--swiper-navigation-color' as string]: 'white', ['--swiper-navigation-size' as string]: '10px' }}></button>
+                                <button className="swiper-button-next static! w-10! h-10! mt-0! hover:bg-red border border-white hover:border-red transition-colors" style={{ ['--swiper-navigation-color' as string]: 'white', ['--swiper-navigation-size' as string]: '10px' }}></button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
             </section>
 
             {/* DEDICATION SECTION */}
             <section className="py-20 bg-white">
                 <div className="container mx-auto px-4">
                     <div className="text-center mb-16">
-                        <h2 className="text-3xl font-black text-[#1e1e1e] uppercase tracking-wide mb-4">
+                        <h2 className="text-4xl font-black text-black uppercase tracking-wide mb-4">
                             Dedication to Shaping a More Powerful Future
                         </h2>
-                        <div className="w-24 h-1 bg-[#1e1e1e] mx-auto"></div>
+                        <div className="w-24 h-1 bg-black mx-auto"></div>
                     </div>
 
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
