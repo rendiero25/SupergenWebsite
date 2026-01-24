@@ -48,8 +48,8 @@ const Index = () => {
                             {/* Background Image */}
                             <div className="absolute inset-0">
                                 <img 
-                                    src={slide.image} 
-                                    alt={slide.heading} 
+                                    src={slide.image}
+                                    alt={slide.heading}
                                     className="w-full h-full object-cover"
                                 />
                                 {/* Overlay Gradient */}
@@ -66,7 +66,7 @@ const Index = () => {
                                     <p className="text-gray-800 text-xl mb-8 leading-relaxed font-medium max-w-xl">
                                         {slide.description}
                                     </p>
-                                    <button className="bg-red hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full transition-all transform hover:-translate-y-1 shadow-lg text-sm uppercase tracking-wide">
+                                    <button className="cursor-pointer bg-red hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full transition-all transform hover:-translate-y-1 shadow-lg text-sm uppercase tracking-wide">
                                         {slide.buttonName}
                                     </button>
                                 </div>
@@ -84,8 +84,8 @@ const Index = () => {
                             
                             {/* Custom Nav Buttons - Right */}
                             <div className="flex gap-4 pointer-events-auto">
-                                <button className="swiper-button-prev static! w-10! h-10! mt-0! hover:bg-red border border-white hover:border-red transition-colors" style={{ ['--swiper-navigation-color' as string]: 'white', ['--swiper-navigation-size' as string]: '10px' }}></button>
-                                <button className="swiper-button-next static! w-10! h-10! mt-0! hover:bg-red border border-white hover:border-red transition-colors" style={{ ['--swiper-navigation-color' as string]: 'white', ['--swiper-navigation-size' as string]: '10px' }}></button>
+                                <button className="cursor-pointer swiper-button-prev static! w-10! h-10! mt-0! hover:bg-red border border-white hover:border-red transition-colors" style={{ ['--swiper-navigation-color' as string]: 'white', ['--swiper-navigation-size' as string]: '10px' }}></button>
+                                <button className="cursor-pointer swiper-button-next static! w-10! h-10! mt-0! hover:bg-red border border-white hover:border-red transition-colors" style={{ ['--swiper-navigation-color' as string]: 'white', ['--swiper-navigation-size' as string]: '10px' }}></button>
                             </div>
                         </div>
                     </div>
@@ -95,11 +95,11 @@ const Index = () => {
             {/* DEDICATION SECTION */}
             <section className="py-20 bg-white">
                 <div className="container mx-auto px-4">
-                    <div className="text-center mb-16">
-                        <h2 className="text-4xl font-black text-black uppercase tracking-wide mb-4">
+                    <div className="text-center mb-30">
+                        <h2 className="text-4xl font-black text-black/80 uppercase tracking-wide mb-4">
                             Dedication to Shaping a More Powerful Future
                         </h2>
-                        <div className="w-24 h-1 bg-black mx-auto"></div>
+                        <div className="w-24 h-1 bg-black/80 mx-auto"></div>
                     </div>
 
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
@@ -109,10 +109,10 @@ const Index = () => {
                                     <img 
                                         src={item.img} 
                                         alt={item.name} 
-                                        className="max-h-full max-w-full object-contain transition-transform duration-500 group-hover:scale-110"
+                                        className="w-[40rem] object-cover transition-transform duration-500 group-hover:scale-120"
                                     />
                                 </div>
-                                <h3 className="text-center text-sm font-bold text-gray-500 uppercase group-hover:text-[#E60013] transition-colors">
+                                <h3 className="text-center text-lg font-normal text-black transition-colors group-hover:scale-105">
                                     {item.name}
                                 </h3>
                             </div>
@@ -122,30 +122,30 @@ const Index = () => {
             </section>
 
             {/* PIONEERING FUTURE SECTION */}
-            <section className="py-20 pt-32 pb-32">
+            <section className="pt-20 pb-10">
                  <div className="container mx-auto px-4 mb-20 text-center">
-                    <h2 className="text-3xl font-black text-[#666666] uppercase tracking-wide mb-4">
+                    <h2 className="text-4xl font-black text-black/80 uppercase tracking-wide mb-4">
                         Pioneering The Future
                     </h2>
-                    <div className="w-24 h-1 bg-[#666666] mx-auto"></div>
+                    <div className="w-24 h-1 bg-black/80 mx-auto"></div>
                 </div>
                 
                 <div 
-                    className="relative w-full h-[500px] bg-cover bg-center bg-fixed flex items-center"
+                    className="relative w-full h-[559px] bg-cover bg-center bg-fixed flex items-center"
                     style={{ backgroundImage: "url('/images/index/bacground-pioneeringthefuture.jpg')" }}
                 >
-                    <div className="absolute inset-0 bg-black/40"></div>
+                    <div className="absolute inset-0 bg-[#000000]/60"></div>
                     <div className="container mx-auto px-4 relative z-10">
-                        <div className="max-w-2xl text-white">
-                            <h2 className="text-4xl font-black mb-6 leading-tight">
+                        <div className="max-w-4xl text-white">
+                            <h2 className="text-4xl font-black mb-6 leading-normal">
                                 Relentlessly Pursuing Groundbreaking Power Solutions for Yihua's Highly Valued Clients
                             </h2>
-                            <div className="space-y-4 text-gray-200 mb-8 font-light text-sm tracking-wide">
+                            <div className="space-y-4 text-white mb-8 font-light text-lg tracking-wide">
                                 <p>A pioneer in power solutions, delivering high performance consistently.</p>
                                 <p>Designed for continuous power and dependability.</p>
                                 <p>Committed to supporting our clients and respecting the environment.</p>
                             </div>
-                            <button className="bg-[#E60013] hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full transition-colors text-sm">
+                            <button className="cursor-pointer bg-red hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full transition-colors text-md">
                                 Embark on Our Journey
                             </button>
                         </div>
@@ -154,10 +154,10 @@ const Index = () => {
             </section>
 
             {/* FUELING PROGRESS SECTION */}
-            <section className="py-20 bg-white mb-20">
+            <section className="pt-5 bg-white">
                 <div className="">
                     <div className="text-center mb-16">
-                        <h2 className="text-3xl font-black text-black uppercase tracking-wide mb-4">
+                        <h2 className="text-4xl font-black text-black/80 uppercase tracking-wide mb-4">
                             Fueling Your Progress and Growth with Our Energy Solutions
                         </h2>
                         <div className="w-24 h-1 bg-black mx-auto"></div>

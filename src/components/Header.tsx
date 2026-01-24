@@ -15,8 +15,8 @@ const Header = () => {
     ];
 
     return (
-        <header className="fixed top-0 left-0 w-full z-50 bg-white font-outfit">
-            <div className="px-4 md:px-40 py-4 flex items-center justify-between">
+        <header className="fixed top-0 left-0 w-full z-50 bg-white font-outfit shadow-lg">
+            <div className="container mx-auto py-2 flex items-center justify-between">
                 {/* Logo */}
                 <Link to="/" className="shrink-0">
                     <img src={logo} alt="Yihua Logo" className="h-10 md:h-18 w-auto" />
@@ -41,7 +41,7 @@ const Header = () => {
                     </nav>
 
                     {/* Search Bar */}
-                    <div className="hidden md:flex items-center border border-gray-200 rounded-full px-4 py-1.5 w-64 focus-within:border-red-600 transition-colors bg-white">
+                    <div className="hidden md:flex items-center border border-gray-300 rounded-full px-4 py-3 w-64 focus-within:border-red-600 transition-colors bg-white">
                         <input 
                             type="text" 
                             placeholder="Search..." 
@@ -52,11 +52,11 @@ const Header = () => {
 
                     {/* Language Toggle */}
                     <div className="relative group">
-                        <button className="flex items-center gap-1 text-sm font-medium border border-gray-200 rounded-full px-4 py-1.5 hover:text-red-600 transition-colors text-gray-400">
+                        <button className="flex items-center gap-1 text-sm font-medium border border-gray-300 rounded-full px-4 py-3 hover:text-red-600 transition-colors text-gray-400">
                             {language}
                             <IoIosArrowDown className="group-hover:rotate-180 transition-transform duration-200" />
                         </button>
-                        
+
                         {/* Dropdown */}
                         <div className="absolute top-full right-0 mt-2 w-32 bg-white rounded-lg shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform origin-top-right border border-gray-100">
                             <button 

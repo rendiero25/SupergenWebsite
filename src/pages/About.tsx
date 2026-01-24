@@ -2,6 +2,7 @@ import { Link, useLocation } from 'react-router-dom';
 import { IoIosArrowForward } from "react-icons/io";
 import { FaHome } from "react-icons/fa";
 import corporateProfileImage from '/images/about/image-corporateprofile.jpg';
+import aboutBanner from '/images/solution/solution-banner.jpg';
 
 // Helper to generate factory images array
 const factoryImages = Array.from({ length: 16 }, (_, i) => ({
@@ -47,9 +48,9 @@ const About = () => {
             default:
                 return (
                     <div>
-                        <h2 className="text-2xl font-bold mb-8 text-gray-800 text-center uppercase tracking-wide">Corporate Profile</h2>
+                        <h2 className="text-3xl font-bold mb-8 text-gray-800 text-center">Corporate Profile</h2>
                         
-                        <div className="space-y-6 text-gray-600 text-sm leading-relaxed text-justify mb-8">
+                        <div className="space-y-6 text-black text-md leading-relaxed text-justify mb-8">
                             <p>
                                 Fujian Yihua Electrical Machinery Co., Ltd. was founded in 1994, located in "Generator City of China"– Fu'an City, which is the national key base for all kinds of generators. We are a key enterprise in Fu'an, having our own right of exporting the products. Our company is committed to pursuing technology innovation, developing and manufacturing various generators and generator sets for decades.
                             </p>
@@ -69,7 +70,7 @@ const About = () => {
                             <img 
                                 src={corporateProfileImage} 
                                 alt="Corporate Profile" 
-                                className="w-full h-auto shadow-md"
+                                className="w-full w-80"
                             />
                         </div>
                     </div>
@@ -86,23 +87,24 @@ const About = () => {
     };
 
     return (
-        <div className="bg-gray-50 min-h-screen font-outfit pb-20">
-            {/* Banner - Optional/Generic if needed, otherwise just breadcrumb handling */}
-             <div className="relative w-full h-[200px] md:h-[300px] bg-gray-800">
-                {/* Fallback pattern or generic image if available. Since explicit banner wasn't requested, using a simple dark bg or generic pattern */}
-                 <div className="absolute inset-0 bg-gradient-to-r from-gray-900 to-gray-800 flex items-center justify-center">
-                    <h1 className="text-4xl text-white font-bold uppercase tracking-wider">About Yihua</h1>
-                 </div>
+        <div className="bg-gray min-h-screen font-outfit pb-20">
+            {/* Hero Banner */}
+            <div className="relative w-full h-[300px] md:h-[430px]">
+                <img 
+                    src={aboutBanner} 
+                    alt="About Banner" 
+                    className="w-full h-full object-cover"
+                />
             </div>
 
             {/* Breadcrumb */}
-            <div className="container mx-auto px-4 py-4">
-               <div className="flex items-center text-xs text-gray-500 gap-1">
+            <div className="w-full bg-white">
+               <div className="container mx-auto bg-white px-4 py-7 mb-5 flex items-center text-sm text-black gap-1">
                    <Link to="/" className="hover:text-red-600"><FaHome /></Link>
                    <IoIosArrowForward />
-                   <Link to="/about" className="hover:text-red-600">About Yihua</Link>
+                   <Link to="/about" className="hover:text-red">About Yihua</Link>
                    <IoIosArrowForward />
-                   <span className="text-red-600 font-bold">
+                   <span className="">
                         {getPageTitle()}
                    </span>
                </div>
@@ -139,10 +141,11 @@ const About = () => {
 
                      {/* Help & Contact (Reused) */}
                      <div>
-                         <h2 className="font-bold text-xl mb-6 text-[#1e1e1e] uppercase border-b-2 border-gray-200 pb-2 inline-block">
-                             Help & Contact
-                         </h2>
-                         <div className="bg-white p-6 shadow-sm border border-gray-100 text-sm text-gray-600 space-y-4">
+                         <div className="bg-white p-6 border border-gray-100 text-sm text-gray-600 space-y-4">
+                             <h2 className="font-bold text-3xl mb-6 text-[#1e1e1e] uppercase border-b-2 border-gray-200 pb-2 inline-block">
+                                 Help & Contact
+                             </h2>
+                             
                              <p>
                                  <strong className="block text-gray-800 mb-1">Address:</strong>
                                  No. 16, Jinxin Road, Chengyang Town, Fu'an City, Ningde City, Fujian Province, China
@@ -153,15 +156,15 @@ const About = () => {
                                  0086-593-6382918
                              </p>
                              <p>
-                                 <strong className="block text-gray-800 mb-1">Fax:</strong>
+                                 <strong className="text-gray-800 mb-1">Fax: </strong>
                                  0086 593 6582997
                              </p>
                              <p>
-                                 <strong className="block text-gray-800 mb-1">Mobile/WhatsApp:</strong>
+                                 <strong className="text-gray-800 mb-1">Mobile/WhatsApp: </strong>
                                  +86 18650536888
                              </p>
                              <p>
-                                 <strong className="block text-gray-800 mb-1">E-mail:</strong>
+                                 <strong className="text-gray-800 mb-1">E-mail: </strong>
                                  yihua@e-yihua.com
                              </p>
                          </div>
