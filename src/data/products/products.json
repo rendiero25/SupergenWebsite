@@ -7,7 +7,7 @@
         "id": "product1-generatorset-opentype",
         "name": "Open Type",
         "image-banner": "/images/products/generator-set/open-type/opentype-banner.jpg",
-        "description": "Open type generator sets are designed for easy access and maintenance. These generator sets consist of an engine, alternator, control panel, and a base frame, all assembled in an open configuration without a protective enclosure or canopy.\n\n \n\nAdvantages of Open Type Generator Sets:\n· Enhanced Accessibility: The open design provides easy access to all components, making maintenance and repair tasks more convenient and efficient.\n· Flexibility in Customization: Open gensets can be customized to meet specific project requirements, such as integrating additional features or tailoring the control system.\n· Cost-Effective: Without the need for a protective enclosure, open gensets often come at a lower initial cost compared to enclosed or containerized generator sets.\n· Cooling Efficiency: The open configuration ensures better airflow and cooling, resulting in improved performance and efficiency.\n\n \n\nOpen type generator sets find applications in a wide range of industries, including agriculture, construction, manufacturing, and mining, where reliable power supply and ease of maintenance are essential. They are an ideal choice for customers seeking a flexible, cost-effective, and accessible power generation solution.",
+        "description": "Open type generator sets are designed for easy access and maintenance. These generator sets consist of an engine, alternator, control panel, and a base frame, all assembled in an open configuration without a protective enclosure or canopy.\n\n Advantages of Open Type Generator Sets:\n· Enhanced Accessibility: The open design provides easy access to all components, making maintenance and repair tasks more convenient and efficient.\n· Flexibility in Customization: Open gensets can be customized to meet specific project requirements, such as integrating additional features or tailoring the control system.\n· Cost-Effective: Without the need for a protective enclosure, open gensets often come at a lower initial cost compared to enclosed or containerized generator sets.\n· Cooling Efficiency: The open configuration ensures better airflow and cooling, resulting in improved performance and efficiency.\n\n Open type generator sets find applications in a wide range of industries, including agriculture, construction, manufacturing, and mining, where reliable power supply and ease of maintenance are essential. They are an ideal choice for customers seeking a flexible, cost-effective, and accessible power generation solution.",
         "opentype-type": [
           {
             "id": "product1type1subtype1",
@@ -111,7 +111,7 @@
             "image-product": [
               "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai1.jpg",
               "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai2.jpg",
-              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai3.jpg"
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai3.png"
             ],
             "description": "Yuchai, a Chinese engine manufacturer founded in 1951, boasts a wide range of products that cater to various industries, including highway vehicles, generator sets, and marine applications. Their engine lineup consists of low-speed, medium-speed, and high-speed engines, as well as",
             "keywords": ["Yuchai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
@@ -129,7 +129,7 @@
             "id": "product1type1subtype6",
             "category": "Sdec",
             "name": "Sdec",
-            "logo": "/images/products/generator-set/open-type/logo-products/logo-sdec.jpg",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-sdec.png",
             "image-product": [
               "/images/products/generator-set/open-type/image-products/imageproduct-sdec1.jpg",
               "/images/products/generator-set/open-type/image-products/imageproduct-sdec2.jpg",
@@ -235,7 +235,7 @@
             "name": "Yanmar",
             "logo": "/images/products/generator-set/open-type/logo-products/logo-yanmar.jpg",
             "image-product": [
-              "/images/products/generator-set/open-type/image-products/imageproduct-yanmar1.png",
+              "/images/products/generator-set/open-type/image-products/imageproduct-yanmar1.jpg",
               "/images/products/generator-set/open-type/image-products/imageproduct-yanmar2.jpg"
             ],
             "description": "YANMAR has continued producing high performance engines for years. The company's success is built upon the dedication and expertise of professionals working in each division, including fundamental research, development, production, and customer support",
@@ -265,7 +265,7 @@
         "id": "product1-generatorset-silenttype",
         "name": "Silent Type",
         "image-banner": "/images/products/generator-set/silent-type/silenttype-banner.jpg",
-        "description": "Silent type generator sets, also known as enclosed or canopy type, are power generating units that combine a high-performance engine, an alternator, a control panel, and a base frame, all housed within an enclosure for enhanced noise reduction and weather protection. \n\n \n\nAdvantages of Silent Type Generator Sets:\n· Noise Reduction: Enclosed in a soundproofed canopy, silent gensets significantly minimize noise levels, making them suitable for use in residential areas, schools, hospitals, and other noise-sensitive environments.\n· Weather Protection: The protective enclosure shields the generator set from harsh weather conditions, such as rain, snow, and dust, ensuring optimal performance and durability in various environments.\n· Security and Safety: With lockable access panels and enhanced safety features, silent generator sets provide secure operation and prevent unauthorized access.\n· Aesthetics: The enclosed design offers a visually appealing and professional appearance, blending well with different architectural styles and settings.\n\n \n\nSilent type generator sets are widely used in numerous industries, including construction, telecommunications, data centers, healthcare, and events, where reliable, quiet, and weather-protected power generation is essential. These units are designed to meet the diverse needs of customers who require a combination of performance, durability, and reduced noise levels for their power generation solutions.",
+        "description": "Silent type generator sets, also known as enclosed or canopy type, are power generating units that combine a high-performance engine, an alternator, a control panel, and a base frame, all housed within an enclosure for enhanced noise reduction and weather protection. \n\n Advantages of Silent Type Generator Sets:\n· Noise Reduction: Enclosed in a soundproofed canopy, silent gensets significantly minimize noise levels, making them suitable for use in residential areas, schools, hospitals, and other noise-sensitive environments.\n· Weather Protection: The protective enclosure shields the generator set from harsh weather conditions, such as rain, snow, and dust, ensuring optimal performance and durability in various environments.\n· Security and Safety: With lockable access panels and enhanced safety features, silent generator sets provide secure operation and prevent unauthorized access.\n· Aesthetics: The enclosed design offers a visually appealing and professional appearance, blending well with different architectural styles and settings.\n\n Silent type generator sets are widely used in numerous industries, including construction, telecommunications, data centers, healthcare, and events, where reliable, quiet, and weather-protected power generation is essential. These units are designed to meet the diverse needs of customers who require a combination of performance, durability, and reduced noise levels for their power generation solutions.",
         "silenttype-type": [
           {
             "id": "product1type2subtype1",
@@ -369,7 +369,7 @@
             "image-product": [
               "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai1.jpg",
               "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai2.jpg",
-              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai3.jpg"
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai3.png"
             ],
             "description": "Yuchai, a Chinese engine manufacturer founded in 1951, boasts a wide range of products that cater to various industries, including highway vehicles, generator sets, and marine applications. Their engine lineup consists of low-speed, medium-speed, and high-speed engines, as well as",
             "keywords": ["Yuchai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
@@ -387,7 +387,7 @@
             "id": "product1type2subtype6",
             "category": "Sdec",
             "name": "Sdec",
-            "logo": "/images/products/generator-set/silent-type/logo-products/logo-sdec.jpg",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-sdec.png",
             "image-product": [
               "/images/products/generator-set/silent-type/image-products/imageproduct-sdec1.jpg",
               "/images/products/generator-set/silent-type/image-products/imageproduct-sdec2.jpg",
@@ -493,7 +493,7 @@
             "name": "Yanmar",
             "logo": "/images/products/generator-set/silent-type/logo-products/logo-yanmar.jpg",
             "image-product": [
-              "/images/products/generator-set/silent-type/image-products/imageproduct-yanmar1.png",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yanmar1.jpg",
               "/images/products/generator-set/silent-type/image-products/imageproduct-yanmar2.jpg"
             ],
             "description": "YANMAR has continued producing high performance engines for years. The company's success is built upon the dedication and expertise of professionals working in each division, including fundamental research, development, production, and customer support",
@@ -522,7 +522,7 @@
         "id": "product1-generatorset-containertype",
         "name": "Container Type",
         "image-banner": "/images/products/generator-set/container-type/silenttype-banner.jpg",
-        "description": "Container type generator sets are fully integrated power generation units housed within a standardized shipping container, combining a high-performance engine, an alternator, a control panel, and a base frame. These containerized gensets are designed to deliver reliable, efficient, and easily transportable power solutions for a wide range of applications.\n\n \n\nAdvantages  of Container Type Generator Sets:\n· Mobility and Transportability: The container design ensures ease of transportation via truck, rail, or ship, making these gensets ideal for remote locations or temporary power requirements.\n· Durability and Weather Protection: The robust container structure protects the generator set from harsh environmental conditions, such as extreme temperatures, wind, rain, and snow, ensuring optimal performance and longevity.\n· Security and Safety: Containerized gensets feature lockable access doors and enhanced safety features, providing secure operation and minimizing the risk of unauthorized access.\n· Modular Design: Container type generator sets can be easily combined with other containers to create larger, scalable power systems, making them adaptable to varying power demands.\n\n \n\nContainer type generator sets find application in numerous industries, including mining, oil and gas, construction, and military operations, where reliable, mobile, and weather-protected power generation is essential. These units cater to customers seeking a versatile, durable, and easily transportable power solution for their specific requirements.",
+        "description": "Container type generator sets are fully integrated power generation units housed within a standardized shipping container, combining a high-performance engine, an alternator, a control panel, and a base frame. These containerized gensets are designed to deliver reliable, efficient, and easily transportable power solutions for a wide range of applications.\n\n Advantages  of Container Type Generator Sets:\n· Mobility and Transportability: The container design ensures ease of transportation via truck, rail, or ship, making these gensets ideal for remote locations or temporary power requirements.\n· Durability and Weather Protection: The robust container structure protects the generator set from harsh environmental conditions, such as extreme temperatures, wind, rain, and snow, ensuring optimal performance and longevity.\n· Security and Safety: Containerized gensets feature lockable access doors and enhanced safety features, providing secure operation and minimizing the risk of unauthorized access.\n· Modular Design: Container type generator sets can be easily combined with other containers to create larger, scalable power systems, making them adaptable to varying power demands.\n\n Container type generator sets find application in numerous industries, including mining, oil and gas, construction, and military operations, where reliable, mobile, and weather-protected power generation is essential. These units cater to customers seeking a versatile, durable, and easily transportable power solution for their specific requirements.",
         "silenttype-type": [
           {
             "id": "product1type3subtype1",
@@ -626,7 +626,7 @@
             "image-product": [
               "/images/products/generator-set/container-type/image-products/imageproduct-yuchai1.jpg",
               "/images/products/generator-set/container-type/image-products/imageproduct-yuchai2.jpg",
-              "/images/products/generator-set/container-type/image-products/imageproduct-yuchai3.jpg"
+              "/images/products/generator-set/container-type/image-products/imageproduct-yuchai3.png"
             ],
             "description": "Yuchai, a Chinese engine manufacturer founded in 1951, boasts a wide range of products that cater to various industries, including highway vehicles, generator sets, and marine applications. Their engine lineup consists of low-speed, medium-speed, and high-speed engines, as well as",
             "keywords": ["Yuchai", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct", "Made in China"],
@@ -644,7 +644,7 @@
             "id": "product1type3subtype6",
             "category": "Sdec",
             "name": "Sdec",
-            "logo": "/images/products/generator-set/container-type/logo-products/logo-sdec.jpg",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-sdec.png",
             "image-product": [
               "/images/products/generator-set/container-type/image-products/imageproduct-sdec1.jpg",
               "/images/products/generator-set/container-type/image-products/imageproduct-sdec2.jpg",
@@ -750,7 +750,7 @@
             "name": "Yanmar",
             "logo": "/images/products/generator-set/container-type/logo-products/logo-yanmar.jpg",
             "image-product": [
-              "/images/products/generator-set/container-type/image-products/imageproduct-yanmar1.png",
+              "/images/products/generator-set/container-type/image-products/imageproduct-yanmar1.jpg",
               "/images/products/generator-set/container-type/image-products/imageproduct-yanmar2.jpg"
             ],
             "description": "YANMAR has continued producing high performance engines for years. The company's success is built upon the dedication and expertise of professionals working in each division, including fundamental research, development, production, and customer support",
@@ -786,14 +786,14 @@
         "id": "product2-brushlessalternator",
         "name": "Brushless Alternator",
         "image-banner": "/images/products/brushless-alternator/brushless-banner.jpg",
-        "description": "A brushless alternator is an advanced component of a generator set that produces electrical power through an efficient and reliable process. Unlike traditional alternators with brushes, a brushless alternator uses a magnetic field created by a permanent magnet or an exciter to generate electricity, offering numerous benefits for generator set applications.\n\n \n\nAdvantages of Brushless Alternators:\n· Enhanced Efficiency: Brushless alternators exhibit improved efficiency due to reduced energy loss, resulting in better fuel economy and lower operating costs.\n· Longer Lifespan: Without brushes, these alternators experience less wear and tear, ensuring a longer lifespan and reduced maintenance requirements.\n· Lower Noise Levels: Brushless alternators produce less noise compared to their brushed counterparts, making them suitable for noise-sensitive environments.\n· Better Voltage Regulation: The advanced design of brushless alternators provides more stable voltage regulation, ensuring reliable and consistent power output.\n\n \n\nBy offering improved efficiency, reliability, and reduced maintenance, these alternators serve as an ideal solution for customers seeking a high-performance generator set component.",
+        "description": "A brushless alternator is an advanced component of a generator set that produces electrical power through an efficient and reliable process. Unlike traditional alternators with brushes, a brushless alternator uses a magnetic field created by a permanent magnet or an exciter to generate electricity, offering numerous benefits for generator set applications.\n\n Advantages of Brushless Alternators:\n· Enhanced Efficiency: Brushless alternators exhibit improved efficiency due to reduced energy loss, resulting in better fuel economy and lower operating costs.\n· Longer Lifespan: Without brushes, these alternators experience less wear and tear, ensuring a longer lifespan and reduced maintenance requirements.\n· Lower Noise Levels: Brushless alternators produce less noise compared to their brushed counterparts, making them suitable for noise-sensitive environments.\n· Better Voltage Regulation: The advanced design of brushless alternators provides more stable voltage regulation, ensuring reliable and consistent power output.\n\n By offering improved efficiency, reliability, and reduced maintenance, these alternators serve as an ideal solution for customers seeking a high-performance generator set component.",
         "opentype-type": [
           {
             "id": "product2type1subtype1",
             "category": "Yihua",
             "name": "Yihua",
-            "logo": "/images/products/brushless-alternator/logo-yihua.jpg",
-            "image-product": "/images/products/generator-set/brushless-alternator/image-products/imageproduct-yihua1.png",
+            "logo": "/images/products/brushless-alternator/logo-yihua.png",
+            "image-product": "/images/products/brushless-alternator/image-products/imageproduct-yihua1.png",
             "description": "Land & marine used A.C. synchronous generators (ST&STC series single/three phase third-harmonic excitation synchronous generator; TFX series three- phase compound excitation synchronous generator; TFW2 series three phase brushless synchronous generator)",
             "keywords": ["Cummins", "Genset", "Generator Set", "Diesel Generator Set", "OEM Manufacturer", "Factory Direct"],
             "cummins-type": [
