@@ -1,0 +1,154 @@
+{
+  "common": {
+    "search": "Cari...",
+    "language": "Bahasa",
+    "english": "English",
+    "indonesia": "Indonesia",
+    "viewProducts": "Lihat Produk",
+    "send": "Kirim",
+    "getQuoteNow": "Dapatkan Penawaran Sekarang",
+    "inquiry": "Pertanyaan",
+    "related": "Terkait",
+    "clickHere": "Klik Di Sini",
+    "comingSoon": "Segera Hadir...",
+    "exploreMore": "Jelajahi Lebih Lanjut",
+    "discoverMore": "Temukan Lebih Lanjut",
+    "learnMore": "Pelajari Lebih Lanjut"
+  },
+  "navigation": {
+    "products": "Produk",
+    "solutions": "Solusi",
+    "aboutYihua": "Tentang Yihua",
+    "helpContact": "Bantuan & Kontak"
+  },
+  "products": {
+    "title": "Produk",
+    "generatorSet": "Set Generator",
+    "brushlessAlternator": "Alternator Tanpa Sikat",
+    "openType": "Tipe Terbuka",
+    "silentType": "Tipe Senyap",
+    "containerType": "Tipe Kontainer",
+    "relatedProducts": "Produk Terkait",
+    "description": "Deskripsi"
+  },
+  "productTypes": {
+    "openTypeDiesel": "Set Generator Diesel Tipe Terbuka",
+    "silentTypeDiesel": "Set Generator Diesel Tipe Senyap",
+    "containerTypeDiesel": "Set Generator Diesel Tipe Kontainer",
+    "brushlessAlternator": "Alternator Tanpa Sikat"
+  },
+  "solutions": {
+    "title": "Solusi",
+    "mining": "Pertambangan",
+    "construction": "Konstruksi",
+    "oilGas": "Minyak & Gas",
+    "powerPlants": "Pembangkit Listrik",
+    "dataCenters": "Pusat Data",
+    "telecom": "Telekomunikasi",
+    "telecommunication": "Telekomunikasi",
+    "healthcare": "Kesehatan",
+    "utilities": "Utilitas"
+  },
+  "about": {
+    "title": "Tentang Yihua",
+    "corporateProfile": "Profil Perusahaan",
+    "factoryOverview": "Gambaran Pabrik",
+    "newsCenter": "Pusat Berita",
+    "certificates": "Sertifikat",
+    "corporateDescription1": "Fujian Yihua Electrical Machinery Co., Ltd. didirikan pada tahun 1994, berlokasi di \"Kota Generator China\"– Kota Fu'an, yang merupakan basis utama nasional untuk semua jenis generator. Kami adalah perusahaan utama di Fu'an, memiliki hak ekspor produk sendiri. Perusahaan kami berkomitmen untuk mengejar inovasi teknologi, mengembangkan dan memproduksi berbagai generator dan set generator selama puluhan tahun.",
+    "mainProductsTitle": "Produk utama kami meliputi item-item berikut:",
+    "mainProductsList1": "Generator sinkron A.C. untuk darat & laut (generator sinkron eksitasi harmonik ketiga fase tunggal/tiga seri ST&STC; generator sinkron eksitasi majemuk tiga fase seri TFX; generator sinkron tanpa sikat tiga fase seri TFW2);",
+    "mainProductsList2": "Set generator diesel (tipe terbuka, tipe senyap, tipe trailer dan set generator diesel start/stop otomatis). Produk-produk ini laris baik di dalam maupun luar negeri. Generator sinkron eksitasi majemuk tiga fase TFKX-H dan seri TFW-H tanpa sikat telah memperoleh sertifikasi dari China Classification Society (CCS) serta Register of Fishing Vessel of the People's Republic of China (ZY). Selain itu, generator sikat darat, generator tanpa sikat dan generator diesel telah mendapatkan sertifikasi \"CE\".",
+    "corporateDescription2": "Perusahaan kami secara aktif menerapkan sistem administrasi kualitas internasional ISO9001:2000 dan kami menjalankan perusahaan dengan semangat \"Dedikasi & Kreasi & Kerja Tim & Kredit\". Kami fokus pada strategi pengembangan, mengambil sistem administrasi kualitas lengkap sebagai fondasi, kreasi teknologi sebagai metode dan kreasi pasar sebagai target, yang mengarah pada pengembangan berkelanjutan perusahaan. Perusahaan kami terus meningkatkan produk kami, dan telah memperoleh lebih dari 20 paten nasional. Produk kami telah memenangkan gelar \"Produk Baru Unggulan di Provinsi Fujian\", \"Produk yang Memuaskan Pelanggan di Provinsi Fujian\" dan \"Merek Terkenal Provinsi Fujian\"."
+  },
+  "contact": {
+    "title": "Formulir Kontak",
+    "partnerWithUs": "Bermitra Dengan Kami",
+    "formDescription": "Silakan isi formulir untuk menghubungi ahli YIHUA.",
+    "headquarters": "Kantor Pusat",
+    "helpContactTitle": "Bantuan & Kontak",
+    "emailPlaceholder": "Email*",
+    "namePlaceholder": "Nama",
+    "whatsappPlaceholder": "WhatsApp/Telegram/Viber...",
+    "demandedPowerPlaceholder": "Daya yang Dibutuhkan (kVA)",
+    "messagePlaceholder": "Pesan*",
+    "productNamePlaceholder": "Nama Produk:",
+    "bangladeshWarehouse": "Gudang Bangladesh",
+    "philippinesWarehouse": "Gudang Filipina",
+    "indonesiaWarehouse": "Gudang Indonesia",
+    "dubaiWarehouse": "Gudang Dubai",
+    "nigeriaWarehouse": "Gudang Nigeria"
+  },
+  "contactInfo": {
+    "address": "Alamat",
+    "tel": "Tel",
+    "fax": "Fax",
+    "mobileWhatsapp": "Mobile/WhatsApp",
+    "whatsappWechat": "Whatsapp/Wechat",
+    "email": "E-mail",
+    "mobile": "Mobile",
+    "headquarterAddress": "No. 16, Jalan Jinxin, Kota Chengyang, Kota Fu'an, Kota Ningde, Provinsi Fujian, China"
+  },
+  "index": {
+    "dedicationTitle": "Dedikasi untuk Membentuk Masa Depan yang Lebih Kuat",
+    "pioneeringTitle": "Merintis Masa Depan",
+    "pioneeringHeading": "Tanpa Henti Mengejar Solusi Daya Terobosan untuk Klien Yihua yang Sangat Dihargai",
+    "pioneeringDesc1": "Pelopor dalam solusi daya, memberikan kinerja tinggi secara konsisten.",
+    "pioneeringDesc2": "Dirancang untuk daya dan keandalan berkelanjutan.",
+    "pioneeringDesc3": "Berkomitmen untuk mendukung klien kami dan menghormati lingkungan.",
+    "embarkJourney": "Mulai Perjalanan Kami",
+    "fuelingTitle": "Mendorong Kemajuan dan Pertumbuhan Anda dengan Solusi Energi Kami"
+  },
+  "footer": {
+    "brandName": "YIHUA GENSET",
+    "tagline": "Kami Akan Selalu Dekat dengan yang Terbaik",
+    "description": "Yihua Genset adalah produsen set generator kelas atas dengan keahlian 30 tahun di China, didorong oleh inovasi dan keandalan untuk memberikan solusi energi yang efisien untuk masa depan yang berkelanjutan. Sebagai perusahaan yang berfokus pada klien dan berorientasi hasil, kami berusaha memberikan layanan luar biasa, memberdayakan mitra di seluruh dunia dengan pembangkit listrik yang dapat diandalkan. Percayakan kepada kami untuk mengenergi kesuksesan Anda.",
+    "copyright": "© 2024 Fujian Yihua Electrical Machinery Co., Ltd.",
+    "seoLabel": "Label SEO",
+    "poweredBy": "Didukung oleh www.300.cn"
+  },
+  "inquiry": {
+    "title": "Pertanyaan",
+    "replyTime": "Kami akan membalas Anda dalam",
+    "hours": "24 jam"
+  },
+  "heroSlider": {
+    "slide1": {
+      "heading": "Jelajahi Berbagai Set Generator Kami | 5-3000kVA",
+      "description": "Desain kokoh kami, kemampuan adaptasi ke berbagai industri, dan efisiensi energi menjadikan kami solusi terbaik untuk pasokan listrik tanpa gangguan. Pilih Yihua dan rasakan kinerja, kualitas, dan ketenangan pikiran yang tak tertandingi.",
+      "buttonName": "Jelajahi Lebih Lanjut"
+    },
+    "slide2": {
+      "heading": "Memberdayakan Industri, Memberdayakan Kesuksesan | Kekuatan di Balik Industri yang Sukses",
+      "description": "Temukan solusi daya yang serbaguna dan dapat diandalkan yang disesuaikan untuk memenuhi kebutuhan unik Pertambangan, Konstruksi, Manufaktur, Pembangkit Listrik, Pusat Data, Telekomunikasi, Kesehatan, dan Utilitas.",
+      "buttonName": "Temukan Lebih Lanjut"
+    },
+    "slide3": {
+      "heading": "Membangun Kepercayaan, Memberikan Keunggulan | 30 Tahun Keahlian",
+      "description": "Perjalanan ke Yihua: Temukan Warisan, Nilai, dan Pengejaran Keunggulan Kami.",
+      "buttonName": "Pelajari Lebih Lanjut"
+    },
+    "slide4": {
+      "heading": "Terhubung dengan Yihua | Mitra Daya Andal Anda",
+      "description": "Hubungi kami hari ini dan rasakan layanan pelanggan yang tak tertandingi, solusi daya yang disesuaikan, dan ketenangan pikiran untuk semua kebutuhan energi Anda.",
+      "buttonName": "Bantuan & Kontak"
+    }
+  },
+  "solutionHome": {
+    "mining": "Pertambangan",
+    "construction": "Konstruksi",
+    "oilGas": "Minyak & Gas",
+    "powerPlants": "Pembangkit Listrik",
+    "dataCenters": "Pusat Data",
+    "telecommunication": "Telekomunikasi",
+    "healthcare": "Kesehatan",
+    "utilities": "Utilitas"
+  },
+  "productDescriptions": {
+    "openType": "Set generator tipe terbuka dirancang untuk akses dan pemeliharaan yang mudah. Set generator ini terdiri dari mesin, alternator, panel kontrol, dan rangka dasar, semuanya dirangkai dalam konfigurasi terbuka tanpa pelindung atau kanopi.",
+    "silentType": "Set generator tipe senyap, juga dikenal sebagai tipe tertutup atau kanopi, adalah unit pembangkit listrik yang menggabungkan mesin berkinerja tinggi, alternator, panel kontrol, dan rangka dasar, semuanya ditempatkan dalam pelindung untuk pengurangan kebisingan dan perlindungan cuaca yang lebih baik.",
+    "containerType": "Set generator tipe kontainer adalah unit pembangkit listrik terintegrasi penuh yang ditempatkan dalam kontainer pengiriman standar, menggabungkan mesin berkinerja tinggi, alternator, panel kontrol, dan rangka dasar.",
+    "brushlessAlternator": "Alternator tanpa sikat adalah komponen canggih dari set generator yang menghasilkan daya listrik melalui proses yang efisien dan andal. Berbeda dengan alternator tradisional dengan sikat, alternator tanpa sikat menggunakan medan magnet yang diciptakan oleh magnet permanen atau eksiter untuk menghasilkan listrik."
+  }
+}
+

@@ -1,12 +1,18 @@
 import { Link, useLocation } from 'react-router-dom';
 import { IoIosArrowForward } from "react-icons/io";
 import { FaHome } from "react-icons/fa";
-import solutionData from '../data/products/solution.json';
+import solutionDataEn from '../data/products/solution.json';
+import solutionDataId from '../data/products/solution-id.json';
 import solutionBanner from '/images/solution/solution-banner.jpg';
+import { useLanguage } from '../context/LanguageContext';
 
 const Solutions = () => {
     const location = useLocation();
+    const { t, language } = useLanguage();
     
+    // Select data based on language
+    const solutionData = language === 'Indonesia' ? solutionDataId : solutionDataEn;
+
     // Path parsing: /solutions/mining
     const pathSegments = location.pathname.split('/').filter(Boolean);
     const activeSlug = pathSegments[1] || 'mining'; // Default to first one or handle empty
@@ -19,6 +25,21 @@ const Solutions = () => {
 
     // Fallback if not found (or redirect logic could go here)
     const currentSolution = activeSolution || solutionData[0];
+
+    // Map solution names with translations
+    const getSolutionName = (name: string) => {
+        const nameMap: { [key: string]: string } = {
+            'Mining': t('solutions.mining'),
+            'Construction': t('solutions.construction'),
+            'Oil & Gas': t('solutions.oilGas'),
+            'Power Plants': t('solutions.powerPlants'),
+            'Data Centers': t('solutions.dataCenters'),
+            'Telecom': t('solutions.telecom'),
+            'Healthcare': t('solutions.healthcare'),
+            'Utilities': t('solutions.utilities'),
+        };
+        return nameMap[name] || name;
+    };
 
     return (
         <div className="bg-gray min-h-screen font-outfit pb-20">
@@ -36,10 +57,10 @@ const Solutions = () => {
                <div className="container mx-auto bg-white px-4 py-7 mb-5 flex items-center text-sm text-black gap-1">
                    <Link to="/" className="hover:text-red-600"><FaHome /></Link>
                    <IoIosArrowForward />
-                   <Link to="/solutions" className="hover:text-red">Solutions</Link>
+                   <Link to="/solutions" className="hover:text-red">{t('solutions.title')}</Link>
                    <IoIosArrowForward />
                    <span className="">
-                        {currentSolution.name}
+                        {getSolutionName(currentSolution.name)}
                    </span>
                </div>
             </div>
@@ -51,7 +72,7 @@ const Solutions = () => {
                      <div>
                         <div className="flex flex-col items-start gap-2 bg-red py-7">
                             <h2 className="text-white font-bold px-6 uppercase text-3xl tracking-wide">
-                                Solutions
+                                {t('solutions.title')}
                                 
                             </h2>
                             <div className="w-5 h-1 bg-white ml-6"></div>
@@ -73,7 +94,7 @@ const Solutions = () => {
                                      >
                                         <span className="flex items-center gap-3">
                                             <IoIosArrowForward className="text-sm text-black" />
-                                            <div className="text-black text-lg">{sol.name}</div>
+                                            <div className="text-black text-lg">{getSolutionName(sol.name)}</div>
                                         </span>
                                      </Link>
                                  );
@@ -85,28 +106,28 @@ const Solutions = () => {
                      <div>
                          <div className="bg-white p-6 border border-gray-100 text-sm text-gray-600 space-y-4">
                              <h2 className="font-bold text-3xl mb-6 text-[#1e1e1e] uppercase border-b-2 border-gray-200 pb-2 inline-block">
-                                 Help & Contact
+                                 {t('navigation.helpContact')}
                              </h2>
                              
                              <p>
-                                 <strong className="block text-gray-800 mb-1">Address:</strong>
-                                 No. 16, Jinxin Road, Chengyang Town, Fu'an City, Ningde City, Fujian Province, China
+                                 <strong className="block text-gray-800 mb-1">{t('contactInfo.address')}:</strong>
+                                 {t('contactInfo.headquarterAddress')}
                              </p>
                              <p>
-                                 <strong className="block text-gray-800 mb-1">Tel:</strong>
+                                 <strong className="block text-gray-800 mb-1">{t('contactInfo.tel')}:</strong>
                                  0086-593-6668988<br/>
                                  0086-593-6382918
                              </p>
                              <p>
-                                 <strong className="text-gray-800 mb-1">Fax: </strong>
+                                 <strong className="text-gray-800 mb-1">{t('contactInfo.fax')}: </strong>
                                  0086 593 6582997
                              </p>
                              <p>
-                                 <strong className="text-gray-800 mb-1">Mobile/WhatsApp: </strong>
+                                 <strong className="text-gray-800 mb-1">{t('contactInfo.mobileWhatsapp')}: </strong>
                                  +86 18650536888
                              </p>
                              <p>
-                                 <strong className="text-gray-800 mb-1">E-mail: </strong>
+                                 <strong className="text-gray-800 mb-1">{t('contactInfo.email')}: </strong>
                                  yihua@e-yihua.com
                              </p>
                          </div>

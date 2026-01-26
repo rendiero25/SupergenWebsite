@@ -1,0 +1,1058 @@
+[
+  {
+    "id": "product1-generatorset",
+    "name": "Generator Set",
+    "type": [
+      {
+        "id": "product1-generatorset-opentype",
+        "name": "Open Type",
+        "image-banner": "/images/products/generator-set/open-type/opentype-banner.jpg",
+        "description": "Set generator tipe terbuka dirancang untuk akses dan pemeliharaan yang mudah. Set generator ini terdiri dari mesin, alternator, panel kontrol, dan rangka dasar, semuanya dirangkai dalam konfigurasi terbuka tanpa pelindung atau kanopi.",
+        "opentype-type": [
+          {
+            "id": "product1type1subtype1",
+            "category": "Cummins",
+            "name": "Cummins",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-cummins.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-cummins1.png",
+              "/images/products/generator-set/open-type/image-products/imageproduct-cummins2.png",
+              "/images/products/generator-set/open-type/image-products/imageproduct-cummins3.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-cummins4.jpg"
+            ],
+            "description": "Cummins Inc. adalah perusahaan multinasional Amerika terkemuka yang didirikan pada tahun 1919 oleh Clessie Cummins dan William Glanton Irwin. Dengan fokus pada perancangan, pembuatan, dan distribusi mesin inovatif, produk filtrasi, dan pembangkit listrik, Cummins telah menjadi kekuatan global dalam industri ini",
+            "keywords": [
+              "Cummins",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct"
+            ],
+            "cummins-type": [
+              {
+                "id": "product1type1subtype1subtype1",
+                "name": "50Hz",
+                "cummins50HZdescription1": "● Cummins Inc. adalah perusahaan multinasional Amerika terkemuka yang didirikan pada tahun 1919 oleh Clessie Cummins dan William Glanton Irwin. Dengan fokus pada perancangan, pembuatan, dan distribusi mesin inovatif, produk filtrasi, dan pembangkit listrik, Cummins telah menjadi kekuatan global dalam industri ini.\n● Yihua, sebagai pabrik OEM resmi Cummins di China, telah menjalin kerja sama yang kuat dengan Cummins selama beberapa dekade.\n● Dengan komitmen Yihua terhadap kualitas dan keandalan, dikombinasikan dengan teknologi mesin Cummins yang memiliki reputasi baik, genset diesel ini adalah pilihan yang sangat baik untuk berbagai industri, termasuk konstruksi, telekomunikasi, dan manufaktur, di antara yang lainnya. Percayakan Yihua dan Cummins untuk memberikan solusi daya yang melebihi harapan.",
+                "cummins50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-cummins.jpg",
+                "cummins50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              },
+              {
+                "id": "product1type1subtype1subtype2",
+                "name": "60Hz",
+                "cummins60HZdescription1": "● Cummins Inc. adalah perusahaan multinasional Amerika terkemuka yang didirikan pada tahun 1919 oleh Clessie Cummins dan William Glanton Irwin. Dengan fokus pada perancangan, pembuatan, dan distribusi mesin inovatif, produk filtrasi, dan pembangkit listrik, Cummins telah menjadi kekuatan global dalam industri ini.\n● Yihua, sebagai pabrik OEM resmi Cummins di China, telah menjalin kerja sama yang kuat dengan Cummins selama beberapa dekade.\n● Dengan komitmen Yihua terhadap kualitas dan keandalan, dikombinasikan dengan teknologi mesin Cummins yang memiliki reputasi baik, genset diesel ini adalah pilihan yang sangat baik untuk berbagai industri, termasuk konstruksi, telekomunikasi, dan manufaktur, di antara yang lainnya. Percayakan Yihua dan Cummins untuk memberikan solusi daya yang melebihi harapan.",
+                "cummins60HZimage": "/images/products/generator-set/open-type/image-products/image60HZ-cummins.jpg",
+                "cummins60HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype2",
+            "category": "Perkins",
+            "name": "Perkins",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-perkins.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-perkins1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-perkins2.jpg"
+            ],
+            "description": "Perkins Engines Company Limited, anak perusahaan Caterpillar Inc., adalah produsen berbasis di Inggris yang didirikan pada tahun 1932, yang mengkhususkan diri dalam desain dan produksi mesin diesel dan gas berkualitas tinggi. Perkins telah menjadi penyedia mesin terkenal di dunia dengan fokus pada inovasi, keandalan, dan efisiensi",
+            "keywords": [
+              "Perkins",
+              "Brushless Alternator",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct"
+            ],
+            "perkins-type": [
+              {
+                "id": "product1type1subtype2subtype1",
+                "name": "60Hz",
+                "perkins60HZdescription1": "● Sebagai produsen genset diesel terkemuka di China, Yihua telah menjalin kemitraan yang solid dengan Perkins, produsen mesin Inggris yang terkemuka, untuk menghadirkan genset berkinerja tinggi ke pasar dunia.\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Dedikasi Yihua terhadap kualitas dan inovasi, ditambah dengan teknologi mesin Perkins yang terkenal, pilih Yihua untuk solusi daya yang andal dan efisien yang secara konsisten melampaui standar industri.",
+                "perkins60HZimage": "/images/products/generator-set/open-type/image-products/image60HZ-perkins.jpg",
+                "perkins60HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype3",
+            "category": "Fawde",
+            "name": "Fawde",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-faw.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-fawde1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-fawde2.jpg"
+            ],
+            "description": "Fawde adalah merek mesin China terkemuka yang dikenal dengan mesin dieselnya yang andal dan serbaguna. Fawde adalah bagian dari FAW Jiefang, anak perusahaan FAW Group, salah satu dari \"Empat Besar\" produsen mobil China. Mesin Fawde banyak digunakan dalam berbagai aplikasi seperti pembangkit listrik, pompa air, forklift, pertanian",
+            "keywords": [
+              "FAW",
+              "Fawde",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "fawde-type": [
+              {
+                "id": "product1type1subtype3subtype1",
+                "name": "50Hz",
+                "fawde50HZdescription1": "● Fawde adalah merek mesin China terkemuka yang dikenal dengan mesin dieselnya yang andal dan serbaguna. Fawde adalah bagian dari FAW Jiefang, anak perusahaan FAW Group, salah satu dari \"Empat Besar\" produsen mobil China. Mesin Fawde banyak digunakan dalam berbagai aplikasi seperti pembangkit listrik, pompa air, forklift, peralatan pertanian, dan truk. Sejarah perusahaan dimulai pada tahun 1943, dan menjadi bagian dari FAW Group pada tahun 1992. Sejak itu, Fawde terus memperluas dan memproduksi mesin diesel berkualitas tinggi, dengan kapasitas produksi tahunan sekitar 150.000 unit.\n\n● Di Yihua, kami bangga dengan kolaborasi kami dengan Fawde untuk menghadirkan genset diesel terbaik kepada pelanggan di seluruh dunia. Kemitraan kami telah berkembang pesat, dengan Yihua memproduksi lebih dari 6.000 genset bertenaga mesin Fawde setiap tahunnya. Dengan rekam jejak kesuksesan yang terbukti dan komitmen bersama terhadap kualitas, Yihua dan Fawde terus mendorong inovasi dan kinerja di pasar pembangkit listrik. Percayakan Yihua dan Fawde untuk melebihi harapan Anda dan memberikan solusi daya superior yang secara konsisten melampaui standar industri.\n",
+                "fawde50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-fawde.jpg",
+                "fawde50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype4",
+            "category": "Weichai",
+            "name": "Weichai",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-weichai.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-weichai1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-weichai2.jpg"
+            ],
+            "description": "Weichai adalah perusahaan mesin China yang mapan didirikan pada tahun 1946. Dengan berbagai produknya, termasuk mesin diesel dan gas alam, Weichai telah membuat nama untuk dirinya sendiri baik di China maupun secara global. Komitmen perusahaan terhadap penelitian, kualitas, dan keberlanjutan telah memungkinkannya berkembang",
+            "keywords": [
+              "Weichai",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "weichai-type": [
+              {
+                "id": "product1type1subtype4subtype1",
+                "name": "50Hz",
+                "weichai50HZdescription1": "● Weichai adalah perusahaan mesin China yang mapan didirikan pada tahun 1946. Dengan berbagai produknya, termasuk mesin diesel dan gas alam, Weichai telah membuat nama untuk dirinya sendiri baik di China maupun secara global. Komitmen perusahaan terhadap penelitian, kualitas, dan keberlanjutan telah memungkinkannya berkembang di berbagai industri, seperti kendaraan tugas berat, mesin konstruksi, dan peralatan pembangkit listrik.\n\n● Sebagai produsen genset diesel tingkat 1 di China, Yihua telah bergabung dengan Weichai, produsen mesin terkemuka, untuk menawarkan genset berkinerja tinggi ke pasar global.\n\n● Pilih Yihua dan Weichai untuk kemitraan yang memprioritaskan kebutuhan pribadi Anda dan memberikan solusi daya unggul yang disesuaikan untuk mendorong kesuksesan Anda.",
+                "weichai50HZimage1": "/images/products/generator-set/open-type/image-products/image50HZ-weichai1.jpg",
+                "weichai50HZimage2": "/images/products/generator-set/open-type/image-products/image50HZ-weichai2.jpg",
+                "weichai50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype5",
+            "category": "Yuchai",
+            "name": "Yuchai",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-yuchai.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai2.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai3.png"
+            ],
+            "description": "Yuchai, produsen mesin China yang didirikan pada tahun 1951, memiliki berbagai produk yang melayani berbagai industri, termasuk kendaraan jalan raya, set generator, dan aplikasi kelautan. Jajaran mesin mereka terdiri dari mesin kecepatan rendah, kecepatan sedang, dan kecepatan tinggi, serta",
+            "keywords": [
+              "Yuchai",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "yuchai-type": [
+              {
+                "id": "product1type1subtype5subtype1",
+                "name": "50Hz",
+                "yuchai50HZdescription1": "● Yuchai, produsen mesin China yang didirikan pada tahun 1951, memiliki berbagai produk yang melayani berbagai industri, termasuk kendaraan jalan raya, set generator, dan aplikasi kelautan. Jajaran mesin mereka terdiri dari mesin kecepatan rendah, kecepatan sedang, dan kecepatan tinggi, serta mesin ringan, sedang, berat, dan besar. Yuchai memprioritaskan teknologi emisi untuk memenuhi standar lingkungan dan memastikan solusi daya yang berkelanjutan. Dengan kehadiran yang kuat di berbagai wilayah di seluruh China, Yuchai telah memantapkan dirinya sebagai pemimpin dalam desain dan pengembangan mesin, berkolaborasi dengan mitra Eropa dan Amerika yang terkenal.â—  Kemitraan antara Yuchai dan Yihua merupakan perpaduan kehebatan teknik, menggabungkan rangkaian lengkap solusi mesin inovatif Yuchai dengan keahlian Yihua dalam pembangkit listrik. Bersama-sama, mereka memberikan genset yang disesuaikan, efisien, dan andal yang dirancang untuk memenuhi kebutuhan spesifik berbagai industri.â—  Pendekatan berwawasan ke depan Yuchai terhadap teknologi emisi sejalan dengan dedikasi Yihua terhadap keberlanjutan, memastikan bahwa kolaborasi mereka menghasilkan solusi daya ramah lingkungan yang memenuhi standar lingkungan yang ketat. Sinergi antara dua perusahaan ini menawarkan pelanggan pilihan yang komprehensif dan dapat diandalkan untuk semua kebutuhan pembangkit listrik mereka.",
+                "yuchai50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-yuchai.jpg",
+                "yuchai50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype6",
+            "category": "Sdec",
+            "name": "Sdec",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-sdec.png",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-sdec1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-sdec2.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-sdec3.jpg"
+            ],
+            "description": "Shanghai New Power Automotive Technology Company Limited (sebelumnya dikenal sebagai Shanghai Diesel Engine Co., Ltd.) adalah produsen mesin diesel utama China. Dengan menggabungkan teknologi diesel terbaru dan perhatian ketat terhadap kualitas, kami menawarkan pelanggan mesin diesel bertenaga tinggi",
+            "keywords": [
+              "SDEC",
+              "Shangchai",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "sdec-type": [
+              {
+                "id": "product1type1subtype6subtype1",
+                "name": "50Hz",
+                "sdec50HZdescription1": "● Shanghai New Power Automotive Technology Company Limited (sebelumnya dikenal sebagai Shanghai Diesel Engine Co., Ltd.) adalah produsen mesin diesel utama China. Dengan menggabungkan teknologi diesel terbaru dan perhatian ketat terhadap kualitas, kami menawarkan pelanggan mesin diesel bertenaga tinggi dengan kinerja dan keandalan yang luar biasa. Dimulai dengan pendirian kami, kami telah menunjukkan pertumbuhan yang berkelanjutan dan membuktikan diri kami sebagai produsen dan penyedia produk berkualitas tinggi yang dapat dipercaya.\n\n● Bersama-sama, SDEC dan Yihua menawarkan berbagai genset yang dapat disesuaikan untuk memenuhi kebutuhan unik setiap aplikasi. Baik Anda memerlukan genset kecil untuk lokasi terpencil atau solusi daya skala besar untuk fasilitas industri, kombinasi teknologi mesin canggih SDEC dan komitmen Yihua terhadap kualitas dan inovasi memastikan bahwa Anda menerima produk yang melebihi harapan Anda.",
+                "sdec50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-sdec.jpg",
+                "sdec50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype7",
+            "category": "Doosan",
+            "name": "Doosan",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-doosan.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-doosan1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-doosan2.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-doosan3.jpg"
+            ],
+            "description": "Doosan, pemimpin di pasar mesin industri, menawarkan beragam mesin yang dirancang untuk berbagai aplikasi. Dengan fokus pada inovasi teknologi, keberlanjutan lingkungan, dan kepuasan pelanggan, mesin Doosan memberikan daya, efisiensi, dan daya tahan yang luar biasa",
+            "keywords": [
+              "Doosan",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "doosan-type": [
+              {
+                "id": "product1type1subtype7subtype1",
+                "name": "50Hz",
+                "doosan50HZdescription1": "● Doosan, pemimpin di pasar mesin industri, menawarkan beragam mesin yang dirancang untuk berbagai aplikasi. Dengan fokus pada inovasi teknologi, keberlanjutan lingkungan, dan kepuasan pelanggan, mesin Doosan memberikan daya, efisiensi, dan daya tahan yang luar biasa. Mesin Doosan ditandai dengan jajaran serbagunanya, kepatuhan emisi, teknologi canggih, dan kehadiran global yang kuat, memastikan solusi yang andal dan berkinerja tinggi untuk bisnis di seluruh dunia. Percayakan Doosan untuk kinerja mesin yang tak tertandingi, efisiensi, dan pengembalian investasi yang solid.\n\n● Dengan memilih Yihua dan Doosan, Anda berinvestasi dalam kemitraan yang memprioritaskan kinerja, efisiensi, dan kepuasan pelanggan. Rasakan keunggulan Yihua-Doosan untuk solusi pembangkit listrik yang memajukan bisnis Anda.",
+                "doosan50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-doosan.jpg",
+                "doosan50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              },
+              {
+                "id": "product1type1subtype7subtype2",
+                "name": "60Hz",
+                "doosan50HZdescription1": "● Doosan, pemimpin di pasar mesin industri, menawarkan beragam mesin yang dirancang untuk berbagai aplikasi. Dengan fokus pada inovasi teknologi, keberlanjutan lingkungan, dan kepuasan pelanggan, mesin Doosan memberikan daya, efisiensi, dan daya tahan yang luar biasa. Mesin Doosan ditandai dengan jajaran serbagunanya, kepatuhan emisi, teknologi canggih, dan kehadiran global yang kuat, memastikan solusi yang andal dan berkinerja tinggi untuk bisnis di seluruh dunia. Percayakan Doosan untuk kinerja mesin yang tak tertandingi, efisiensi, dan pengembalian investasi yang solid.\n\n● Dengan memilih Yihua dan Doosan, Anda berinvestasi dalam kemitraan yang memprioritaskan kinerja, efisiensi, dan kepuasan pelanggan. Rasakan keunggulan Yihua-Doosan untuk solusi pembangkit listrik yang memajukan bisnis Anda.",
+                "doosan50HZimage": "/images/products/generator-set/open-type/image-products/image60HZ-doosan.jpg",
+                "doosan50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype8",
+            "category": "Kubota",
+            "name": "Kubota",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-kubota.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-kubota1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-kubota2.jpg"
+            ],
+            "description": "Mesin ditambahkan ke lini produk Kubota yang banyak pada tahun 1922 ketika kami meneliti dan mengembangkan mesin pertanian dan industri Tipe A, dengan 3 tenaga kuda. Mesin mereka kemudian diperluas untuk berbagai penggunaan, dan mesin output tinggi, kompak dan ringan, telah mendapatkan",
+            "keywords": [
+              "Kubota",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "kubota-type": [
+              {
+                "id": "product1type1subtype8subtype1",
+                "name": "50Hz",
+                "kubota50HZdescription1": "● Mesin ditambahkan ke lini produk Kubota yang banyak pada tahun 1922 ketika kami meneliti dan mengembangkan mesin pertanian dan industri Tipe A, dengan 3 tenaga kuda. Mesin mereka kemudian diperluas untuk berbagai penggunaan, dan mesin output tinggi, kompak dan ringan, telah mendapatkan kepercayaan tingkat tinggi di pasar global.\n\n● Yihua berdedikasi untuk menyediakan pelanggan dengan genset yang andal dan efisien. Kemitraan kami dengan Kubota memungkinkan kami menawarkan solusi daya yang mewujudkan kinerja, keandalan, efisiensi, kepatuhan lingkungan, dan keserbagunaan.\n\n● Dengan memilih Yihua dan Kubota, Anda akan mendapat manfaat dari teknologi mesin Kubota yang terkenal, menampilkan output daya yang luar biasa, keandalan yang tak tergoyahkan, efisiensi yang ditingkatkan, solusi yang sadar lingkungan, dan keserbagunaan untuk setiap kebutuhan. Dengan komitmen Yihua terhadap kepuasan pelanggan dan keunggulan teknik Kubota, aliansi kami memberikan solusi pembangkit listrik yang melebihi harapan, mendorong operasi Anda ke depan, dan memberikan ketenangan pikiran. Pilih Yihua dan Kubota untuk solusi pembangkit listrik terbaik.",
+                "kubota50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-kubota.jpg",
+                "kubota50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              },
+              {
+                "id": "product1type1subtype8subtype2",
+                "name": "60Hz",
+                "kubota60HZimage": "/images/products/generator-set/open-type/image-products/image60HZ-kubota.jpg",
+                "kubota60HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype9",
+            "category": "Deutz",
+            "name": "Deutz",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-deutz.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz1.png",
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz2.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz3.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz4.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz5.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz6.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-deutz7.jpg"
+            ],
+            "description": "Dari mesin konstruksi hingga pertanian dan peralatan stasioner, mesin diesel DEUTZ dalam kisaran daya dari 18 hingga 620 kW menawarkan solusi serbaguna di sektor off-highway. Mesin diesel dari DEUTZ memenuhi standar emisi gas buang paling ketat dari EU Stage V/US EPA",
+            "keywords": [
+              "Deutz",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct"
+            ],
+            "deutz-type": [
+              {
+                "id": "product1type1subtype9subtype1",
+                "name": "50Hz",
+                "deutz50HZdescription1": "● Dari mesin konstruksi hingga pertanian dan peralatan stasioner, mesin diesel DEUTZ dalam kisaran daya dari 18 hingga 620 kW menawarkan solusi serbaguna di sektor off-highway.\n\n● Mesin diesel dari DEUTZ memenuhi standar emisi gas buang paling ketat dari EU Stage V/US EPA Tier 4. Untuk mencapai hal ini, DEUTZ menggunakan teknologi pengolahan gas buang terbaru untuk mengurangi emisi. Mereka juga dirancang untuk memastikan pemanfaatan bahan bakar yang dioptimalkan, yang tidak hanya menghasilkan penggunaan yang hemat biaya tetapi juga meminimalkan dampak lingkungan.\n\n● Di Yihua, kami berdedikasi untuk menyediakan genset yang paling andal dan efisien yang tersedia. Dengan bermitra dengan DEUTZ, produsen mesin yang diakui secara global, kami dapat menawarkan solusi daya mutakhir yang mewujudkan kinerja, inovasi, dan keberlanjutan.",
+                "deutz50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-kubota.jpg",
+                "deutz50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type1subtype10",
+            "category": "Yanmar",
+            "name": "Yanmar",
+            "logo": "/images/products/generator-set/open-type/logo-products/logo-yanmar.jpg",
+            "image-product": [
+              "/images/products/generator-set/open-type/image-products/imageproduct-yanmar1.jpg",
+              "/images/products/generator-set/open-type/image-products/imageproduct-yanmar2.jpg"
+            ],
+            "description": "YANMAR terus memproduksi mesin berkinerja tinggi selama bertahun-tahun. Keberhasilan perusahaan dibangun di atas dedikasi dan keahlian para profesional yang bekerja di setiap divisi, termasuk penelitian fundamental, pengembangan, produksi, dan dukungan pelanggan",
+            "keywords": [
+              "Yanmar",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "yanmar-type": [
+              {
+                "id": "product1type1subtype10subtype1",
+                "name": "50Hz",
+                "yanmar50HZdescription1": "● YANMAR terus memproduksi mesin berkinerja tinggi selama bertahun-tahun. Keberhasilan perusahaan dibangun di atas dedikasi dan keahlian para profesional yang bekerja di setiap divisi, termasuk penelitian fundamental, pengembangan, produksi, dan dukungan pelanggan. Komitmen YANMAR terhadap inovasi dan kualitas terbukti dalam teknologi mutakhir dan layanan pelanggan mereka yang luar biasa. Ini memastikan bahwa pelanggan menerima solusi mesin yang andal dan efisien, didukung oleh jaringan global yang kuat.\n\n \n\n● Dengan memilih Yihua-YANMAR, Anda berinvestasi dalam sejarah YANMAR dalam memproduksi mesin luar biasa, didorong oleh komitmen mereka terhadap inovasi dan didukung oleh para profesional terampil di setiap aspek bisnis mereka. Kolaborasi ini memungkinkan kami untuk menawarkan kepada Anda teknologi pembangkit listrik mutakhir dan dukungan pelanggan yang tak tertandingi.",
+                "yanmar50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-yanmar.jpg",
+                "yanmar50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              },
+              {
+                "id": "product1type1subtype10subtype2",
+                "name": "60Hz",
+                "yanmar60HZdescription1": "● YANMAR terus memproduksi mesin berkinerja tinggi selama bertahun-tahun. Keberhasilan perusahaan dibangun di atas dedikasi dan keahlian para profesional yang bekerja di setiap divisi, termasuk penelitian fundamental, pengembangan, produksi, dan dukungan pelanggan. Komitmen YANMAR terhadap inovasi dan kualitas terbukti dalam teknologi mutakhir dan layanan pelanggan mereka yang luar biasa. Ini memastikan bahwa pelanggan menerima solusi mesin yang andal dan efisien, didukung oleh jaringan global yang kuat.\n\n \n\n● Dengan memilih Yihua-YANMAR, Anda berinvestasi dalam sejarah YANMAR dalam memproduksi mesin luar biasa, didorong oleh komitmen mereka terhadap inovasi dan didukung oleh para profesional terampil di setiap aspek bisnis mereka. Kolaborasi ini memungkinkan kami untuk menawarkan kepada Anda teknologi pembangkit listrik mutakhir dan dukungan pelanggan yang tak tertandingi.",
+                "yanmar60HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-yanmar.jpg",
+                "yanmar60HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "product1-generatorset-silenttype",
+        "name": "Silent Type",
+        "image-banner": "/images/products/generator-set/silent-type/silenttype-banner.jpg",
+        "description": "Set generator tipe senyap, juga dikenal sebagai tipe tertutup atau kanopi, adalah unit pembangkit listrik yang menggabungkan mesin berkinerja tinggi, alternator, panel kontrol, dan rangka dasar, semuanya ditempatkan dalam pelindung untuk pengurangan kebisingan dan perlindungan cuaca yang lebih baik.",
+        "silenttype-type": [
+          {
+            "id": "product1type2subtype1",
+            "category": "Cummins",
+            "name": "Cummins",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-cummins.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-cummins1.png",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-cummins2.png",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-cummins3.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-cummins4.jpg"
+            ],
+            "description": "Cummins Inc. adalah perusahaan multinasional Amerika terkemuka yang didirikan pada tahun 1919 oleh Clessie Cummins dan William Glanton Irwin. Dengan fokus pada perancangan, pembuatan, dan distribusi mesin inovatif, produk filtrasi, dan pembangkit listrik, Cummins telah menjadi kekuatan global dalam industri ini",
+            "keywords": [
+              "Cummins",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct"
+            ],
+            "cummins-type": [
+              {
+                "id": "product1type2subtype1subtype1",
+                "name": "50Hz",
+                "cummins50HZdescription1": "● Cummins Inc. adalah perusahaan multinasional Amerika terkemuka yang didirikan pada tahun 1919 oleh Clessie Cummins dan William Glanton Irwin. Dengan fokus pada perancangan, pembuatan, dan distribusi mesin inovatif, produk filtrasi, dan pembangkit listrik, Cummins telah menjadi kekuatan global dalam industri ini.\n● Yihua, sebagai pabrik OEM resmi Cummins di China, telah menjalin kerja sama yang kuat dengan Cummins selama beberapa dekade.\n● Dengan komitmen Yihua terhadap kualitas dan keandalan, dikombinasikan dengan teknologi mesin Cummins yang memiliki reputasi baik, genset diesel ini adalah pilihan yang sangat baik untuk berbagai industri, termasuk konstruksi, telekomunikasi, dan manufaktur, di antara yang lainnya. Percayakan Yihua dan Cummins untuk memberikan solusi daya yang melebihi harapan.",
+                "cummins50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-cummins.jpg",
+                "cummins50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              },
+              {
+                "id": "product1type1subtype1subtype2",
+                "name": "60Hz",
+                "cummins60HZdescription1": "● Cummins Inc. adalah perusahaan multinasional Amerika terkemuka yang didirikan pada tahun 1919 oleh Clessie Cummins dan William Glanton Irwin. Dengan fokus pada perancangan, pembuatan, dan distribusi mesin inovatif, produk filtrasi, dan pembangkit listrik, Cummins telah menjadi kekuatan global dalam industri ini.\n● Yihua, sebagai pabrik OEM resmi Cummins di China, telah menjalin kerja sama yang kuat dengan Cummins selama beberapa dekade.\n● Dengan komitmen Yihua terhadap kualitas dan keandalan, dikombinasikan dengan teknologi mesin Cummins yang memiliki reputasi baik, genset diesel ini adalah pilihan yang sangat baik untuk berbagai industri, termasuk konstruksi, telekomunikasi, dan manufaktur, di antara yang lainnya. Percayakan Yihua dan Cummins untuk memberikan solusi daya yang melebihi harapan.",
+                "cummins60HZimage": "/images/products/generator-set/silent-type/image-products/image60HZ-cummins.jpg",
+                "cummins60HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype2",
+            "category": "Perkins",
+            "name": "Perkins",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-perkins.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-perkins1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-perkins2.jpg"
+            ],
+            "description": "Perkins Engines Company Limited, anak perusahaan Caterpillar Inc., adalah produsen berbasis di Inggris yang didirikan pada tahun 1932, yang mengkhususkan diri dalam desain dan produksi mesin diesel dan gas berkualitas tinggi. Perkins telah menjadi penyedia mesin terkenal di dunia dengan fokus pada inovasi, keandalan, dan efisiensi",
+            "keywords": [
+              "Perkins",
+              "Brushless Alternator",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct"
+            ],
+            "perkins-type": [
+              {
+                "id": "product1type2subtype2subtype1",
+                "name": "60Hz",
+                "perkins60HZdescription1": "● Sebagai produsen genset diesel terkemuka di China, Yihua telah menjalin kemitraan yang solid dengan Perkins, produsen mesin Inggris yang terkemuka, untuk menghadirkan genset berkinerja tinggi ke pasar dunia.\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Dedikasi Yihua terhadap kualitas dan inovasi, ditambah dengan teknologi mesin Perkins yang terkenal, pilih Yihua untuk solusi daya yang andal dan efisien yang secara konsisten melampaui standar industri.",
+                "perkins60HZimage": "/images/products/generator-set/silent-type/image-products/image60HZ-perkins.jpg",
+                "perkins60HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype3",
+            "category": "Fawde",
+            "name": "Fawde",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-faw.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-fawde1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-fawde2.jpg"
+            ],
+            "description": "Fawde adalah merek mesin China terkemuka yang dikenal dengan mesin dieselnya yang andal dan serbaguna. Fawde adalah bagian dari FAW Jiefang, anak perusahaan FAW Group, salah satu dari \"Empat Besar\" produsen mobil China. Mesin Fawde banyak digunakan dalam berbagai aplikasi seperti pembangkit listrik, pompa air, forklift, peralatan pertanian, dan truk",
+            "keywords": [
+              "FAW",
+              "Fawde",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "fawde-type": [
+              {
+                "id": "product1type2subtype3subtype1",
+                "name": "50Hz",
+                "fawde50HZdescription1": "● Fawde adalah merek mesin China terkemuka yang dikenal dengan mesin dieselnya yang andal dan serbaguna. Fawde adalah bagian dari FAW Jiefang, anak perusahaan FAW Group, salah satu dari \"Empat Besar\" produsen mobil China. Mesin Fawde banyak digunakan dalam berbagai aplikasi seperti pembangkit listrik, pompa air, forklift, peralatan pertanian, dan truk. Sejarah perusahaan dimulai pada tahun 1943, dan menjadi bagian dari FAW Group pada tahun 1992. Sejak itu, Fawde terus memperluas dan memproduksi mesin diesel berkualitas tinggi, dengan kapasitas produksi tahunan sekitar 150.000 unit.\n\n● Di Yihua, kami bangga dengan kolaborasi kami dengan Fawde untuk menghadirkan genset diesel terbaik kepada pelanggan di seluruh dunia. Kemitraan kami telah berkembang pesat, dengan Yihua memproduksi lebih dari 6.000 genset bertenaga mesin Fawde setiap tahunnya. Dengan rekam jejak kesuksesan yang terbukti dan komitmen bersama terhadap kualitas, Yihua dan Fawde terus mendorong inovasi dan kinerja di pasar pembangkit listrik. Percayakan Yihua dan Fawde untuk melebihi harapan Anda dan memberikan solusi daya superior yang secara konsisten melampaui standar industri.\n",
+                "fawde50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-fawde.jpg",
+                "fawde50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype4",
+            "category": "Weichai",
+            "name": "Weichai",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-weichai.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-weichai1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-weichai2.jpg"
+            ],
+            "description": "Weichai adalah perusahaan mesin China yang mapan didirikan pada tahun 1946. Dengan berbagai produknya, termasuk mesin diesel dan gas alam, Weichai telah membuat nama untuk dirinya sendiri baik di China maupun secara global. Komitmen perusahaan terhadap penelitian, kualitas, dan keberlanjutan telah memungkinkannya berkembang",
+            "keywords": [
+              "Weichai",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "weichai-type": [
+              {
+                "id": "product1type2subtype4subtype1",
+                "name": "50Hz",
+                "weichai50HZdescription1": "● Weichai adalah perusahaan mesin China yang mapan didirikan pada tahun 1946. Dengan berbagai produknya, termasuk mesin diesel dan gas alam, Weichai telah membuat nama untuk dirinya sendiri baik di China maupun secara global. Komitmen perusahaan terhadap penelitian, kualitas, dan keberlanjutan telah memungkinkannya berkembang di berbagai industri, seperti kendaraan tugas berat, mesin konstruksi, dan peralatan pembangkit listrik.\n\n● Sebagai produsen genset diesel tingkat 1 di China, Yihua telah bergabung dengan Weichai, produsen mesin terkemuka, untuk menawarkan genset berkinerja tinggi ke pasar global.\n\n● Pilih Yihua dan Weichai untuk kemitraan yang memprioritaskan kebutuhan pribadi Anda dan memberikan solusi daya unggul yang disesuaikan untuk mendorong kesuksesan Anda.",
+                "weichai50HZimage1": "/images/products/generator-set/silent-type/image-products/image50HZ-weichai1.jpg",
+                "weichai50HZimage2": "/images/products/generator-set/silent-type/image-products/image50HZ-weichai2.jpg",
+                "weichai50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype5",
+            "category": "Yuchai",
+            "name": "Yuchai",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-yuchai.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai2.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yuchai3.png"
+            ],
+            "description": "Yuchai, produsen mesin China yang didirikan pada tahun 1951, memiliki berbagai produk yang melayani berbagai industri, termasuk kendaraan jalan raya, set generator, dan aplikasi kelautan. Jajaran mesin mereka terdiri dari mesin kecepatan rendah, kecepatan sedang, dan kecepatan tinggi, serta",
+            "keywords": [
+              "Yuchai",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "yuchai-type": [
+              {
+                "id": "product1type2subtype5subtype1",
+                "name": "50Hz",
+                "yuchai50HZdescription1": "● Yuchai, produsen mesin China yang didirikan pada tahun 1951, memiliki berbagai produk yang melayani berbagai industri, termasuk kendaraan jalan raya, set generator, dan aplikasi kelautan. Jajaran mesin mereka terdiri dari mesin kecepatan rendah, kecepatan sedang, dan kecepatan tinggi, serta mesin ringan, sedang, berat, dan besar. Yuchai memprioritaskan teknologi emisi untuk memenuhi standar lingkungan dan memastikan solusi daya yang berkelanjutan. Dengan kehadiran yang kuat di berbagai wilayah di seluruh China, Yuchai telah memantapkan dirinya sebagai pemimpin dalam desain dan pengembangan mesin, berkolaborasi dengan mitra Eropa dan Amerika yang terkenal.â—  Kemitraan antara Yuchai dan Yihua merupakan perpaduan kehebatan teknik, menggabungkan rangkaian lengkap solusi mesin inovatif Yuchai dengan keahlian Yihua dalam pembangkit listrik. Bersama-sama, mereka memberikan genset yang disesuaikan, efisien, dan andal yang dirancang untuk memenuhi kebutuhan spesifik berbagai industri.â—  Pendekatan berwawasan ke depan Yuchai terhadap teknologi emisi sejalan dengan dedikasi Yihua terhadap keberlanjutan, memastikan bahwa kolaborasi mereka menghasilkan solusi daya ramah lingkungan yang memenuhi standar lingkungan yang ketat. Sinergi antara dua perusahaan ini menawarkan pelanggan pilihan yang komprehensif dan dapat diandalkan untuk semua kebutuhan pembangkit listrik mereka.",
+                "yuchai50HZimage": "/images/products/generator-set/open-type/image-products/image50HZ-yuchai.jpg",
+                "yuchai50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype6",
+            "category": "Sdec",
+            "name": "Sdec",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-sdec.png",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-sdec1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-sdec2.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-sdec3.jpg"
+            ],
+            "description": "Shanghai New Power Automotive Technology Company Limited. (formerly known as Shanghai Diesel Engine Co., Ltd.) is China's premier manufacturer of diesel engines. By combining the latest diesel technologies and a strict attention to quality, we offer our customers high powered diesel",
+            "keywords": [
+              "SDEC",
+              "Shangchai",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "sdec-type": [
+              {
+                "id": "product1type2subtype6subtype1",
+                "name": "50Hz",
+                "sdec50HZdescription1": "● Shanghai New Power Automotive Technology Company Limited (sebelumnya dikenal sebagai Shanghai Diesel Engine Co., Ltd.) adalah produsen mesin diesel utama China. Dengan menggabungkan teknologi diesel terbaru dan perhatian ketat terhadap kualitas, kami menawarkan pelanggan mesin diesel bertenaga tinggi dengan kinerja dan keandalan yang luar biasa. Dimulai dengan pendirian kami, kami telah menunjukkan pertumbuhan yang berkelanjutan dan membuktikan diri kami sebagai produsen dan penyedia produk berkualitas tinggi yang dapat dipercaya.\n\n● Bersama-sama, SDEC dan Yihua menawarkan berbagai genset yang dapat disesuaikan untuk memenuhi kebutuhan unik setiap aplikasi. Baik Anda memerlukan genset kecil untuk lokasi terpencil atau solusi daya skala besar untuk fasilitas industri, kombinasi teknologi mesin canggih SDEC dan komitmen Yihua terhadap kualitas dan inovasi memastikan bahwa Anda menerima produk yang melebihi harapan Anda.",
+                "sdec50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-sdec.jpg",
+                "sdec50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype7",
+            "category": "Doosan",
+            "name": "Doosan",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-doosan.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-doosan1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-doosan2.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-doosan3.jpg"
+            ],
+            "description": "Doosan, pemimpin di pasar mesin industri, menawarkan beragam mesin yang dirancang untuk berbagai aplikasi. Dengan fokus pada inovasi teknologi, keberlanjutan lingkungan, dan kepuasan pelanggan, mesin Doosan memberikan daya, efisiensi, dan daya tahan yang luar biasa",
+            "keywords": [
+              "Doosan",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "doosan-type": [
+              {
+                "id": "product1type1subtype7subtype1",
+                "name": "50Hz",
+                "doosan50HZdescription1": "● Doosan, pemimpin di pasar mesin industri, menawarkan beragam mesin yang dirancang untuk berbagai aplikasi. Dengan fokus pada inovasi teknologi, keberlanjutan lingkungan, dan kepuasan pelanggan, mesin Doosan memberikan daya, efisiensi, dan daya tahan yang luar biasa. Mesin Doosan ditandai dengan jajaran serbagunanya, kepatuhan emisi, teknologi canggih, dan kehadiran global yang kuat, memastikan solusi yang andal dan berkinerja tinggi untuk bisnis di seluruh dunia. Percayakan Doosan untuk kinerja mesin yang tak tertandingi, efisiensi, dan pengembalian investasi yang solid.\n\n● Dengan memilih Yihua dan Doosan, Anda berinvestasi dalam kemitraan yang memprioritaskan kinerja, efisiensi, dan kepuasan pelanggan. Rasakan keunggulan Yihua-Doosan untuk solusi pembangkit listrik yang memajukan bisnis Anda.",
+                "doosan50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-doosan.jpg",
+                "doosan50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              },
+              {
+                "id": "product1type2subtype7subtype2",
+                "name": "60Hz",
+                "doosan50HZdescription1": "● Doosan, pemimpin di pasar mesin industri, menawarkan beragam mesin yang dirancang untuk berbagai aplikasi. Dengan fokus pada inovasi teknologi, keberlanjutan lingkungan, dan kepuasan pelanggan, mesin Doosan memberikan daya, efisiensi, dan daya tahan yang luar biasa. Mesin Doosan ditandai dengan jajaran serbagunanya, kepatuhan emisi, teknologi canggih, dan kehadiran global yang kuat, memastikan solusi yang andal dan berkinerja tinggi untuk bisnis di seluruh dunia. Percayakan Doosan untuk kinerja mesin yang tak tertandingi, efisiensi, dan pengembalian investasi yang solid.\n\n● Dengan memilih Yihua dan Doosan, Anda berinvestasi dalam kemitraan yang memprioritaskan kinerja, efisiensi, dan kepuasan pelanggan. Rasakan keunggulan Yihua-Doosan untuk solusi pembangkit listrik yang memajukan bisnis Anda.",
+                "doosan50HZimage": "/images/products/generator-set/silent-type/image-products/image60HZ-doosan.jpg",
+                "doosan50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype8",
+            "category": "Kubota",
+            "name": "Kubota",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-kubota.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-kubota1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-kubota2.jpg"
+            ],
+            "description": "Mesin ditambahkan ke lini produk Kubota yang banyak pada tahun 1922 ketika kami meneliti dan mengembangkan mesin pertanian dan industri Tipe A, dengan 3 tenaga kuda. Mesin mereka kemudian diperluas untuk berbagai penggunaan, dan mesin output tinggi, kompak dan ringan, telah mendapatkan",
+            "keywords": [
+              "Kubota",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "kubota-type": [
+              {
+                "id": "product1type2subtype8subtype1",
+                "name": "50Hz",
+                "kubota50HZdescription1": "● Mesin ditambahkan ke lini produk Kubota yang banyak pada tahun 1922 ketika kami meneliti dan mengembangkan mesin pertanian dan industri Tipe A, dengan 3 tenaga kuda. Mesin mereka kemudian diperluas untuk berbagai penggunaan, dan mesin output tinggi, kompak dan ringan, telah mendapatkan kepercayaan tingkat tinggi di pasar global.\n\n● Yihua berdedikasi untuk menyediakan pelanggan dengan genset yang andal dan efisien. Kemitraan kami dengan Kubota memungkinkan kami menawarkan solusi daya yang mewujudkan kinerja, keandalan, efisiensi, kepatuhan lingkungan, dan keserbagunaan.\n\n● Dengan memilih Yihua dan Kubota, Anda akan mendapat manfaat dari teknologi mesin Kubota yang terkenal, menampilkan output daya yang luar biasa, keandalan yang tak tergoyahkan, efisiensi yang ditingkatkan, solusi yang sadar lingkungan, dan keserbagunaan untuk setiap kebutuhan. Dengan komitmen Yihua terhadap kepuasan pelanggan dan keunggulan teknik Kubota, aliansi kami memberikan solusi pembangkit listrik yang melebihi harapan, mendorong operasi Anda ke depan, dan memberikan ketenangan pikiran. Pilih Yihua dan Kubota untuk solusi pembangkit listrik terbaik.",
+                "kubota50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-kubota.jpg",
+                "kubota50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              },
+              {
+                "id": "product1type2subtype8subtype2",
+                "name": "60Hz",
+                "kubota60HZimage": "/images/products/generator-set/silent-type/image-products/image60HZ-kubota.jpg",
+                "kubota60HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype9",
+            "category": "Deutz",
+            "name": "Deutz",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-deutz.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz1.png",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz2.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz3.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz4.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz5.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz6.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-deutz7.jpg"
+            ],
+            "description": "Dari mesin konstruksi hingga pertanian dan peralatan stasioner, mesin diesel DEUTZ dalam kisaran daya dari 18 hingga 620 kW menawarkan solusi serbaguna di sektor off-highway. Mesin diesel dari DEUTZ memenuhi standar emisi gas buang paling ketat dari EU Stage V/US EPA",
+            "keywords": [
+              "Deutz",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct"
+            ],
+            "deutz-type": [
+              {
+                "id": "product1type2subtype9subtype1",
+                "name": "50Hz",
+                "deutz50HZdescription1": "● Dari mesin konstruksi hingga pertanian dan peralatan stasioner, mesin diesel DEUTZ dalam kisaran daya dari 18 hingga 620 kW menawarkan solusi serbaguna di sektor off-highway.\n\n● Mesin diesel dari DEUTZ memenuhi standar emisi gas buang paling ketat dari EU Stage V/US EPA Tier 4. Untuk mencapai hal ini, DEUTZ menggunakan teknologi pengolahan gas buang terbaru untuk mengurangi emisi. Mereka juga dirancang untuk memastikan pemanfaatan bahan bakar yang dioptimalkan, yang tidak hanya menghasilkan penggunaan yang hemat biaya tetapi juga meminimalkan dampak lingkungan.\n\n● Di Yihua, kami berdedikasi untuk menyediakan genset yang paling andal dan efisien yang tersedia. Dengan bermitra dengan DEUTZ, produsen mesin yang diakui secara global, kami dapat menawarkan solusi daya mutakhir yang mewujudkan kinerja, inovasi, dan keberlanjutan.",
+                "deutz50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-kubota.jpg",
+                "deutz50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type2subtype10",
+            "category": "Yanmar",
+            "name": "Yanmar",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-yanmar.jpg",
+            "image-product": [
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yanmar1.jpg",
+              "/images/products/generator-set/silent-type/image-products/imageproduct-yanmar2.jpg"
+            ],
+            "description": "YANMAR terus memproduksi mesin berkinerja tinggi selama bertahun-tahun. Keberhasilan perusahaan dibangun di atas dedikasi dan keahlian para profesional yang bekerja di setiap divisi, termasuk penelitian fundamental, pengembangan, produksi, dan dukungan pelanggan",
+            "keywords": [
+              "Yanmar",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "yanmar-type": [
+              {
+                "id": "product1type2subtype10subtype1",
+                "name": "50Hz",
+                "yanmar50HZdescription1": "● YANMAR terus memproduksi mesin berkinerja tinggi selama bertahun-tahun. Keberhasilan perusahaan dibangun di atas dedikasi dan keahlian para profesional yang bekerja di setiap divisi, termasuk penelitian fundamental, pengembangan, produksi, dan dukungan pelanggan. Komitmen YANMAR terhadap inovasi dan kualitas terbukti dalam teknologi mutakhir dan layanan pelanggan mereka yang luar biasa. Ini memastikan bahwa pelanggan menerima solusi mesin yang andal dan efisien, didukung oleh jaringan global yang kuat.\n\n \n\n● Dengan memilih Yihua-YANMAR, Anda berinvestasi dalam sejarah YANMAR dalam memproduksi mesin luar biasa, didorong oleh komitmen mereka terhadap inovasi dan didukung oleh para profesional terampil di setiap aspek bisnis mereka. Kolaborasi ini memungkinkan kami untuk menawarkan kepada Anda teknologi pembangkit listrik mutakhir dan dukungan pelanggan yang tak tertandingi.",
+                "yanmar50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-yanmar.jpg",
+                "yanmar50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              },
+              {
+                "id": "product1type2subtype10subtype2",
+                "name": "60Hz",
+                "yanmar60HZdescription1": "● YANMAR terus memproduksi mesin berkinerja tinggi selama bertahun-tahun. Keberhasilan perusahaan dibangun di atas dedikasi dan keahlian para profesional yang bekerja di setiap divisi, termasuk penelitian fundamental, pengembangan, produksi, dan dukungan pelanggan. Komitmen YANMAR terhadap inovasi dan kualitas terbukti dalam teknologi mutakhir dan layanan pelanggan mereka yang luar biasa. Ini memastikan bahwa pelanggan menerima solusi mesin yang andal dan efisien, didukung oleh jaringan global yang kuat.\n\n \n\n● Dengan memilih Yihua-YANMAR, Anda berinvestasi dalam sejarah YANMAR dalam memproduksi mesin luar biasa, didorong oleh komitmen mereka terhadap inovasi dan didukung oleh para profesional terampil di setiap aspek bisnis mereka. Kolaborasi ini memungkinkan kami untuk menawarkan kepada Anda teknologi pembangkit listrik mutakhir dan dukungan pelanggan yang tak tertandingi.",
+                "yanmar60HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-yanmar.jpg",
+                "yanmar60HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "product1-generatorset-containertype",
+        "name": "Container Type",
+        "image-banner": "/images/products/generator-set/container-type/container-banner.jpg",
+        "description": "Set generator tipe kontainer adalah unit pembangkit listrik terintegrasi penuh yang ditempatkan dalam kontainer pengiriman standar, menggabungkan mesin berkinerja tinggi, alternator, panel kontrol, dan rangka dasar.",
+        "silenttype-type": [
+          {
+            "id": "product1type3subtype1",
+            "category": "Cummins",
+            "name": "Cummins",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-cummins.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-cummins1.png",
+              "/images/products/generator-set/container-type/image-products/imageproduct-cummins2.png",
+              "/images/products/generator-set/container-type/image-products/imageproduct-cummins3.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-cummins4.jpg"
+            ],
+            "description": "Cummins Inc. adalah perusahaan multinasional Amerika terkemuka yang didirikan pada tahun 1919 oleh Clessie Cummins dan William Glanton Irwin. Dengan fokus pada perancangan, pembuatan, dan distribusi mesin inovatif, produk filtrasi, dan pembangkit listrik, Cummins telah menjadi kekuatan global dalam industri ini",
+            "keywords": [
+              "Cummins",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct"
+            ],
+            "cummins-type": [
+              {
+                "id": "product1type3subtype1subtype1",
+                "name": "50Hz",
+                "cummins50HZdescription1": "● Cummins Inc. adalah perusahaan multinasional Amerika terkemuka yang didirikan pada tahun 1919 oleh Clessie Cummins dan William Glanton Irwin. Dengan fokus pada perancangan, pembuatan, dan distribusi mesin inovatif, produk filtrasi, dan pembangkit listrik, Cummins telah menjadi kekuatan global dalam industri ini.\n● Yihua, sebagai pabrik OEM resmi Cummins di China, telah menjalin kerja sama yang kuat dengan Cummins selama beberapa dekade.\n● Dengan komitmen Yihua terhadap kualitas dan keandalan, dikombinasikan dengan teknologi mesin Cummins yang memiliki reputasi baik, genset diesel ini adalah pilihan yang sangat baik untuk berbagai industri, termasuk konstruksi, telekomunikasi, dan manufaktur, di antara yang lainnya. Percayakan Yihua dan Cummins untuk memberikan solusi daya yang melebihi harapan.",
+                "cummins50HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-cummins.jpg",
+                "cummins50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              },
+              {
+                "id": "product1type3subtype1subtype2",
+                "name": "60Hz",
+                "cummins60HZdescription1": "● Cummins Inc. adalah perusahaan multinasional Amerika terkemuka yang didirikan pada tahun 1919 oleh Clessie Cummins dan William Glanton Irwin. Dengan fokus pada perancangan, pembuatan, dan distribusi mesin inovatif, produk filtrasi, dan pembangkit listrik, Cummins telah menjadi kekuatan global dalam industri ini.\n● Yihua, sebagai pabrik OEM resmi Cummins di China, telah menjalin kerja sama yang kuat dengan Cummins selama beberapa dekade.\n● Dengan komitmen Yihua terhadap kualitas dan keandalan, dikombinasikan dengan teknologi mesin Cummins yang memiliki reputasi baik, genset diesel ini adalah pilihan yang sangat baik untuk berbagai industri, termasuk konstruksi, telekomunikasi, dan manufaktur, di antara yang lainnya. Percayakan Yihua dan Cummins untuk memberikan solusi daya yang melebihi harapan.",
+                "cummins60HZimage": "/images/products/generator-set/container-type/image-products/image60HZ-cummins.jpg",
+                "cummins60HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype2",
+            "category": "Perkins",
+            "name": "Perkins",
+            "logo": "/images/products/generator-set/silent-type/logo-products/logo-perkins.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-perkins1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-perkins2.jpg"
+            ],
+            "description": "Perkins Engines Company Limited, anak perusahaan Caterpillar Inc., adalah produsen berbasis di Inggris yang didirikan pada tahun 1932, yang mengkhususkan diri dalam desain dan produksi mesin diesel dan gas berkualitas tinggi. Perkins telah menjadi penyedia mesin terkenal di dunia dengan fokus pada inovasi, keandalan, dan efisiensi",
+            "keywords": [
+              "Perkins",
+              "Brushless Alternator",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct"
+            ],
+            "perkins-type": [
+              {
+                "id": "product1type3subtype2subtype1",
+                "name": "60Hz",
+                "perkins60HZdescription1": "● Sebagai produsen genset diesel terkemuka di China, Yihua telah menjalin kemitraan yang solid dengan Perkins, produsen mesin Inggris yang terkemuka, untuk menghadirkan genset berkinerja tinggi ke pasar dunia.\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Dedikasi Yihua terhadap kualitas dan inovasi, ditambah dengan teknologi mesin Perkins yang terkenal, pilih Yihua untuk solusi daya yang andal dan efisien yang secara konsisten melampaui standar industri.",
+                "perkins60HZimage": "/images/products/generator-set/container-type/image-products/image60HZ-perkins.jpg",
+                "perkins60HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype3",
+            "category": "Fawde",
+            "name": "Fawde",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-faw.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-fawde1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-fawde2.jpg"
+            ],
+            "description": "Fawde adalah merek mesin China terkemuka yang dikenal dengan mesin dieselnya yang andal dan serbaguna. Fawde adalah bagian dari FAW Jiefang, anak perusahaan FAW Group, salah satu dari \"Empat Besar\" produsen mobil China. Mesin Fawde banyak digunakan dalam berbagai aplikasi seperti pembangkit listrik, pompa air, forklift, peralatan pertanian, dan truk",
+            "keywords": [
+              "FAW",
+              "Fawde",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "fawde-type": [
+              {
+                "id": "product1type3subtype3subtype1",
+                "name": "50Hz",
+                "fawde50HZdescription1": "● Fawde adalah merek mesin China terkemuka yang dikenal dengan mesin dieselnya yang andal dan serbaguna. Fawde adalah bagian dari FAW Jiefang, anak perusahaan FAW Group, salah satu dari \"Empat Besar\" produsen mobil China. Mesin Fawde banyak digunakan dalam berbagai aplikasi seperti pembangkit listrik, pompa air, forklift, peralatan pertanian, dan truk. Sejarah perusahaan dimulai pada tahun 1943, dan menjadi bagian dari FAW Group pada tahun 1992. Sejak itu, Fawde terus memperluas dan memproduksi mesin diesel berkualitas tinggi, dengan kapasitas produksi tahunan sekitar 150.000 unit.\n\n● Di Yihua, kami bangga dengan kolaborasi kami dengan Fawde untuk menghadirkan genset diesel terbaik kepada pelanggan di seluruh dunia. Kemitraan kami telah berkembang pesat, dengan Yihua memproduksi lebih dari 6.000 genset bertenaga mesin Fawde setiap tahunnya. Dengan rekam jejak kesuksesan yang terbukti dan komitmen bersama terhadap kualitas, Yihua dan Fawde terus mendorong inovasi dan kinerja di pasar pembangkit listrik. Percayakan Yihua dan Fawde untuk melebihi harapan Anda dan memberikan solusi daya superior yang secara konsisten melampaui standar industri.\n",
+                "fawde50HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-fawde.jpg",
+                "fawde50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype4",
+            "category": "Weichai",
+            "name": "Weichai",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-weichai.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-weichai1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-weichai2.jpg"
+            ],
+            "description": "Weichai adalah perusahaan mesin China yang mapan didirikan pada tahun 1946. Dengan berbagai produknya, termasuk mesin diesel dan gas alam, Weichai telah membuat nama untuk dirinya sendiri baik di China maupun secara global. Komitmen perusahaan terhadap penelitian, kualitas, dan keberlanjutan telah memungkinkannya berkembang",
+            "keywords": [
+              "Weichai",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "weichai-type": [
+              {
+                "id": "product1type3subtype4subtype1",
+                "name": "50Hz",
+                "weichai50HZdescription1": "● Weichai adalah perusahaan mesin China yang mapan didirikan pada tahun 1946. Dengan berbagai produknya, termasuk mesin diesel dan gas alam, Weichai telah membuat nama untuk dirinya sendiri baik di China maupun secara global. Komitmen perusahaan terhadap penelitian, kualitas, dan keberlanjutan telah memungkinkannya berkembang di berbagai industri, seperti kendaraan tugas berat, mesin konstruksi, dan peralatan pembangkit listrik.\n\n● Sebagai produsen genset diesel tingkat 1 di China, Yihua telah bergabung dengan Weichai, produsen mesin terkemuka, untuk menawarkan genset berkinerja tinggi ke pasar global.\n\n● Pilih Yihua dan Weichai untuk kemitraan yang memprioritaskan kebutuhan pribadi Anda dan memberikan solusi daya unggul yang disesuaikan untuk mendorong kesuksesan Anda.",
+                "weichai50HZimage1": "/images/products/generator-set/container-type/image-products/image50HZ-weichai1.jpg",
+                "weichai50HZimage2": "/images/products/generator-set/container-type/image-products/image50HZ-weichai2.jpg",
+                "weichai50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype5",
+            "category": "Yuchai",
+            "name": "Yuchai",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-yuchai.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-yuchai1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-yuchai2.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-yuchai3.png"
+            ],
+            "description": "Yuchai, produsen mesin China yang didirikan pada tahun 1951, memiliki berbagai produk yang melayani berbagai industri, termasuk kendaraan jalan raya, set generator, dan aplikasi kelautan. Jajaran mesin mereka terdiri dari mesin kecepatan rendah, kecepatan sedang, dan kecepatan tinggi, serta",
+            "keywords": [
+              "Yuchai",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "yuchai-type": [
+              {
+                "id": "product1type3subtype5subtype1",
+                "name": "50Hz",
+                "yuchai50HZdescription1": "● Yuchai, produsen mesin China yang didirikan pada tahun 1951, memiliki berbagai produk yang melayani berbagai industri, termasuk kendaraan jalan raya, set generator, dan aplikasi kelautan. Jajaran mesin mereka terdiri dari mesin kecepatan rendah, kecepatan sedang, dan kecepatan tinggi, serta mesin ringan, sedang, berat, dan besar. Yuchai memprioritaskan teknologi emisi untuk memenuhi standar lingkungan dan memastikan solusi daya yang berkelanjutan. Dengan kehadiran yang kuat di berbagai wilayah di seluruh China, Yuchai telah memantapkan dirinya sebagai pemimpin dalam desain dan pengembangan mesin, berkolaborasi dengan mitra Eropa dan Amerika yang terkenal.â—  Kemitraan antara Yuchai dan Yihua merupakan perpaduan kehebatan teknik, menggabungkan rangkaian lengkap solusi mesin inovatif Yuchai dengan keahlian Yihua dalam pembangkit listrik. Bersama-sama, mereka memberikan genset yang disesuaikan, efisien, dan andal yang dirancang untuk memenuhi kebutuhan spesifik berbagai industri.â—  Pendekatan berwawasan ke depan Yuchai terhadap teknologi emisi sejalan dengan dedikasi Yihua terhadap keberlanjutan, memastikan bahwa kolaborasi mereka menghasilkan solusi daya ramah lingkungan yang memenuhi standar lingkungan yang ketat. Sinergi antara dua perusahaan ini menawarkan pelanggan pilihan yang komprehensif dan dapat diandalkan untuk semua kebutuhan pembangkit listrik mereka.",
+                "yuchai50HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-yuchai.jpg",
+                "yuchai50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype6",
+            "category": "Sdec",
+            "name": "Sdec",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-sdec.png",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-sdec1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-sdec2.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-sdec3.jpg"
+            ],
+            "description": "Shanghai New Power Automotive Technology Company Limited. (formerly known as Shanghai Diesel Engine Co., Ltd.) is China's premier manufacturer of diesel engines. By combining the latest diesel technologies and a strict attention to quality, we offer our customers high powered diesel",
+            "keywords": [
+              "SDEC",
+              "Shangchai",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "sdec-type": [
+              {
+                "id": "product1type2subtype6subtype1",
+                "name": "50Hz",
+                "sdec50HZdescription1": "● Shanghai New Power Automotive Technology Company Limited (sebelumnya dikenal sebagai Shanghai Diesel Engine Co., Ltd.) adalah produsen mesin diesel utama China. Dengan menggabungkan teknologi diesel terbaru dan perhatian ketat terhadap kualitas, kami menawarkan pelanggan mesin diesel bertenaga tinggi dengan kinerja dan keandalan yang luar biasa. Dimulai dengan pendirian kami, kami telah menunjukkan pertumbuhan yang berkelanjutan dan membuktikan diri kami sebagai produsen dan penyedia produk berkualitas tinggi yang dapat dipercaya.\n\n● Bersama-sama, SDEC dan Yihua menawarkan berbagai genset yang dapat disesuaikan untuk memenuhi kebutuhan unik setiap aplikasi. Baik Anda memerlukan genset kecil untuk lokasi terpencil atau solusi daya skala besar untuk fasilitas industri, kombinasi teknologi mesin canggih SDEC dan komitmen Yihua terhadap kualitas dan inovasi memastikan bahwa Anda menerima produk yang melebihi harapan Anda.",
+                "sdec50HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-sdec.jpg",
+                "sdec50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype7",
+            "category": "Doosan",
+            "name": "Doosan",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-doosan.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-doosan1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-doosan2.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-doosan3.jpg"
+            ],
+            "description": "Doosan, pemimpin di pasar mesin industri, menawarkan beragam mesin yang dirancang untuk berbagai aplikasi. Dengan fokus pada inovasi teknologi, keberlanjutan lingkungan, dan kepuasan pelanggan, mesin Doosan memberikan daya, efisiensi, dan daya tahan yang luar biasa",
+            "keywords": [
+              "Doosan",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "doosan-type": [
+              {
+                "id": "product1type1subtype7subtype1",
+                "name": "50Hz",
+                "doosan50HZdescription1": "● Doosan, pemimpin di pasar mesin industri, menawarkan beragam mesin yang dirancang untuk berbagai aplikasi. Dengan fokus pada inovasi teknologi, keberlanjutan lingkungan, dan kepuasan pelanggan, mesin Doosan memberikan daya, efisiensi, dan daya tahan yang luar biasa. Mesin Doosan ditandai dengan jajaran serbagunanya, kepatuhan emisi, teknologi canggih, dan kehadiran global yang kuat, memastikan solusi yang andal dan berkinerja tinggi untuk bisnis di seluruh dunia. Percayakan Doosan untuk kinerja mesin yang tak tertandingi, efisiensi, dan pengembalian investasi yang solid.\n\n● Dengan memilih Yihua dan Doosan, Anda berinvestasi dalam kemitraan yang memprioritaskan kinerja, efisiensi, dan kepuasan pelanggan. Rasakan keunggulan Yihua-Doosan untuk solusi pembangkit listrik yang memajukan bisnis Anda.",
+                "doosan50HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-doosan.jpg",
+                "doosan50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              },
+              {
+                "id": "product1type2subtype7subtype2",
+                "name": "60Hz",
+                "doosan50HZdescription1": "● Doosan, pemimpin di pasar mesin industri, menawarkan beragam mesin yang dirancang untuk berbagai aplikasi. Dengan fokus pada inovasi teknologi, keberlanjutan lingkungan, dan kepuasan pelanggan, mesin Doosan memberikan daya, efisiensi, dan daya tahan yang luar biasa. Mesin Doosan ditandai dengan jajaran serbagunanya, kepatuhan emisi, teknologi canggih, dan kehadiran global yang kuat, memastikan solusi yang andal dan berkinerja tinggi untuk bisnis di seluruh dunia. Percayakan Doosan untuk kinerja mesin yang tak tertandingi, efisiensi, dan pengembalian investasi yang solid.\n\n● Dengan memilih Yihua dan Doosan, Anda berinvestasi dalam kemitraan yang memprioritaskan kinerja, efisiensi, dan kepuasan pelanggan. Rasakan keunggulan Yihua-Doosan untuk solusi pembangkit listrik yang memajukan bisnis Anda.",
+                "doosan50HZimage": "/images/products/generator-set/container-type/image-products/image60HZ-doosan.jpg",
+                "doosan50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype8",
+            "category": "Kubota",
+            "name": "Kubota",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-kubota.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-kubota1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-kubota2.jpg"
+            ],
+            "description": "Mesin ditambahkan ke lini produk Kubota yang banyak pada tahun 1922 ketika kami meneliti dan mengembangkan mesin pertanian dan industri Tipe A, dengan 3 tenaga kuda. Mesin mereka kemudian diperluas untuk berbagai penggunaan, dan mesin output tinggi, kompak dan ringan, telah mendapatkan",
+            "keywords": [
+              "Kubota",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "kubota-type": [
+              {
+                "id": "product1type3subtype8subtype1",
+                "name": "50Hz",
+                "kubota50HZdescription1": "● Mesin ditambahkan ke lini produk Kubota yang banyak pada tahun 1922 ketika kami meneliti dan mengembangkan mesin pertanian dan industri Tipe A, dengan 3 tenaga kuda. Mesin mereka kemudian diperluas untuk berbagai penggunaan, dan mesin output tinggi, kompak dan ringan, telah mendapatkan kepercayaan tingkat tinggi di pasar global.\n\n● Yihua berdedikasi untuk menyediakan pelanggan dengan genset yang andal dan efisien. Kemitraan kami dengan Kubota memungkinkan kami menawarkan solusi daya yang mewujudkan kinerja, keandalan, efisiensi, kepatuhan lingkungan, dan keserbagunaan.\n\n● Dengan memilih Yihua dan Kubota, Anda akan mendapat manfaat dari teknologi mesin Kubota yang terkenal, menampilkan output daya yang luar biasa, keandalan yang tak tergoyahkan, efisiensi yang ditingkatkan, solusi yang sadar lingkungan, dan keserbagunaan untuk setiap kebutuhan. Dengan komitmen Yihua terhadap kepuasan pelanggan dan keunggulan teknik Kubota, aliansi kami memberikan solusi pembangkit listrik yang melebihi harapan, mendorong operasi Anda ke depan, dan memberikan ketenangan pikiran. Pilih Yihua dan Kubota untuk solusi pembangkit listrik terbaik.",
+                "kubota50HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-kubota.jpg",
+                "kubota50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              },
+              {
+                "id": "product1type3subtype8subtype2",
+                "name": "60Hz",
+                "kubota60HZimage": "/images/products/generator-set/container-type/image-products/image60HZ-kubota.jpg",
+                "kubota60HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype9",
+            "category": "Deutz",
+            "name": "Deutz",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-deutz.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz1.png",
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz2.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz3.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz4.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz5.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz6.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-deutz7.jpg"
+            ],
+            "description": "Dari mesin konstruksi hingga pertanian dan peralatan stasioner, mesin diesel DEUTZ dalam kisaran daya dari 18 hingga 620 kW menawarkan solusi serbaguna di sektor off-highway. Mesin diesel dari DEUTZ memenuhi standar emisi gas buang paling ketat dari EU Stage V/US EPA",
+            "keywords": [
+              "Deutz",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct"
+            ],
+            "deutz-type": [
+              {
+                "id": "product1type3subtype9subtype1",
+                "name": "50Hz",
+                "deutz50HZdescription1": "● Dari mesin konstruksi hingga pertanian dan peralatan stasioner, mesin diesel DEUTZ dalam kisaran daya dari 18 hingga 620 kW menawarkan solusi serbaguna di sektor off-highway.\n\n● Mesin diesel dari DEUTZ memenuhi standar emisi gas buang paling ketat dari EU Stage V/US EPA Tier 4. Untuk mencapai hal ini, DEUTZ menggunakan teknologi pengolahan gas buang terbaru untuk mengurangi emisi. Mereka juga dirancang untuk memastikan pemanfaatan bahan bakar yang dioptimalkan, yang tidak hanya menghasilkan penggunaan yang hemat biaya tetapi juga meminimalkan dampak lingkungan.\n\n● Di Yihua, kami berdedikasi untuk menyediakan genset yang paling andal dan efisien yang tersedia. Dengan bermitra dengan DEUTZ, produsen mesin yang diakui secara global, kami dapat menawarkan solusi daya mutakhir yang mewujudkan kinerja, inovasi, dan keberlanjutan.",
+                "deutz50HZimage": "/images/products/generator-set/silent-type/image-products/image50HZ-kubota.jpg",
+                "deutz50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          },
+          {
+            "id": "product1type3subtype10",
+            "category": "Yanmar",
+            "name": "Yanmar",
+            "logo": "/images/products/generator-set/container-type/logo-products/logo-yanmar.jpg",
+            "image-product": [
+              "/images/products/generator-set/container-type/image-products/imageproduct-yanmar1.jpg",
+              "/images/products/generator-set/container-type/image-products/imageproduct-yanmar2.jpg"
+            ],
+            "description": "YANMAR terus memproduksi mesin berkinerja tinggi selama bertahun-tahun. Keberhasilan perusahaan dibangun di atas dedikasi dan keahlian para profesional yang bekerja di setiap divisi, termasuk penelitian fundamental, pengembangan, produksi, dan dukungan pelanggan",
+            "keywords": [
+              "Yanmar",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct",
+              "Made in China"
+            ],
+            "yanmar-type": [
+              {
+                "id": "product1type3subtype10subtype1",
+                "name": "50Hz",
+                "yanmar50HZdescription1": "● YANMAR terus memproduksi mesin berkinerja tinggi selama bertahun-tahun. Keberhasilan perusahaan dibangun di atas dedikasi dan keahlian para profesional yang bekerja di setiap divisi, termasuk penelitian fundamental, pengembangan, produksi, dan dukungan pelanggan. Komitmen YANMAR terhadap inovasi dan kualitas terbukti dalam teknologi mutakhir dan layanan pelanggan mereka yang luar biasa. Ini memastikan bahwa pelanggan menerima solusi mesin yang andal dan efisien, didukung oleh jaringan global yang kuat.\n\n \n\n● Dengan memilih Yihua-YANMAR, Anda berinvestasi dalam sejarah YANMAR dalam memproduksi mesin luar biasa, didorong oleh komitmen mereka terhadap inovasi dan didukung oleh para profesional terampil di setiap aspek bisnis mereka. Kolaborasi ini memungkinkan kami untuk menawarkan kepada Anda teknologi pembangkit listrik mutakhir dan dukungan pelanggan yang tak tertandingi.",
+                "yanmar50HZimage": "/images/products/generator-set/silent-type/image-products/container-yanmar.jpg",
+                "yanmar50HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              },
+              {
+                "id": "product1type3subtype10subtype2",
+                "name": "60Hz",
+                "yanmar60HZdescription1": "● YANMAR terus memproduksi mesin berkinerja tinggi selama bertahun-tahun. Keberhasilan perusahaan dibangun di atas dedikasi dan keahlian para profesional yang bekerja di setiap divisi, termasuk penelitian fundamental, pengembangan, produksi, dan dukungan pelanggan. Komitmen YANMAR terhadap inovasi dan kualitas terbukti dalam teknologi mutakhir dan layanan pelanggan mereka yang luar biasa. Ini memastikan bahwa pelanggan menerima solusi mesin yang andal dan efisien, didukung oleh jaringan global yang kuat.\n\n \n\n● Dengan memilih Yihua-YANMAR, Anda berinvestasi dalam sejarah YANMAR dalam memproduksi mesin luar biasa, didorong oleh komitmen mereka terhadap inovasi dan didukung oleh para profesional terampil di setiap aspek bisnis mereka. Kolaborasi ini memungkinkan kami untuk menawarkan kepada Anda teknologi pembangkit listrik mutakhir dan dukungan pelanggan yang tak tertandingi.",
+                "yanmar60HZimage": "/images/products/generator-set/container-type/image-products/image50HZ-yanmar.jpg",
+                "yanmar60HZdescription2": "● Set generator standar (SR) bersertifikat CE\n● Dengan fungsi kontrol dan perlindungan lengkap\n● Solusi daya yang berbeda dapat dirancang dan disesuaikan sesuai kebutuhan pelanggan\n● Set generator dapat menyala pada beban penuh dalam waktu kurang dari 12 detik\n● Set generator memiliki fungsi operasi tanpa pengawasan\n● Cocok untuk sewa, pabrik, luar ruangan, rumah sakit, pertambangan, dan aplikasi lainnya\n● Set generator dirancang sesuai standar keselamatan internasional"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "product2-brushlessalternator",
+    "name": "Brushless Alternator",
+    "type": [
+      {
+        "id": "product2-brushlessalternator",
+        "name": "Brushless Alternator",
+        "image-banner": "/images/products/brushless-alternator/brushless-banner.jpg",
+        "description": "Alternator tanpa sikat adalah komponen canggih dari set generator yang menghasilkan daya listrik melalui proses yang efisien dan andal.",
+        "opentype-type": [
+          {
+            "id": "product2type1subtype1",
+            "category": "Yihua",
+            "name": "Yihua",
+            "logo": "/images/products/brushless-alternator/logo-yihua.png",
+            "image-product": "/images/products/brushless-alternator/image-products/imageproduct-yihua1.png",
+            "description": "Generator sinkron A.C. darat & laut (seri ST&STC generator sinkron eksitasi harmonik ketiga fase tunggal/tiga; seri TFX generator sinkron eksitasi majemuk tiga fase; seri TFW2 generator sinkron tanpa sikat tiga fase)",
+            "keywords": [
+              "Cummins",
+              "Genset",
+              "Generator Set",
+              "Diesel Generator Set",
+              "OEM Manufacturer",
+              "Factory Direct"
+            ],
+            "cummins-type": [
+              {
+                "id": "product2type1subtype1subtype1",
+                "name": "brushlessgenerator-series",
+                "brushless-type-image": "/images/products/generator-set/open-type/image-products/image50HZ-cummins.jpg"
+              },
+              {
+                "id": "product2type1subtype1subtype2",
+                "name": "yhgseries",
+                "brushless-type-image": "/images/products/generator-set/open-type/image-products/image60HZ-cummins.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

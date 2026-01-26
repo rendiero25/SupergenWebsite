@@ -1,0 +1,154 @@
+{
+  "common": {
+    "search": "Search...",
+    "language": "Language",
+    "english": "English",
+    "indonesia": "Indonesia",
+    "viewProducts": "View Products",
+    "send": "Send",
+    "getQuoteNow": "Get A Quote Now",
+    "inquiry": "Inquiry",
+    "related": "Related",
+    "clickHere": "Click Here",
+    "comingSoon": "Coming Soon...",
+    "exploreMore": "Explore More",
+    "discoverMore": "Discover More",
+    "learnMore": "Learn More"
+  },
+  "navigation": {
+    "products": "Products",
+    "solutions": "Solutions",
+    "aboutYihua": "About Yihua",
+    "helpContact": "Help & Contact"
+  },
+  "products": {
+    "title": "Products",
+    "generatorSet": "Generator Set",
+    "brushlessAlternator": "Brushless Alternator",
+    "openType": "Open Type",
+    "silentType": "Silent Type",
+    "containerType": "Container Type",
+    "relatedProducts": "Related Products",
+    "description": "Description"
+  },
+  "productTypes": {
+    "openTypeDiesel": "Open Type Diesel Generator Set",
+    "silentTypeDiesel": "Silent Type Diesel Generator Set",
+    "containerTypeDiesel": "Container Type Diesel Generator Set",
+    "brushlessAlternator": "Brushless Alternator"
+  },
+  "solutions": {
+    "title": "Solutions",
+    "mining": "Mining",
+    "construction": "Construction",
+    "oilGas": "Oil & Gas",
+    "powerPlants": "Power Plants",
+    "dataCenters": "Data Centers",
+    "telecom": "Telecom",
+    "telecommunication": "Telecommunication",
+    "healthcare": "Healthcare",
+    "utilities": "Utilities"
+  },
+  "about": {
+    "title": "About Yihua",
+    "corporateProfile": "Corporate Profile",
+    "factoryOverview": "Factory Overview",
+    "newsCenter": "News Center",
+    "certificates": "Certificates",
+    "corporateDescription1": "Fujian Yihua Electrical Machinery Co., Ltd. was founded in 1994, located in \"Generator City of China\"– Fu'an City, which is the national key base for all kinds of generators. We are a key enterprise in Fu'an, having our own right of exporting the products. Our company is committed to pursuing technology innovation, developing and manufacturing various generators and generator sets for decades.",
+    "mainProductsTitle": "Our main products include the following items:",
+    "mainProductsList1": "Land & marine used A.C. synchronous generators (ST&STC series single/three phase third-harmonic excitation synchronous generator; TFX series three-phase compound excitation synchronous generator; TFW2 series three phase brushless synchronous generator);",
+    "mainProductsList2": "Diesel generator sets (open type, silent type, trailer type and automatic start/stop diesel generator set). These products sell well both at home and abroad. The TFKX-H three phase compound excitation and TFW-H series brushless synchronous generators have obtained the certifications of China Classification Society (CCS) as well as Register of Fishing Vessel of the People's Republic of China (ZY). Besides, the land used brush, brushless generators and the diesel generators have got the \"CE\" certification.",
+    "corporateDescription2": "Our company actively implements ISO9001:2000 international quality administration system and we operate the company with the spirit of \"Devotion & Creation & Teamwork & Credit\". We focus on the development strategy, take complete quality administration system as the foundation, technology creation as the method and market creation as the target, which leads to a sustainable development of the company. Our company continues to improve our products, and has obtained more than 20 national patents. Our products have won the title of \"Outstanding New Products in Fujian Province\", \"Customers Satisfied Products in Fujian Province\" and \"Famous Brand of Fujian Province\"."
+  },
+  "contact": {
+    "title": "Contact Form",
+    "partnerWithUs": "Partner With Us",
+    "formDescription": "Please fill out the form to contact an YIHUA expert.",
+    "headquarters": "Headquarter",
+    "helpContactTitle": "Help & Contact",
+    "emailPlaceholder": "Email*",
+    "namePlaceholder": "Name",
+    "whatsappPlaceholder": "Whats App/Telegram/Viber...",
+    "demandedPowerPlaceholder": "Demanded Power (kVA)",
+    "messagePlaceholder": "Message*",
+    "productNamePlaceholder": "Product Name:",
+    "bangladeshWarehouse": "Bangladesh Warehouse",
+    "philippinesWarehouse": "The Philippines Warehouse",
+    "indonesiaWarehouse": "Indonesia Warehouse",
+    "dubaiWarehouse": "Dubai Warehouse",
+    "nigeriaWarehouse": "Nigeria Warehouse"
+  },
+  "contactInfo": {
+    "address": "Address",
+    "tel": "Tel",
+    "fax": "Fax",
+    "mobileWhatsapp": "Mobile/WhatsApp",
+    "whatsappWechat": "Whatsapp/Wechat",
+    "email": "E-mail",
+    "mobile": "Mobile",
+    "headquarterAddress": "No. 16, Jinxin Road, Chengyang Town, Fu'an City, Ningde City, Fujian Province, China"
+  },
+  "index": {
+    "dedicationTitle": "Dedication to Shaping a More Powerful Future",
+    "pioneeringTitle": "Pioneering The Future",
+    "pioneeringHeading": "Relentlessly Pursuing Groundbreaking Power Solutions for Yihua's Highly Valued Clients",
+    "pioneeringDesc1": "A pioneer in power solutions, delivering high performance consistently.",
+    "pioneeringDesc2": "Designed for continuous power and dependability.",
+    "pioneeringDesc3": "Committed to supporting our clients and respecting the environment.",
+    "embarkJourney": "Embark on Our Journey",
+    "fuelingTitle": "Fueling Your Progress and Growth with Our Energy Solutions"
+  },
+  "footer": {
+    "brandName": "YIHUA GENSET",
+    "tagline": "We Will Always Near The Best",
+    "description": "Yihua Genset is a top-tier generator set manufacturer with 30 years of expertise in China, driven by innovation and reliability to deliver efficient energy solutions for a sustainable future. As a client-focused and results-driven company, we strive to provide exceptional service, empowering partners worldwide with dependable power generation. Trust in us to energize your success.",
+    "copyright": "© 2024 Fujian Yihua Electrical Machinery Co., Ltd.",
+    "seoLabel": "SEO label",
+    "poweredBy": "Powered by www.300.cn"
+  },
+  "inquiry": {
+    "title": "Inquiry",
+    "replyTime": "We will reply you within",
+    "hours": "24 hours"
+  },
+  "heroSlider": {
+    "slide1": {
+      "heading": "Explore Our Wide Range of Generator Sets | 5-3000kVA",
+      "description": "Our robust design, adaptability to various industries, and energy efficiency make us the ultimate solution for uninterrupted power supply. Choose Yihua and experience unparalleled performance, quality, and peace of mind.",
+      "buttonName": "Explore More"
+    },
+    "slide2": {
+      "heading": "Powering Industries, Empowering Success | The Power Behind Successful Industries",
+      "description": "Discover versatile and dependable power solutions tailored to meet the unique demands of Mining, Construction, Manufacturing, Power Plants, Data Centers, Telecom, Healthcare, and Utilities.",
+      "buttonName": "Discover More"
+    },
+    "slide3": {
+      "heading": "Engineering Trust, Delivering Excellence | 30 Years of Expertise",
+      "description": "Journey into Yihua: Uncover our Legacy, Values, and Pursuit of Excellence.",
+      "buttonName": "Learn More"
+    },
+    "slide4": {
+      "heading": "Connect with Yihua | Your Reliable Power Partner",
+      "description": "Reach out to us today and experience unparalleled customer service, tailored power solutions, and peace of mind for all your energy needs.",
+      "buttonName": "Help & Contact"
+    }
+  },
+  "solutionHome": {
+    "mining": "Mining",
+    "construction": "Construction",
+    "oilGas": "Oil & Gas",
+    "powerPlants": "Power Plants",
+    "dataCenters": "Data Centers",
+    "telecommunication": "Telecommunication",
+    "healthcare": "Healthcare",
+    "utilities": "Utilities"
+  },
+  "productDescriptions": {
+    "openType": "Open type generator sets are designed for easy access and maintenance. These generator sets consist of an engine, alternator, control panel, and a base frame, all assembled in an open configuration without a protective enclosure or canopy.",
+    "silentType": "Silent type generator sets, also known as enclosed or canopy type, are power generating units that combine a high-performance engine, an alternator, a control panel, and a base frame, all housed within an enclosure for enhanced noise reduction and weather protection.",
+    "containerType": "Container type generator sets are fully integrated power generation units housed within a standardized shipping container, combining a high-performance engine, an alternator, a control panel, and a base frame.",
+    "brushlessAlternator": "A brushless alternator is an advanced component of a generator set that produces electrical power through an efficient and reliable process. Unlike traditional alternators with brushes, a brushless alternator uses a magnetic field created by a permanent magnet or an exciter to generate electricity."
+  }
+}
+

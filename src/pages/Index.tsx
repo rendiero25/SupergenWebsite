@@ -2,8 +2,6 @@
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Navigation, Pagination, Autoplay, EffectFade } from 'swiper/modules';
 
-import { Link } from 'react-router-dom';
-
 // Import Swiper styles
 import 'swiper/css';
 import 'swiper/css/navigation';
@@ -13,15 +11,60 @@ import 'swiper/css/effect-fade';
 // Import Data
 import heroData from '../data/index/heroSlider.json';
 import solutionData from '../data/index/solutiononhome.json';
+import { useLanguage } from '../context/LanguageContext';
 
 const Index = () => {
+    const { t } = useLanguage();
 
     const dedicationImages = [
-        { name: 'Open Type Diesel Generator Set', img: '/images/index/section2images/opentype-.png' },
-        { name: 'Silent Type Diesel Generator Set', img: '/images/index/section2images/silenttype-dieselgeneratorset.png' },
-        { name: 'Container Type Diesel Generator Set', img: '/images/index/section2images/containertype-dieselgeneratorset.png' },
-        { name: 'Brushless Alternator', img: '/images/index/section2images/brushless-generator.png' },
+        { name: t('productTypes.openTypeDiesel'), img: '/images/index/section2images/opentype-.png' },
+        { name: t('productTypes.silentTypeDiesel'), img: '/images/index/section2images/silenttype-dieselgeneratorset.png' },
+        { name: t('productTypes.containerTypeDiesel'), img: '/images/index/section2images/containertype-dieselgeneratorset.png' },
+        { name: t('productTypes.brushlessAlternator'), img: '/images/index/section2images/brushless-generator.png' },
     ];
+
+    // Map hero slider data with translations
+    const getHeroSlideContent = (slideId: string) => {
+        const slideMap: { [key: string]: { heading: string; description: string; buttonName: string } } = {
+            'heroslider1': { 
+                heading: t('heroSlider.slide1.heading'), 
+                description: t('heroSlider.slide1.description'), 
+                buttonName: t('heroSlider.slide1.buttonName') 
+            },
+            'heroslider2': { 
+                heading: t('heroSlider.slide2.heading'), 
+                description: t('heroSlider.slide2.description'), 
+                buttonName: t('heroSlider.slide2.buttonName') 
+            },
+            'heroslider3': { 
+                heading: t('heroSlider.slide3.heading'), 
+                description: t('heroSlider.slide3.description'), 
+                buttonName: t('heroSlider.slide3.buttonName') 
+            },
+            'heroslider4': { 
+                heading: t('heroSlider.slide4.heading'), 
+                description: t('heroSlider.slide4.description'), 
+                buttonName: t('heroSlider.slide4.buttonName') 
+            },
+        };
+        return slideMap[slideId] || { heading: '', description: '', buttonName: '' };
+    };
+
+    // Map solution data with translations
+    const getSolutionName = (solutionName: string) => {
+        const nameMap: { [key: string]: string } = {
+            'Mining': t('solutionHome.mining'),
+            'Construction': t('solutionHome.construction'),
+            'Oil & Gas': t('solutionHome.oilGas'),
+            'Power Plants': t('solutionHome.powerPlants'),
+            'Data Centers': t('solutionHome.dataCenters'),
+            'Telecomunication': t('solutionHome.telecommunication'),
+            'Healthcare': t('solutionHome.healthcare'),
+            'Utilities': t('solutionHome.utilities'),
+        };
+        return nameMap[solutionName] || solutionName;
+    };
+
 
     return (
         <div className="font-outfit">
@@ -43,36 +86,39 @@ const Index = () => {
                     }}
                     className="h-full w-full group"
                 >
-                    {heroData.map((slide) => (
-                        <SwiperSlide key={slide.id} className="relative">
-                            {/* Background Image */}
-                            <div className="absolute inset-0">
-                                <img 
-                                    src={slide.image}
-                                    alt={slide.heading}
-                                    className="w-full h-full object-cover"
-                                />
-                                {/* Overlay Gradient */}
-                                {/* <div className="absolute inset-0 bg-linear-to-r from-white/90 via-white/40 to-transparent"></div> */}
-                            </div>
-
-                            {/* Content */}
-                            <div className="relative h-full container mx-auto px-4 flex items-center">
-                                <div className="max-w-2xl pt-20">
-                                    <h1 className="text-4xl font-black text-black mb-6 leading-tight whitespace-pre-line">
-                                        {slide.heading.replace('|', '\n')}
-                                    </h1>
-                                    <div className="w-12 h-1 bg-red mb-6"></div>
-                                    <p className="text-gray-800 text-xl mb-8 leading-relaxed font-medium max-w-xl">
-                                        {slide.description}
-                                    </p>
-                                    <button className="cursor-pointer bg-red hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full transition-all transform hover:-translate-y-1 shadow-lg text-sm uppercase tracking-wide">
-                                        {slide.buttonName}
-                                    </button>
+                    {heroData.map((slide) => {
+                        const content = getHeroSlideContent(slide.id);
+                        return (
+                            <SwiperSlide key={slide.id} className="relative">
+                                {/* Background Image */}
+                                <div className="absolute inset-0">
+                                    <img 
+                                        src={slide.image}
+                                        alt={content.heading}
+                                        className="w-full h-full object-cover"
+                                    />
+                                    {/* Overlay Gradient */}
+                                    {/* <div className="absolute inset-0 bg-linear-to-r from-white/90 via-white/40 to-transparent"></div> */}
                                 </div>
-                            </div>
-                        </SwiperSlide>
-                    ))}
+
+                                {/* Content */}
+                                <div className="relative h-full container mx-auto px-4 flex items-center">
+                                    <div className="max-w-2xl pt-20">
+                                        <h1 className="text-4xl font-black text-black mb-6 leading-tight whitespace-pre-line">
+                                            {content.heading.replace('|', '\n')}
+                                        </h1>
+                                        <div className="w-12 h-1 bg-red mb-6"></div>
+                                        <p className="text-gray-800 text-xl mb-8 leading-relaxed font-medium max-w-xl">
+                                            {content.description}
+                                        </p>
+                                        <button className="cursor-pointer bg-red hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full transition-all transform hover:-translate-y-1 shadow-lg text-sm uppercase tracking-wide">
+                                            {content.buttonName}
+                                        </button>
+                                    </div>
+                                </div>
+                            </SwiperSlide>
+                        );
+                    })}
                 </Swiper>
 
                 {/* Bottom Controls Container - Inside slider with highest z-index */}
@@ -97,7 +143,7 @@ const Index = () => {
                 <div className="container mx-auto px-4">
                     <div className="text-center mb-30">
                         <h2 className="text-4xl font-black text-black/80 uppercase tracking-wide mb-4">
-                            Dedication to Shaping a More Powerful Future
+                            {t('index.dedicationTitle')}
                         </h2>
                         <div className="w-24 h-1 bg-black/80 mx-auto"></div>
                     </div>
@@ -125,7 +171,7 @@ const Index = () => {
             <section className="pt-20 pb-10">
                  <div className="container mx-auto px-4 mb-20 text-center">
                     <h2 className="text-4xl font-black text-black/80 uppercase tracking-wide mb-4">
-                        Pioneering The Future
+                        {t('index.pioneeringTitle')}
                     </h2>
                     <div className="w-24 h-1 bg-black/80 mx-auto"></div>
                 </div>
@@ -138,15 +184,15 @@ const Index = () => {
                     <div className="container mx-auto px-4 relative z-10">
                         <div className="max-w-4xl text-white">
                             <h2 className="text-4xl font-black mb-6 leading-normal">
-                                Relentlessly Pursuing Groundbreaking Power Solutions for Yihua's Highly Valued Clients
+                                {t('index.pioneeringHeading')}
                             </h2>
                             <div className="space-y-4 text-white mb-8 font-light text-lg tracking-wide">
-                                <p>A pioneer in power solutions, delivering high performance consistently.</p>
-                                <p>Designed for continuous power and dependability.</p>
-                                <p>Committed to supporting our clients and respecting the environment.</p>
+                                <p>{t('index.pioneeringDesc1')}</p>
+                                <p>{t('index.pioneeringDesc2')}</p>
+                                <p>{t('index.pioneeringDesc3')}</p>
                             </div>
                             <button className="cursor-pointer bg-red hover:bg-red-700 text-white font-bold py-3 px-8 rounded-full transition-colors text-md">
-                                Embark on Our Journey
+                                {t('index.embarkJourney')}
                             </button>
                         </div>
                     </div>
@@ -158,7 +204,7 @@ const Index = () => {
                 <div className="">
                     <div className="text-center mb-16">
                         <h2 className="text-4xl font-black text-black/80 uppercase tracking-wide mb-4">
-                            Fueling Your Progress and Growth with Our Energy Solutions
+                            {t('index.fuelingTitle')}
                         </h2>
                         <div className="w-24 h-1 bg-black mx-auto"></div>
                     </div>
@@ -172,14 +218,14 @@ const Index = () => {
                                 <div className="relative w-full h-full">
                                     <img 
                                         src={item.image} 
-                                        alt={item.name} 
+                                        alt={getSolutionName(item.name)} 
                                         className="w-full h-full object-cover"
                                     />
                                     <div className="absolute inset-0 bg-black/30 group-hover:bg-black/50 transition-colors duration-300"></div>
                                     
                                     <div className="absolute bottom-10 left-8 right-8 flex flex-col items-start gap-4 text-white">
                                         <img src={item.icon} alt="" className="w-8 h-8 object-contain filter brightness-0 invert" />
-                                        <h3 className="text-xl font-bold tracking-wide">{item.name}</h3>
+                                        <h3 className="text-xl font-bold tracking-wide">{getSolutionName(item.name)}</h3>
                                     </div>
                                 </div>
                             </div>

@@ -1,9 +1,12 @@
 import { useState, useEffect, useMemo } from 'react';
 import { useLocation, Link } from 'react-router-dom';
-import productsData from '../data/products/products.json';
+import productsDataEn from '../data/products/products.json';
+import productsDataId from '../data/products/products-id.json';
 import { IoIosArrowDown, IoIosArrowForward } from "react-icons/io";
-import { FaHome, FaWhatsapp, FaPhone } from "react-icons/fa";
+import { FaHome, FaWhatsapp } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
+import ImageGalleryModal from '../components/ImageGalleryModal';
+import { useLanguage } from '../context/LanguageContext';
 
 // Types
 interface Brand {
@@ -27,10 +30,14 @@ interface SubCategory {
 
 const Products = () => {
     const location = useLocation();
+    const { t, language } = useLanguage();
+    const productsData = language === 'Indonesia' ? productsDataId : productsDataEn;
     const [isGenSetOpen, setIsGenSetOpen] = useState(true);
     const [isBrushlessOpen, setIsBrushlessOpen] = useState(false);
     const [selectedImageIndex, setSelectedImageIndex] = useState(0);
     const [selectedHzTab, setSelectedHzTab] = useState(0);
+    const [isGalleryOpen, setIsGalleryOpen] = useState(false);
+    const [galleryInitialIndex, setGalleryInitialIndex] = useState(0);
 
     // Current path segments
     const pathSegments = location.pathname.split('/').filter(Boolean);
@@ -104,7 +111,7 @@ const Products = () => {
         if (generatorSet && generatorSet.type) {
             const openType = generatorSet.type.find(t => t.name === 'Open Type');
             if (openType) {
-                const keys = Object.keys(openType);
+                const keys = Object.keys(openType) as (keyof typeof openType)[];
                 const typeKey = keys.find(k => k.endsWith('type-type') || (Array.isArray(openType[k]) && k !== 'image-banner'));
                 if (typeKey) {
                     return (openType[typeKey] as Brand[]).slice(0, 4);
@@ -163,7 +170,7 @@ const Products = () => {
                <div className="container mx-auto bg-white px-4 py-7 mb-5 flex items-center text-sm text-black gap-1 flex-wrap">
                    <Link to="/" className="hover:text-red-600"><FaHome /></Link>
                    <IoIosArrowForward />
-                   <Link to="/products" className="hover:text-red-600">Products</Link>
+                   <Link to="/products" className="hover:text-red-600">{t('products.title')}</Link>
                    
                    {mainCategory && (
                         <>
@@ -172,7 +179,7 @@ const Products = () => {
                                 to={`/products/${mainCategorySlug}`}
                                 className={!subCategorySlug && !brandSlug ? "text-red-600 font-bold" : "hover:text-red-600"}
                             >
-                                {mainCategory.name}
+                                {mainCategory.name === 'Generator Set' ? t('products.generatorSet') : t('products.brushlessAlternator')}
                             </Link>
                         </>
                    )}
@@ -184,7 +191,7 @@ const Products = () => {
                                 to={`/products/${mainCategorySlug}/${subCategorySlug}`}
                                 className={!brandSlug ? "text-red-600 font-bold" : "hover:text-red-600"}
                             >
-                                {currentSubCategory.name}
+                                {currentSubCategory.name === 'Open Type' ? t('products.openType') : currentSubCategory.name === 'Silent Type' ? t('products.silentType') : t('products.containerType')}
                             </Link>
                         </>
                    )}
@@ -207,7 +214,7 @@ const Products = () => {
                     <div>
                         <div className="flex flex-col items-start gap-2 bg-red py-7">
                             <h2 className="text-white font-bold px-6 uppercase text-3xl tracking-wide">
-                                Products
+                                {t('products.title')}
                             </h2>
                             <div className="w-5 h-1 bg-white ml-6"></div>
                         </div>
@@ -224,7 +231,7 @@ const Products = () => {
                                 >
                                     <span className="flex items-center gap-2">
                                         <IoIosArrowForward className="text-sm" />
-                                        <span className="font-medium">Generator Set</span>
+                                        <span className="font-medium">{t('products.generatorSet')}</span>
                                     </span>
                                     <IoIosArrowDown className={`transition-transform duration-300 ${isGenSetOpen ? 'rotate-180' : ''}`} />
                                 </button>
@@ -240,7 +247,7 @@ const Products = () => {
                                             }`}
                                         >
                                             <IoIosArrowForward className="text-xs" />
-                                            Open Type
+                                            {t('products.openType')}
                                         </Link>
                                         {renderBrandList('open-type')}
                                     </div>
@@ -255,7 +262,7 @@ const Products = () => {
                                             }`}
                                         >
                                             <IoIosArrowForward className="text-xs" />
-                                            Silent Type
+                                            {t('products.silentType')}
                                         </Link>
                                         {renderBrandList('silent-type')}
                                     </div>
@@ -270,7 +277,7 @@ const Products = () => {
                                             }`}
                                         >
                                             <IoIosArrowForward className="text-xs" />
-                                            Container Type
+                                            {t('products.containerType')}
                                         </Link>
                                         {renderBrandList('container-type')}
                                     </div>
@@ -289,7 +296,7 @@ const Products = () => {
                                 >
                                     <span className="flex items-center gap-2">
                                         <IoIosArrowForward className="text-sm" />
-                                        <span className="font-medium">Brushless Alternator</span>
+                                        <span className="font-medium">{t('products.brushlessAlternator')}</span>
                                     </span>
                                     <IoIosArrowDown className={`transition-transform duration-300 ${isBrushlessOpen ? 'rotate-180' : ''}`} />
                                 </button>
@@ -305,7 +312,7 @@ const Products = () => {
                                         }`}
                                     >
                                         <span className={`w-1.5 h-1.5 rounded-full ${mainCategorySlug === 'brushless-alternator' && brandSlug === 'yihua' ? 'bg-[#E60013]' : 'bg-gray-300'}`}></span>
-                                        Yihua Alternator
+                                        Yihua
                                     </Link>
                                 </div>
                              </div>
@@ -315,29 +322,29 @@ const Products = () => {
                     {/* Help & Contact */}
                     <div>
                         <div className="bg-white p-6 border border-gray-100 text-sm text-gray-600 space-y-4">
-                            <h2 className="font-bold text-3xl mb-6 text-[#1e1e1e] uppercase border-b-2 border-gray-200 pb-2 inline-block">
-                                Help & Contact
+                            <h2 className="font-bold text-3xl mb-6 text-black uppercase border-b-2 border-gray-200 pb-2 inline-block">
+                                {t('navigation.helpContact')}
                             </h2>
                             
                             <p>
-                                <strong className="block text-gray-800 mb-1">Address:</strong>
-                                No. 16, Jinxin Road, Chengyang Town, Fu'an City, Ningde City, Fujian Province, China
+                                <strong className="block text-gray-800 mb-1">{t('contactInfo.address')}:</strong>
+                                {t('contactInfo.headquarterAddress')}
                             </p>
                             <p>
-                                <strong className="block text-gray-800 mb-1">Tel:</strong>
+                                <strong className="block text-gray-800 mb-1">{t('contactInfo.tel')}:</strong>
                                 0086-593-6668988<br/>
                                 0086-593-6382918
                             </p>
                             <p>
-                                <strong className="text-gray-800 mb-1">Fax: </strong>
+                                <strong className="text-gray-800 mb-1">{t('contactInfo.fax')}: </strong>
                                 0086 593 6582997
                             </p>
                             <p>
-                                <strong className="text-gray-800 mb-1">Mobile/WhatsApp: </strong>
+                                <strong className="text-gray-800 mb-1">{t('contactInfo.mobileWhatsapp')}: </strong>
                                 +86 18650536888
                             </p>
                             <p>
-                                <strong className="text-gray-800 mb-1">E-mail: </strong>
+                                <strong className="text-gray-800 mb-1">{t('contactInfo.email')}: </strong>
                                 yihua@e-yihua.com
                             </p>
                         </div>
@@ -355,7 +362,13 @@ const Products = () => {
                                     {/* Image Gallery */}
                                     <div className="space-y-4">
                                         {/* Main Image */}
-                                        <div className="border border-gray-200 p-4 bg-white">
+                                        <div 
+                                            className="border border-gray-200 p-4 bg-white cursor-pointer"
+                                            onClick={() => {
+                                                setGalleryInitialIndex(selectedImageIndex);
+                                                setIsGalleryOpen(true);
+                                            }}
+                                        >
                                             <img 
                                                 src={productImages[selectedImageIndex]} 
                                                 alt={selectedBrand.name}
@@ -369,6 +382,10 @@ const Products = () => {
                                                     <button
                                                         key={idx}
                                                         onClick={() => setSelectedImageIndex(idx)}
+                                                        onDoubleClick={() => {
+                                                            setGalleryInitialIndex(idx);
+                                                            setIsGalleryOpen(true);
+                                                        }}
                                                         className={`flex-shrink-0 w-20 h-20 border-2 p-1 transition-colors ${
                                                             selectedImageIndex === idx 
                                                                 ? 'border-[#E60013]' 
@@ -427,7 +444,7 @@ const Products = () => {
                                                 className="flex items-center gap-2 bg-[#E60013] hover:bg-red-700 text-white px-10 py-3 font-medium transition-colors"
                                             >
                                                 <MdEmail />
-                                                Inquiry
+                                                {t('common.inquiry')}
                                             </a>
                                             <a 
                                                 href="#related"
@@ -435,7 +452,7 @@ const Products = () => {
                                                 className="flex items-center gap-2 bg-gray-900 hover:bg-green-600 text-white px-10 py-3 font-medium transition-colors"
                                             >
                                                 {/* <FaWhatsapp /> */}
-                                                Related
+                                                {t('common.related')}
                                             </a>
                                         </div>
                                     </div>
@@ -494,28 +511,28 @@ const Products = () => {
                                                         {currentSubCategory?.name} - {selectedBrand.name}
                                                     </h3> */}
                                                     
-                                                    {desc1Key && currentHz[desc1Key] && (
+                                                    {desc1Key && typeof currentHz[desc1Key] === 'string' && (
                                                         <div className="text-sm text-black leading-relaxed whitespace-pre-line mb-4">
                                                             {currentHz[desc1Key] as string}
                                                         </div>
                                                     )}
                                                     
                                                     <div className="flex gap-4 my-4">
-                                                        {imageKey && currentHz[imageKey] && (
+                                                        {imageKey && typeof currentHz[imageKey] === 'string' && (
                                                             <img 
                                                                 src={currentHz[imageKey] as string} 
                                                                 alt={currentHz.name as string}
                                                                 className="w-full object-cover"
                                                             />
                                                         )}
-                                                        {image1Key && currentHz[image1Key] && (
+                                                        {image1Key && typeof currentHz[image1Key] === 'string' && (
                                                             <img 
                                                                 src={currentHz[image1Key] as string} 
                                                                 alt={`${currentHz.name} 1`}
                                                                 className="max-h-48 object-cover"
                                                             />
                                                         )}
-                                                        {image2Key && currentHz[image2Key] && (
+                                                        {image2Key && typeof currentHz[image2Key] === 'string' && (
                                                             <img 
                                                                 src={currentHz[image2Key] as string} 
                                                                 alt={`${currentHz.name} 2`}
@@ -524,7 +541,7 @@ const Products = () => {
                                                         )}
                                                     </div>
                                                     
-                                                    {desc2Key && currentHz[desc2Key] && (
+                                                    {desc2Key && typeof currentHz[desc2Key] === 'string' && (
                                                         <div className="text-sm text-black leading-relaxed whitespace-pre-line">
                                                             {currentHz[desc2Key] as string}
                                                         </div>
@@ -580,7 +597,7 @@ const Products = () => {
                                                 />
                                             </div>
                                             <h3 className="text-sm font-bold uppercase text-gray-800">{brand.name}</h3>
-                                            <span className="text-sm text-gray-400 px-5 py-2 my-2 group-hover:text-[#E60013] group-hover:bg-red group-hover:text-white transition-colors">Click Here</span>
+                                            <span className="text-sm text-gray-400 px-5 py-2 my-2 group-hover:text-[#E60013] group-hover:bg-red group-hover:text-white transition-colors">{t('common.clickHere')}</span>
                                         </Link>
                                     ))}
                                 </div>
@@ -602,7 +619,7 @@ const Products = () => {
                 >
                     <div id='related' className="relative z-10 container mx-auto">
                         <h2 className="text-3xl font-bold text-white mb-8 text-center">
-                            Related Products
+                            {t('products.relatedProducts')}
                         </h2>
                         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-7xl mx-auto">
                             {relatedProducts.map((brand) => {
@@ -646,10 +663,10 @@ const Products = () => {
                 <div className="w-full py-15 px-6 bg-gray-100">
                     <div className="container mx-auto">
                         <h2 className="text-3xl font-bold text-gray-900 mb-1 text-center">
-                            Inquiry
+                            {t('inquiry.title')}
                         </h2>
                         <p className="text-sm text-black text-center mb-8">
-                            We will reply you within <span className="text-[#E60013]">24 hours</span>.
+                            {t('inquiry.replyTime')} <span className="text-[#E60013]">{t('inquiry.hours')}</span>.
                         </p>
                         
                         <form className="max-w-4xl mx-auto space-y-4">
@@ -688,13 +705,24 @@ const Products = () => {
                                     type="submit"
                                     className="bg-[#E60013] hover:bg-red-700 text-white px-10 py-3 text-sm font-medium transition-colors"
                                 >
-                                    Get A Quote Now
+                                    {t('common.getQuoteNow')}
                                 </button>
                             </div>
                         </form>
                     </div>
                 </div>
             )}
+
+            {/* Image Gallery Modal */}
+            <ImageGalleryModal
+                images={productImages.map((src, idx) => ({
+                    src,
+                    alt: `${selectedBrand?.name || 'Product'} ${idx + 1}`
+                }))}
+                isOpen={isGalleryOpen}
+                onClose={() => setIsGalleryOpen(false)}
+                initialIndex={galleryInitialIndex}
+            />
         </div>
     );
 };

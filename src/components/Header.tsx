@@ -1,40 +1,57 @@
 import { useState } from 'react';
 import { Link } from 'react-router-dom';
 import { IoSearchOutline } from "react-icons/io5";
-import { IoIosArrowDown } from "react-icons/io";
+import { IoIosArrowDown, IoIosArrowForward } from "react-icons/io";
 import { HiMenuAlt3, HiX } from "react-icons/hi";
 import logo from '../assets/header/logo.png';
+import { useLanguage } from '../context/LanguageContext';
 
 const Header = () => {
-    const [language, setLanguage] = useState('English');
+    const { language, setLanguage, t } = useLanguage();
     const [isMobileMenuOpen, setIsMobileMenuOpen] = useState(false);
     const [openMobileDropdown, setOpenMobileDropdown] = useState<string | null>(null);
 
     // Dropdown items configuration
     const dropdownItems = {
         'Products': [
-            { label: 'Generator Set', path: '/products/generator-set' },
-            { label: 'Brushless Alternator', path: '/products/brushless-alternator/brushless-alternator/yihua' },
+            { 
+                label: t('products.generatorSet'), 
+                path: '/products/generator-set',
+                subMenu: [
+                    { label: t('products.openType'), path: '/products/generator-set/open-type' },
+                    { label: t('products.silentType'), path: '/products/generator-set/silent-type' },
+                    { label: t('products.containerType'), path: '/products/generator-set/container-type' },
+                ]
+            },
+            { 
+                label: t('products.brushlessAlternator'), 
+                path: '/products/brushless-alternator/brushless-alternator/yihua',
+                subMenu: [
+                    { label: 'Yihua', path: '/products/brushless-alternator/brushless-alternator/yihua' }
+                ]
+            },
         ],
         'Solutions': [
-            { label: 'Mining', path: '/solutions/mining' },
-            { label: 'Factory', path: '/solutions/factory' },
-            { label: 'Hospital', path: '/solutions/hospital' },
-            { label: 'Data Center', path: '/solutions/data-center' },
-            { label: 'Marine', path: '/solutions/marine' },
-            { label: 'Utilities', path: '/solutions/utilities' },
+            { label: t('solutions.mining'), path: '/solutions/mining' },
+            { label: t('solutions.construction'), path: '/solutions/construction' },
+            { label: t('solutions.oilGas'), path: '/solutions/oil-gas' },
+            { label: t('solutions.powerPlants'), path: '/solutions/power-plants' },
+            { label: t('solutions.dataCenters'), path: '/solutions/data-centers' },
+            { label: t('solutions.telecom'), path: '/solutions/telecom' },
+            { label: t('solutions.healthcare'), path: '/solutions/healthcare' },
+            { label: t('solutions.utilities'), path: '/solutions/utilities' },
         ],
         'About Yihua': [
-            { label: 'Corporate Profile', path: '/about/corporate-profile' },
-            { label: 'Factory Overview', path: '/about/factory-overview' },
+            { label: t('about.corporateProfile'), path: '/about/corporate-profile' },
+            { label: t('about.factoryOverview'), path: '/about/factory-overview' },
         ],
     };
 
     const navItems = [
-        { label: 'Products', path: '/products' },
-        { label: 'Solutions', path: '/solutions' },
-        { label: 'About Yihua', path: '/about' },
-        { label: 'Help & Contact', path: '/contact' },
+        { label: t('navigation.products'), path: '/products', key: 'Products' },
+        { label: t('navigation.solutions'), path: '/solutions', key: 'Solutions' },
+        { label: t('navigation.aboutYihua'), path: '/about', key: 'About Yihua' },
+        { label: t('navigation.helpContact'), path: '/contact', key: null },
     ];
 
     const toggleMobileDropdown = (label: string) => {
@@ -60,7 +77,7 @@ const Header = () => {
                         {/* Desktop Navigation */}
                         <nav className="hidden lg:flex items-stretch gap-0 h-full">
                             {navItems.map((item) => {
-                                const hasDropdown = dropdownItems[item.label as keyof typeof dropdownItems];
+                                const hasDropdown = item.key ? dropdownItems[item.key as keyof typeof dropdownItems] : null;
                                 
                                 return (
                                     <div key={item.label} className="relative group h-full">
@@ -76,15 +93,34 @@ const Header = () => {
 
                                         {/* Dropdown Menu */}
                                         {hasDropdown && (
-                                            <div className="absolute top-full left-0 mt-0 w-56 bg-white shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform origin-top border-t-2 border-red-600">
+                                            <div className="absolute top-full left-0 mt-0 w-56 bg-white shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform origin-top">
                                                 {hasDropdown.map((subItem) => (
-                                                    <Link
-                                                        key={subItem.label}
-                                                        to={subItem.path}
-                                                        className="block px-6 py-3 text-sm text-gray-700 hover:bg-gray-50 hover:text-red-600 transition-colors border-b border-gray-100 last:border-b-0"
-                                                    >
-                                                        {subItem.label}
-                                                    </Link>
+                                                    <div key={subItem.label} className="relative group/sub">
+                                                        <Link
+                                                            to={subItem.path}
+                                                            className="flex items-center justify-between px-6 py-3 text-sm text-black hover:bg-red hover:text-white transition-colors border-b border-gray-100 last:border-b-0"
+                                                        >
+                                                            {subItem.label}
+                                                            {/* @ts-ignore - subMenu property exists dynamically */}
+                                                            {subItem.subMenu && <IoIosArrowForward />}
+                                                        </Link>
+                                                        
+                                                        {/* @ts-ignore */}
+                                                        {subItem.subMenu && (
+                                                            <div className="absolute top-0 left-full w-56 bg-white shadow-lg py-2 opacity-0 invisible group-hover/sub:opacity-100 group-hover/sub:visible transition-all duration-200 transform origin-top-left border-l border-gray-100">
+                                                                {/* @ts-ignore */}
+                                                                {subItem.subMenu.map((nestedItem: any) => (
+                                                                    <Link 
+                                                                        key={nestedItem.label}
+                                                                        to={nestedItem.path}
+                                                                         className="block px-6 py-3 text-sm text-black hover:bg-red hover:text-white transition-colors border-b border-gray-100 last:border-b-0"
+                                                                    >
+                                                                        {nestedItem.label}
+                                                                    </Link>
+                                                                ))}
+                                                            </div>
+                                                        )}
+                                                    </div>
                                                 ))}
                                             </div>
                                         )}
@@ -105,7 +141,7 @@ const Header = () => {
 
                         {/* Language Toggle */}
                         <div className="relative group my-5 hidden lg:block">
-                            <button className="flex items-center gap-1 text-sm font-medium border border-gray-300 rounded-full px-4 py-3 hover:text-red-600 transition-colors text-gray-400">
+                            <button className="cursor-pointer flex items-center gap-1 text-sm font-medium border border-gray-300 rounded-full px-4 py-3 hover:text-red-600 transition-colors text-gray-400">
                                 {language}
                                 <IoIosArrowDown className="group-hover:rotate-180 transition-transform duration-200" />
                             </button>
@@ -114,13 +150,13 @@ const Header = () => {
                             <div className="absolute top-full right-0 mt-2 w-32 bg-white rounded-lg shadow-lg py-2 opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-200 transform origin-top-right border border-gray-100">
                                 <button 
                                     onClick={() => setLanguage('English')}
-                                    className={`w-full text-left px-4 py-2 text-sm hover:bg-gray-50 hover:text-red-600 transition-colors ${language === 'English' ? 'text-red-600 font-medium' : 'text-gray-600'}`}
+                                    className={`cursor-pointer w-full text-left px-4 py-2 text-sm hover:bg-gray-50 hover:text-red-600 transition-colors ${language === 'English' ? 'text-red-600 font-medium' : 'text-gray-600'}`}
                                 >
                                     English
                                 </button>
                                 <button 
                                     onClick={() => setLanguage('Indonesia')}
-                                    className={`w-full text-left px-4 py-2 text-sm hover:bg-gray-50 hover:text-red-600 transition-colors ${language === 'Indonesia' ? 'text-red-600 font-medium' : 'text-gray-600'}`}
+                                    className={`cursor-pointer w-full text-left px-4 py-2 text-sm hover:bg-gray-50 hover:text-red-600 transition-colors ${language === 'Indonesia' ? 'text-red-600 font-medium' : 'text-gray-600'}`}
                                 >
                                     Indonesia
                                 </button>
@@ -158,15 +194,15 @@ const Header = () => {
             >
                 <nav className="py-4">
                     {navItems.map((item) => {
-                        const hasDropdown = dropdownItems[item.label as keyof typeof dropdownItems];
-                        const isOpen = openMobileDropdown === item.label;
+                        const hasDropdown = item.key ? dropdownItems[item.key as keyof typeof dropdownItems] : null;
+                        const isOpen = openMobileDropdown === item.key;
                         
                         return (
                             <div key={item.label} className="border-b border-gray-100">
                                 {hasDropdown ? (
                                     <>
                                         <button 
-                                            onClick={() => toggleMobileDropdown(item.label)}
+                                            onClick={() => toggleMobileDropdown(item.key!)}
                                             className="w-full flex items-center justify-between px-6 py-4 text-lg font-bold text-gray-800 hover:bg-gray-50 hover:text-red-600 transition-colors"
                                         >
                                             {item.label}
