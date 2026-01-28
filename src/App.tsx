@@ -9,6 +9,8 @@ import About from "./pages/About";
 import HelpAndContact from "./pages/HelpAndContact";
 import Products from "./pages/Products";
 
+import StickyContact from "./components/StickyContact";
+
 function App() {
   return (
     <LanguageProvider>
@@ -27,6 +29,7 @@ function App() {
               <Route path="*" element={<Index />} />
             </Routes>
           </main>
+          <StickyContact />
           <Footer />
         </div>
       </Router>
