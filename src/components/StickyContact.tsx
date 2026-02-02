@@ -47,7 +47,7 @@ const StickyContact = () => {
   const [hoveredId, setHoveredId] = useState<string | null>(null);
 
   return (
-    <div className="fixed right-0 top-1/2 -translate-y-1/2 z-50 flex flex-col gap-1 items-end pr-0">
+    <div className="fixed right-0 top-1/2 -translate-y-1/2 z-50 flex flex-col gap-0.5 sm:gap-1 items-end pr-0">
       {contactItems.map((item) => (
         <div
           key={item.id}
@@ -65,11 +65,15 @@ const StickyContact = () => {
                 href={item.href}
                 target={item.id === "whatsapp" ? "_blank" : undefined}
                 rel={item.id === "whatsapp" ? "noopener noreferrer" : undefined}
-                className={`flex flex-col justify-center px-4 py-2 text-white h-[50px] min-w-[180px] shadow-lg rounded-l-md ${item.color} -mr-0.5`}
+                className={`hidden sm:flex flex-col justify-center px-4 py-2 text-white h-[50px] min-w-[180px] shadow-lg rounded-l-md ${item.color} -mr-0.5`}
               >
-                <span className="text-sm font-semibold truncate leading-tight">{item.label}</span>
+                <span className="text-sm font-semibold truncate leading-tight">
+                  {item.label}
+                </span>
                 {item.subLabel && (
-                  <span className="text-[14px] leading-tight">{item.subLabel}</span>
+                  <span className="text-[14px] leading-tight">
+                    {item.subLabel}
+                  </span>
                 )}
               </motion.a>
             )}
@@ -78,11 +82,13 @@ const StickyContact = () => {
             href={item.href}
             target={item.id === "whatsapp" ? "_blank" : undefined}
             rel={item.id === "whatsapp" ? "noopener noreferrer" : undefined}
-            className={`flex items-center justify-center w-[55px] h-[55px] text-white shadow-lg transition-all duration-300 ${
-              hoveredId === item.id ? "brightness-100" : "bg-black/50 hover:bg-black"
+            className={`flex items-center justify-center w-[40px] h-[40px] sm:w-[55px] sm:h-[55px] text-white shadow-lg transition-all duration-300 ${
+              hoveredId === item.id
+                ? "brightness-100"
+                : "bg-black/50 hover:bg-black"
             }`}
           >
-            {item.icon}
+            <span className="text-base sm:text-xl">{item.icon}</span>
           </a>
         </div>
       ))}
