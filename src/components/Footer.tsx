@@ -171,13 +171,11 @@ const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="pt-6 sm:pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4">
-          <div className="text-xs sm:text-sm text-white flex flex-col md:flex-row gap-2 md:gap-8 text-center md:text-left">
+          <div className="text-xs sm:text-sm text-white flex flex-col md:flex-row gap-2 md:gap-2 text-center md:text-left">
             <p>
               {t("footer.copyright")} &nbsp; &nbsp; &nbsp;{" "}
-              {t("footer.seoLabel")} &nbsp; &nbsp; &nbsp;{" "}
-              {t("footer.poweredBy")}
             </p>
-            <p>ICP 12345678-1</p>
+            <p>Developed by <a href="https://www.rendiero.site" target="_blank" rel="noopener noreferrer" className="font-bold">rendiero.</a></p>
           </div>
 
           <div className="flex items-center gap-3 sm:gap-4">

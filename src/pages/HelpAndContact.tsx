@@ -116,11 +116,11 @@ const HelpAndContact = () => {
                 {t("navigation.helpContact")}
               </h3>
               <div className="text-white text-md space-y-2">
-                <p>{t("contactInfo.tel")}: 0086-593-6685366</p>
+                <p>{t("contactInfo.mobileWhatsapp")}: +62 0812 9158 1499</p>
+                {/* <p>{t("contactInfo.tel")}: 0086-593-6685366</p>
                 <p className="pl-6">0086-593-6382948</p>
-                <p>{t("contactInfo.fax")}: 0086-593-6582997</p>
-                <p>{t("contactInfo.mobileWhatsapp")}: +86 18650536888</p>
-                <p>{t("contactInfo.email")}: Supergen@e-Supergen.com</p>
+                <p>{t("contactInfo.fax")}: 0086-593-6582997</p> */}
+                <p>{t("contactInfo.email")}: supergensale@gmail.com</p>
               </div>
             </div>
           </div>

@@ -176,7 +176,7 @@ const About = () => {
                 </strong>
                 {t("contactInfo.headquarterAddress")}
               </p>
-              <p>
+              {/* <p>
                 <strong className="block text-gray-800 mb-1">
                   {t("contactInfo.tel")}:
                 </strong>
@@ -189,18 +189,18 @@ const About = () => {
                   {t("contactInfo.fax")}:{" "}
                 </strong>
                 0086 593 6582997
-              </p>
+              </p> */}
               <p>
                 <strong className="text-gray-800 mb-1">
                   {t("contactInfo.mobileWhatsapp")}:{" "}
                 </strong>
-                +86 18650536888
+                +62 0812 9158 1499
               </p>
               <p>
                 <strong className="text-gray-800 mb-1">
                   {t("contactInfo.email")}:{" "}
                 </strong>
-                Supergen@e-Supergen.com
+                supergensale@gmail.com
               </p>
             </div>
           </div>
