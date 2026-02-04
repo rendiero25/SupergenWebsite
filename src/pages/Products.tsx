@@ -356,7 +356,7 @@ const Products = () => {
                 <div
                   className={`overflow-hidden transition-all duration-300 ${isBrushlessOpen ? "max-h-[500px]" : "max-h-0"}`}
                 >
-                  {/* Yihua Product */}
+                  {/* Supergen Product */}
                   <Link
                     to="/products/brushless-alternator/brushless-alternator/yihua"
                     className={`flex items-center gap-2 px-5 py-3 text-sm transition-colors border-b border-gray-100 ${
@@ -369,7 +369,7 @@ const Products = () => {
                     <span
                       className={`w-1.5 h-1.5 rounded-full ${mainCategorySlug === "brushless-alternator" && brandSlug === "yihua" ? "bg-[#E60013]" : "bg-gray-300"}`}
                     ></span>
-                    Yihua
+                    Supergen
                   </Link>
                 </div>
               </div>
@@ -413,7 +413,7 @@ const Products = () => {
                 <strong className="text-gray-800 mb-1">
                   {t("contactInfo.email")}:{" "}
                 </strong>
-                yihua@e-yihua.com
+                Supergen@e-Supergen.com
               </p>
             </div>
           </div>
@@ -505,13 +505,13 @@ const Products = () => {
                     </div>
                     <div className="flex items-center gap-2 text-sm text-gray-600">
                       <MdEmail className="text-black w-7 h-7" />
-                      <span>yihua@e-yihua.com</span>
+                      <span>Supergen@e-Supergen.com</span>
                     </div>
 
                     {/* Action Buttons */}
                     <div className="flex gap-4 pt-4">
                       <a
-                        href="mailto:yihua@e-yihua.com?subject=Inquiry about products"
+                        href="mailto:Supergen@e-Supergen.com?subject=Inquiry about products"
                         className="flex items-center gap-2 bg-[#E60013] hover:bg-red-700 text-white px-10 py-3 font-medium transition-colors"
                       >
                         <MdEmail />

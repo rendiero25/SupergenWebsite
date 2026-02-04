@@ -120,7 +120,7 @@ const HelpAndContact = () => {
                 <p className="pl-6">0086-593-6382948</p>
                 <p>{t("contactInfo.fax")}: 0086-593-6582997</p>
                 <p>{t("contactInfo.mobileWhatsapp")}: +86 18650536888</p>
-                <p>{t("contactInfo.email")}: yihua@e-yihua.com</p>
+                <p>{t("contactInfo.email")}: Supergen@e-Supergen.com</p>
               </div>
             </div>
           </div>
@@ -134,33 +134,33 @@ const HelpAndContact = () => {
               address: "Address: Gouripur, Mudonpur, Bandar, Narayanganj",
               mobile: "Mobile: +880-1911311116, +880-1768652697",
               whatsapp: "Whatsapp/Wechat: +880-1711391979",
-              email: "Email: yihua@e-yihua.com",
+              email: "Email: Supergen@e-Supergen.com",
             },
             {
               title: t("contact.philippinesWarehouse"),
               address:
                 "Address: No. 1111, Dr. A.Santos, Stner J., Wagil St, Brgy. San Dionisio, Paranaque City",
               mobile: "Mobile/Whatsapp/Viber: +63 917 714 5888",
-              email: "Email: yihua@e-yihua.com",
+              email: "Email: Supergen@e-Supergen.com",
             },
             {
               title: t("contact.indonesiaWarehouse"),
               address:
                 "Address: Gudang Tunas Bitung No.7 Blok A2, Kadu, Curug, Tangerang, Banten",
               mobile: "Mobile/Whatsapp/Viber: +62 812 9900 1888",
-              email: "Email: yihua@e-yihua.com",
+              email: "Email: Supergen@e-Supergen.com",
             },
             {
               title: t("contact.dubaiWarehouse"),
               address: "Address: Dubai DUBAI, UAE",
               mobile: "Mobile/Whatsapp/Viber: +971 528221527",
-              email: "Email: yihua@e-yihua.com",
+              email: "Email: Supergen@e-Supergen.com",
             },
             {
               title: t("contact.nigeriaWarehouse"),
               address: "Address: Lagos, Nigeria",
               mobile: "Mobile/Whatsapp: +234 903 005 9226",
-              email: "Email: yihua@e-yihua.com",
+              email: "Email: Supergen@e-Supergen.com",
             },
           ].map((wh, idx) => (
             <div

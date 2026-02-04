@@ -200,7 +200,7 @@ const About = () => {
                 <strong className="text-gray-800 mb-1">
                   {t("contactInfo.email")}:{" "}
                 </strong>
-                yihua@e-yihua.com
+                Supergen@e-Supergen.com
               </p>
             </div>
           </div>

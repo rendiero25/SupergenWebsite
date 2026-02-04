@@ -134,10 +134,10 @@ const Footer = () => {
               </ul>
             </div>
 
-            {/* About Yihua */}
+            {/* About Supergen */}
             <div>
               <h3 className="font-bold mb-1 text-base sm:text-lg uppercase tracking-wide">
-                {t("navigation.aboutYihua")}
+                {t("navigation.aboutSupergen")}
               </h3>
               <ul className="text-sm sm:text-md text-white flex flex-row gap-2 sm:gap-10">
                 <li>

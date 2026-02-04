@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { IoSearchOutline } from "react-icons/io5";
 import { IoIosArrowDown, IoIosArrowForward } from "react-icons/io";
 import { HiMenuAlt3, HiX } from "react-icons/hi";
-import logo from "../assets/header/logo.png";
+import logo from "../assets/header/logo.jpeg";
 import { useLanguage } from "../context/LanguageContext";
 
 const Header = () => {
@@ -55,7 +55,7 @@ const Header = () => {
       { label: t("solutions.healthcare"), path: "/solutions/healthcare" },
       { label: t("solutions.utilities"), path: "/solutions/utilities" },
     ],
-    "About Yihua": [
+    About: [
       { label: t("about.corporateProfile"), path: "/about/corporate-profile" },
       { label: t("about.factoryOverview"), path: "/about/factory-overview" },
     ],
@@ -64,7 +64,7 @@ const Header = () => {
   const navItems = [
     { label: t("navigation.products"), path: "/products", key: "Products" },
     { label: t("navigation.solutions"), path: "/solutions", key: "Solutions" },
-    { label: t("navigation.aboutYihua"), path: "/about", key: "About Yihua" },
+    { label: t("navigation.about"), path: "/about", key: "About" },
     { label: t("navigation.helpContact"), path: "/contact", key: null },
   ];
 
@@ -83,7 +83,7 @@ const Header = () => {
         <div className="container mx-auto px-4 md:px-8 lg:px-15 xl:px-15 2xl:px-20 3xl:px-0 flex items-stretch justify-between h-full">
           {/* Logo */}
           <Link to="/" className="shrink-0 flex items-center">
-            <img src={logo} alt="Yihua Logo" className="h-10 md:h-14 w-auto" />
+            <img src={logo} alt="Yihua Logo" className="h-8 w-auto" />
           </Link>
 
           {/* Navigation & Actions */}

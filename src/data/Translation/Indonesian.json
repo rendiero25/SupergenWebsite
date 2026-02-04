@@ -18,7 +18,7 @@
   "navigation": {
     "products": "Produk",
     "solutions": "Solusi",
-    "aboutYihua": "Tentang Yihua",
+    "about": "Tentang",
     "helpContact": "Bantuan & Kontak"
   },
   "products": {
@@ -50,12 +50,12 @@
     "utilities": "Utilitas"
   },
   "about": {
-    "title": "Tentang Yihua",
+    "title": "Tentang Supergen",
     "corporateProfile": "Profil Perusahaan",
     "factoryOverview": "Gambaran Pabrik",
     "newsCenter": "Pusat Berita",
     "certificates": "Sertifikat",
-    "corporateDescription1": "Fujian Yihua Electrical Machinery Co., Ltd. didirikan pada tahun 1994, berlokasi di \"Kota Generator China\"– Kota Fu'an, yang merupakan basis utama nasional untuk semua jenis generator. Kami adalah perusahaan utama di Fu'an, memiliki hak ekspor produk sendiri. Perusahaan kami berkomitmen untuk mengejar inovasi teknologi, mengembangkan dan memproduksi berbagai generator dan set generator selama puluhan tahun.",
+    "corporateDescription1": "Fujian Supergen Electrical Machinery Co., Ltd. didirikan pada tahun 1994, berlokasi di \"Kota Generator China\"– Kota Fu'an, yang merupakan basis utama nasional untuk semua jenis generator. Kami adalah perusahaan utama di Fu'an, memiliki hak ekspor produk sendiri. Perusahaan kami berkomitmen untuk mengejar inovasi teknologi, mengembangkan dan memproduksi berbagai generator dan set generator selama puluhan tahun.",
     "mainProductsTitle": "Produk utama kami meliputi item-item berikut:",
     "mainProductsList1": "Generator sinkron A.C. untuk darat & laut (generator sinkron eksitasi harmonik ketiga fase tunggal/tiga seri ST&STC; generator sinkron eksitasi majemuk tiga fase seri TFX; generator sinkron tanpa sikat tiga fase seri TFW2);",
     "mainProductsList2": "Set generator diesel (tipe terbuka, tipe senyap, tipe trailer dan set generator diesel start/stop otomatis). Produk-produk ini laris baik di dalam maupun luar negeri. Generator sinkron eksitasi majemuk tiga fase TFKX-H dan seri TFW-H tanpa sikat telah memperoleh sertifikasi dari China Classification Society (CCS) serta Register of Fishing Vessel of the People's Republic of China (ZY). Selain itu, generator sikat darat, generator tanpa sikat dan generator diesel telah mendapatkan sertifikasi \"CE\".",
@@ -64,7 +64,7 @@
   "contact": {
     "title": "Formulir Kontak",
     "partnerWithUs": "Bermitra Dengan Kami",
-    "formDescription": "Silakan isi formulir untuk menghubungi ahli YIHUA.",
+    "formDescription": "Silakan isi formulir untuk menghubungi ahli Supergen.",
     "headquarters": "Kantor Pusat",
     "helpContactTitle": "Bantuan & Kontak",
     "emailPlaceholder": "Email*",
@@ -92,7 +92,7 @@
   "index": {
     "dedicationTitle": "Dedikasi untuk Membentuk Masa Depan yang Lebih Kuat",
     "pioneeringTitle": "Merintis Masa Depan",
-    "pioneeringHeading": "Tanpa Henti Mengejar Solusi Daya Terobosan untuk Klien Yihua yang Sangat Dihargai",
+    "pioneeringHeading": "Tanpa Henti Mengejar Solusi Daya Terobosan untuk Klien Supergen yang Sangat Dihargai",
     "pioneeringDesc1": "Pelopor dalam solusi daya, memberikan kinerja tinggi secara konsisten.",
     "pioneeringDesc2": "Dirancang untuk daya dan keandalan berkelanjutan.",
     "pioneeringDesc3": "Berkomitmen untuk mendukung klien kami dan menghormati lingkungan.",
@@ -100,10 +100,10 @@
     "fuelingTitle": "Mendorong Kemajuan dan Pertumbuhan Anda dengan Solusi Energi Kami"
   },
   "footer": {
-    "brandName": "YIHUA GENSET",
+    "brandName": "SUPERGEN GENSET",
     "tagline": "Kami Akan Selalu Dekat dengan yang Terbaik",
-    "description": "Yihua Genset adalah produsen set generator kelas atas dengan keahlian 30 tahun di China, didorong oleh inovasi dan keandalan untuk memberikan solusi energi yang efisien untuk masa depan yang berkelanjutan. Sebagai perusahaan yang berfokus pada klien dan berorientasi hasil, kami berusaha memberikan layanan luar biasa, memberdayakan mitra di seluruh dunia dengan pembangkit listrik yang dapat diandalkan. Percayakan kepada kami untuk mengenergi kesuksesan Anda.",
-    "copyright": "© 2024 Fujian Yihua Electrical Machinery Co., Ltd.",
+    "description": "Supergen Genset adalah produsen set generator kelas atas dengan keahlian 30 tahun di China, didorong oleh inovasi dan keandalan untuk memberikan solusi energi yang efisien untuk masa depan yang berkelanjutan. Sebagai perusahaan yang berfokus pada klien dan berorientasi hasil, kami berusaha memberikan layanan luar biasa, memberdayakan mitra di seluruh dunia dengan pembangkit listrik yang dapat diandalkan. Percayakan kepada kami untuk mengenergi kesuksesan Anda.",
+    "copyright": "© 2024 Fujian Supergen Electrical Machinery Co., Ltd.",
     "seoLabel": "Label SEO",
     "poweredBy": "Didukung oleh www.300.cn"
   },
@@ -115,7 +115,7 @@
   "heroSlider": {
     "slide1": {
       "heading": "Jelajahi Berbagai Set Generator Kami | 5-3000kVA",
-      "description": "Desain kokoh kami, kemampuan adaptasi ke berbagai industri, dan efisiensi energi menjadikan kami solusi terbaik untuk pasokan listrik tanpa gangguan. Pilih Yihua dan rasakan kinerja, kualitas, dan ketenangan pikiran yang tak tertandingi.",
+      "description": "Desain kokoh kami, kemampuan adaptasi ke berbagai industri, dan efisiensi energi menjadikan kami solusi terbaik untuk pasokan listrik tanpa gangguan. Pilih Supergen dan rasakan kinerja, kualitas, dan ketenangan pikiran yang tak tertandingi.",
       "buttonName": "Jelajahi Lebih Lanjut"
     },
     "slide2": {
@@ -125,11 +125,11 @@
     },
     "slide3": {
       "heading": "Membangun Kepercayaan, Memberikan Keunggulan | 30 Tahun Keahlian",
-      "description": "Perjalanan ke Yihua: Temukan Warisan, Nilai, dan Pengejaran Keunggulan Kami.",
+      "description": "Perjalanan ke Supergen: Temukan Warisan, Nilai, dan Pengejaran Keunggulan Kami.",
       "buttonName": "Pelajari Lebih Lanjut"
     },
     "slide4": {
-      "heading": "Terhubung dengan Yihua | Mitra Daya Andal Anda",
+      "heading": "Terhubung dengan Supergen | Mitra Daya Andal Anda",
       "description": "Hubungi kami hari ini dan rasakan layanan pelanggan yang tak tertandingi, solusi daya yang disesuaikan, dan ketenangan pikiran untuk semua kebutuhan energi Anda.",
       "buttonName": "Bantuan & Kontak"
     }
@@ -151,4 +151,3 @@
     "brushlessAlternator": "Alternator tanpa sikat adalah komponen canggih dari set generator yang menghasilkan daya listrik melalui proses yang efisien dan andal. Berbeda dengan alternator tradisional dengan sikat, alternator tanpa sikat menggunakan medan magnet yang diciptakan oleh magnet permanen atau eksiter untuk menghasilkan listrik."
   }
 }
-

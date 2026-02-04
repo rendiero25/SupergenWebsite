@@ -18,7 +18,7 @@
   "navigation": {
     "products": "Products",
     "solutions": "Solutions",
-    "aboutYihua": "About Yihua",
+    "about": "About",
     "helpContact": "Help & Contact"
   },
   "products": {
@@ -50,12 +50,12 @@
     "utilities": "Utilities"
   },
   "about": {
-    "title": "About Yihua",
+    "title": "About Supergen",
     "corporateProfile": "Corporate Profile",
     "factoryOverview": "Factory Overview",
     "newsCenter": "News Center",
     "certificates": "Certificates",
-    "corporateDescription1": "Fujian Yihua Electrical Machinery Co., Ltd. was founded in 1994, located in \"Generator City of China\"– Fu'an City, which is the national key base for all kinds of generators. We are a key enterprise in Fu'an, having our own right of exporting the products. Our company is committed to pursuing technology innovation, developing and manufacturing various generators and generator sets for decades.",
+    "corporateDescription1": "Fujian Supergen Electrical Machinery Co., Ltd. was founded in 1994, located in \"Generator City of China\"– Fu'an City, which is the national key base for all kinds of generators. We are a key enterprise in Fu'an, having our own right of exporting the products. Our company is committed to pursuing technology innovation, developing and manufacturing various generators and generator sets for decades.",
     "mainProductsTitle": "Our main products include the following items:",
     "mainProductsList1": "Land & marine used A.C. synchronous generators (ST&STC series single/three phase third-harmonic excitation synchronous generator; TFX series three-phase compound excitation synchronous generator; TFW2 series three phase brushless synchronous generator);",
     "mainProductsList2": "Diesel generator sets (open type, silent type, trailer type and automatic start/stop diesel generator set). These products sell well both at home and abroad. The TFKX-H three phase compound excitation and TFW-H series brushless synchronous generators have obtained the certifications of China Classification Society (CCS) as well as Register of Fishing Vessel of the People's Republic of China (ZY). Besides, the land used brush, brushless generators and the diesel generators have got the \"CE\" certification.",
@@ -64,7 +64,7 @@
   "contact": {
     "title": "Contact Form",
     "partnerWithUs": "Partner With Us",
-    "formDescription": "Please fill out the form to contact an YIHUA expert.",
+    "formDescription": "Please fill out the form to contact an Supergen expert.",
     "headquarters": "Headquarter",
     "helpContactTitle": "Help & Contact",
     "emailPlaceholder": "Email*",
@@ -92,7 +92,7 @@
   "index": {
     "dedicationTitle": "Dedication to Shaping a More Powerful Future",
     "pioneeringTitle": "Pioneering The Future",
-    "pioneeringHeading": "Relentlessly Pursuing Groundbreaking Power Solutions for Yihua's Highly Valued Clients",
+    "pioneeringHeading": "Relentlessly Pursuing Groundbreaking Power Solutions for Supergen's Highly Valued Clients",
     "pioneeringDesc1": "A pioneer in power solutions, delivering high performance consistently.",
     "pioneeringDesc2": "Designed for continuous power and dependability.",
     "pioneeringDesc3": "Committed to supporting our clients and respecting the environment.",
@@ -100,10 +100,10 @@
     "fuelingTitle": "Fueling Your Progress and Growth with Our Energy Solutions"
   },
   "footer": {
-    "brandName": "YIHUA GENSET",
+    "brandName": "Supergen GENSET",
     "tagline": "We Will Always Near The Best",
-    "description": "Yihua Genset is a top-tier generator set manufacturer with 30 years of expertise in China, driven by innovation and reliability to deliver efficient energy solutions for a sustainable future. As a client-focused and results-driven company, we strive to provide exceptional service, empowering partners worldwide with dependable power generation. Trust in us to energize your success.",
-    "copyright": "© 2024 Fujian Yihua Electrical Machinery Co., Ltd.",
+    "description": "Supergen Genset is a top-tier generator set manufacturer with 30 years of expertise in China, driven by innovation and reliability to deliver efficient energy solutions for a sustainable future. As a client-focused and results-driven company, we strive to provide exceptional service, empowering partners worldwide with dependable power generation. Trust in us to energize your success.",
+    "copyright": "© 2024 Fujian Supergen Electrical Machinery Co., Ltd.",
     "seoLabel": "SEO label",
     "poweredBy": "Powered by www.300.cn"
   },
@@ -115,7 +115,7 @@
   "heroSlider": {
     "slide1": {
       "heading": "Explore Our Wide Range of Generator Sets | 5-3000kVA",
-      "description": "Our robust design, adaptability to various industries, and energy efficiency make us the ultimate solution for uninterrupted power supply. Choose Yihua and experience unparalleled performance, quality, and peace of mind.",
+      "description": "Our robust design, adaptability to various industries, and energy efficiency make us the ultimate solution for uninterrupted power supply. Choose Supergen and experience unparalleled performance, quality, and peace of mind.",
       "buttonName": "Explore More"
     },
     "slide2": {
@@ -125,11 +125,11 @@
     },
     "slide3": {
       "heading": "Engineering Trust, Delivering Excellence | 30 Years of Expertise",
-      "description": "Journey into Yihua: Uncover our Legacy, Values, and Pursuit of Excellence.",
+      "description": "Journey into Supergen: Uncover our Legacy, Values, and Pursuit of Excellence.",
       "buttonName": "Learn More"
     },
     "slide4": {
-      "heading": "Connect with Yihua | Your Reliable Power Partner",
+      "heading": "Connect with Supergen | Your Reliable Power Partner",
       "description": "Reach out to us today and experience unparalleled customer service, tailored power solutions, and peace of mind for all your energy needs.",
       "buttonName": "Help & Contact"
     }
@@ -151,4 +151,3 @@
     "brushlessAlternator": "A brushless alternator is an advanced component of a generator set that produces electrical power through an efficient and reliable process. Unlike traditional alternators with brushes, a brushless alternator uses a magnetic field created by a permanent magnet or an exciter to generate electricity."
   }
 }
-
